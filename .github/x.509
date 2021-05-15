@@ -1,0 +1,43 @@
+Use x.509 Certificates to authenticate the client – A certificate is basically a trusted signature between the client and the MongoDB Server.
+
+So instead of entering a user name and password to connect to the server, a certificate is passed between the client and the MongoDB Server. The client will basically have a client certificate which will be passed to the server to authenticate into the server. Each client certificate corresponds to single MongoDB user. So each user from MongoDB has to have their own certificate in order to authenticated to the MongoDB server.
+
+To ensure this works, the following steps must be followed;
+
+A valid certificate must be bought from a valid third party authority and install it on the MongoDB Server.
+The Client certificate must have the following properties (A single Certificate Authority (CA) must issue the certificates for both the client and the server . The Client certificates must contain the following fields – keyUsage and extendedKeyUsage.
+Each user who connects to the MongDB Server needs to have a separate certificate.
+Mongodb Authentication with Kerberos
+Step 1) Configure MongoDB with Kerberos Authentication on windows – Kerberos is an authentication mechanism used in large client-server environments.
+
+
+It is a very secure mechanism wherein the password is only allowed if it is encrypted. Well, MongoDB has the facility to authenticate against an existing Kerberos based system.
+
+Step 2) Start the mongod.exe server process.
+
+Step 3) Start the mongo.exe client process and connect to the MongoDB server.
+
+Step 4) Add a user in MongoDB, which is basically a Kerberos principal name to the $external database. The $external database is a special database which tells MongoDB to authenticate this user against a Kerberos system instead of its own internal system.
+
+Mongodb authentication with Kerberos
+
+use $external
+db.createUser(
+{
+	user: "user1@example.NET",
+
+	roles:[
+	{
+		role: "read" , db:"Marketing"}
+		
+	}
+		  ]
+}
+Step 5) Start mongod.exe with Kerberos support by using the following command
+
+mongod.exe –auth –setParameter authenticationMechanisms=GSSAPI
+And then you can now connect with the Kerberos user and Kerberos authentication to the database.
+
+Summary:
+
+There are various authentication mechanisms to provide better security in databases. One example is the usage of certificates to authenticate users instead of using usernames and passwords.
