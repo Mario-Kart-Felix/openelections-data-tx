@@ -1,0 +1,93 @@
+createIndex()
+Creating an Index in MongoDB is done by using the "createIndex" method.
+
+The following example shows how add index to collection. Let's assume that we have our same Employee collection which has the Field names of "Employeeid" and "EmployeeName".
+
+MongoDB Indexing Tutorial - createIndex()
+
+db.Employee.createIndex({Employeeid:1})
+Code Explanation:
+
+The createIndex method is used to create an index based on the "Employeeid" of the document.
+The '1' parameter indicates that when the index is created with the "Employeeid" Field values, they should be sorted in ascending order. Please note that this is different from the _id field (The id field is used to uniquely identify each document in the collection) which is created automatically in the collection by MongoDB. The documents will now be sorted as per the Employeeid and not the _id field.
+If the command is executed successfully, the following Output will be shown:
+
+Output:
+
+MongoDB Indexing Tutorial - createIndex()
+
+The numIndexesBefore: 1 indicates the number of Field values (The actual fields in the collection) which were there in the indexes before the command was run. Remember that each collection has the _id field which also counts as a Field value to the index. Since the _id index field is part of the collection when it is initially created, the value of numIndexesBefore is 1.
+The numIndexesAfter: 2 indicates the number of Field values which were there in the indexes after the command was run.
+Here the "ok: 1" output specifies that the operation was successful, and the new index is added to the collection.
+The above code shows how to create an index based on one field value, but one can also create an index based on multiple field values.
+
+The following example shows how this can be done;
+
+MongoDB Indexing Tutorial - createIndex()
+
+db.Employee.createIndex({Employeeid:1, EmployeeName:1])
+Code Explanation:
+
+The createIndex method now takes into account multiple Field values which will now cause the index to be created based on the "Employeeid" and "EmployeeName". The Employeeid:1 and EmployeeName:1 indicates that the index should be created on these 2 field values with the :1 indicating that it should be in ascending order.
+How to Find Indexes: getindexes()
+Finding an Index in MongoDB is done by using the "getIndexes" method.
+
+The following example shows how this can be done;
+
+MongoDB Indexing Tutorial - createIndex()
+
+db.Employee.getIndexes()
+Code Explanation:
+
+The getIndexes method is used to find all of the indexes in a collection.
+If the command is executed successfully, the following Output will be shown:
+
+Output:
+
+MongoDB Indexing Tutorial - createIndex()
+
+The output returns a document which just shows that there are 2 indexes in the collection which is the _id field, and the other is the Employee id field. The :1 indicates that the field values in the index are created in ascending order.
+How to Drop Indexes: dropindex()
+Removing an Index in MongoDB is done by using the dropIndex method.
+
+The following example shows how this can be done;
+
+MongoDB Indexing Tutorial - createIndex()
+
+db.Employee.dropIndex(Employeeid:1)
+Code Explanation:
+
+The dropIndex method takes the required Field values which needs to be removed from the Index.
+If the command is executed successfully, the following Output will be shown:
+
+Output:
+
+MongoDB Indexing Tutorial - createIndex()
+
+The nIndexesWas: 3 indicates the number of Field values which were there in the indexes before the command was run. Remember that each collection has the _id field which also counts as a Field value to the index.
+The ok: 1 output specifies that the operation was successful, and the "Employeeid" field is removed from the index.
+To remove all of the indexes at once in the collection, one can use the dropIndexes command.
+
+The following example shows how this can be done.
+
+MongoDB Indexing Tutorial - createIndex()
+
+db.Employee.dropIndex()
+Code Explanation:
+
+The dropIndexes method will drop all of the indexes except for the _id index.
+If the command is executed successfully, the following Output will be shown:
+
+Output:
+
+MongoDB Indexing Tutorial - createIndex()
+
+The nIndexesWas: 2 indicates the number of Field values which were there in the indexes before the command was run.
+Remember again that each collection has the _id field which also counts as a Field value to the index, and that will not be removed by MongoDB and that is what this message indicates.
+The ok: 1 output specifies that the operation was successful.
+Summary
+
+Defining indexes are important for faster and efficient searching of documents in a collection.
+Indexes can be created by using the createIndex method. Indexes can be created on just one field or multiple field values.
+Indexes can be found by using the getIndexes method.
+Indexes can be removed by using the dropIndex for single indexes or dropIndexes for dropping all indexes.
