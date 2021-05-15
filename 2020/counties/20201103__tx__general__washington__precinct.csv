@@ -1,0 +1,2309 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Washington,Precinct 101,Registered Voters,,,,1297,,,
+Washington,Precinct 101,Ballots Cast,,,,932,107,548,277
+Washington,Precinct 101,Ballots Cast - Blank,,,,0,0,0,0
+Washington,Precinct 101,President,,REP,Donald J. Trump / Michael R. Pence,598,34,388,176
+Washington,Precinct 101,President,,DEM,Joseph R. Biden / Kamala D. Harris,320,69,153,98
+Washington,Precinct 101,President,,LIB,"Jo Jorgensen / Jeremy ""Spike"" Cohen",9,3,5,1
+Washington,Precinct 101,President,,GRN,Howie Hawkins / Angela Walker,1,0,1,0
+Washington,Precinct 101,President,,,Write-ins,0,0,0,0
+Washington,Precinct 101,President,,,Over Votes,1,0,0,1
+Washington,Precinct 101,President,,,Under Votes,3,1,1,1
+Washington,Precinct 101,U.S. Senate,,REP,John Cornyn,600,36,390,174
+Washington,Precinct 101,U.S. Senate,,DEM,"DEM Mary ""MJ"" Hegar",309,68,145,96
+Washington,Precinct 101,U.S. Senate,,LIB,Kerry Douglas McKennon,8,2,4,2
+Washington,Precinct 101,U.S. Senate,,GRN,David B. Collins,2,0,1,1
+Washington,Precinct 101,U.S. Senate,,,Write-ins,1,1,0,0
+Washington,Precinct 101,U.S. Senate,,,Over Votes,1,0,0,1
+Washington,Precinct 101,U.S. Senate,,,Under Votes,10,0,8,2
+Washington,Precinct 101,U.S. House,10,REP,Michael McCaul,602,44,382,176
+Washington,Precinct 101,U.S. House,10,DEM,Mike Siegel,300,62,144,94
+Washington,Precinct 101,U.S. House,10,LIB,Roy Eriksen,13,1,9,3
+Washington,Precinct 101,U.S. House,10,,Over Votes,0,0,0,0
+Washington,Precinct 101,U.S. House,10,,Under Votes,16,0,13,3
+Washington,Precinct 101,Railroad Commissioner,,REP,"James ""Jim"" Wright",597,40,382,175
+Washington,Precinct 101,Railroad Commissioner,,DEM,Chrysta Castaneda,303,65,148,90
+Washington,Precinct 101,Railroad Commissioner,,LIB,Matt Sterett,16,2,11,3
+Washington,Precinct 101,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",2,0,1,1
+Washington,Precinct 101,Railroad Commissioner,,,Over Votes,0,0,0,0
+Washington,Precinct 101,Railroad Commissioner,,,Under Votes,13,0,6,7
+Washington,Precinct 101,Chief Justice Supreme Court,,REP,Nathan Hecht,595,42,380,173
+Washington,Precinct 101,Chief Justice Supreme Court,,DEM,Amy Clark Meachum,301,63,147,91
+Washington,Precinct 101,Chief Justice Supreme Court,,LIB,Mark Ash,18,2,11,5
+Washington,Precinct 101,Chief Justice Supreme Court,,,Over Votes,0,0,0,0
+Washington,Precinct 101,Chief Justice Supreme Court,,,Under Votes,17,0,10,7
+Washington,Precinct 101,Justice Supreme Court Pl 6,,REP,Jane Bland,605,43,386,176
+Washington,Precinct 101,Justice Supreme Court Pl 6,,DEM,Kathy Cheng,300,61,148,91
+Washington,Precinct 101,Justice Supreme Court Pl 6,,,Over Votes,0,0,0,0
+Washington,Precinct 101,Justice Supreme Court Pl 6,,,Under Votes,26,3,14,9
+Washington,Precinct 101,Justice Supreme Court Pl 7,,REP,Jeff Boyd,589,38,381,170
+Washington,Precinct 101,Justice Supreme Court Pl 7,,DEM,Staci Williams,305,66,145,94
+Washington,Precinct 101,Justice Supreme Court Pl 7,,LIB,William Bryan Strange III,16,2,9,5
+Washington,Precinct 101,Justice Supreme Court Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 101,Justice Supreme Court Pl 7,,,Under Votes,21,1,13,7
+Washington,Precinct 101,Justice Supreme Court Pl 8,,REP,Brett Busby,587,40,379,168
+Washington,Precinct 101,Justice Supreme Court Pl 8,,DEM,Gisela D. Triana,304,64,147,93
+Washington,Precinct 101,Justice Supreme Court Pl 8,,LIB,Tom Oxford,19,2,8,9
+Washington,Precinct 101,Justice Supreme Court Pl 8,,,Over Votes,0,0,0,0
+Washington,Precinct 101,Justice Supreme Court Pl 8,,,Under Votes,21,1,14,6
+Washington,Precinct 101,Judge Ct of Crim App Pl 3,,REP,Bert Richardson,598,40,384,174
+Washington,Precinct 101,Judge Ct of Crim App Pl 3,,DEM,Elizabeth Davis Frizell,309,66,149,94
+Washington,Precinct 101,Judge Ct of Crim App Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 101,Judge Ct of Crim App Pl 3,,,Under Votes,24,1,15,8
+Washington,Precinct 101,Judge Ct of Crim App Pl 4,,REP,Kevin Patrick Yeary,594,40,383,171
+Washington,Precinct 101,Judge Ct of Crim App Pl 4,,DEM,Tina Clinton,303,66,146,91
+Washington,Precinct 101,Judge Ct of Crim App Pl 4,,,Over Votes,0,0,0,0
+Washington,Precinct 101,Judge Ct of Crim App Pl 4,,,Under Votes,34,1,19,14
+Washington,Precinct 101,Judge Ct of Crim App Pl 9,,REP,David Newell,596,40,383,173
+Washington,Precinct 101,Judge Ct of Crim App Pl 9,,DEM,Brandon Birmingham,303,65,146,92
+Washington,Precinct 101,Judge Ct of Crim App Pl 9,,,Over Votes,0,0,0,0
+Washington,Precinct 101,Judge Ct of Crim App Pl 9,,,Under Votes,32,2,19,11
+Washington,Precinct 101,Member State BoE Dist 10,,REP,Tom Maynard,584,37,377,170
+Washington,Precinct 101,Member State BoE Dist 10,,DEM,Marsha Burnett-Webster,304,66,144,94
+Washington,Precinct 101,Member State BoE Dist 10,,LIB,Trip Seibold,18,2,11,5
+Washington,Precinct 101,Member State BoE Dist 10,,,Over Votes,0,0,0,0
+Washington,Precinct 101,Member State BoE Dist 10,,,Under Votes,25,2,16,7
+Washington,Precinct 101,State Senate,18,REP,Lois W. Kolkhorst,636,48,397,191
+Washington,Precinct 101,State Senate,18,DEM,Michael Antalan,274,57,135,82
+Washington,Precinct 101,State Senate,18,,Over Votes,0,0,0,0
+Washington,Precinct 101,State Senate,18,,Under Votes,21,2,16,3
+Washington,Precinct 101,State Representative,13,REP,Ben Leman,667,49,418,200
+Washington,Precinct 101,State Representative,13,,Over Votes,0,0,0,0
+Washington,Precinct 101,State Representative,13,,Under Votes,264,58,130,76
+Washington,Precinct 101,Chief Justice 14th Ct of App Dist,,REP,Tracy Elizabeth Christopher,584,38,374,172
+Washington,Precinct 101,Chief Justice 14th Ct of App Dist,,DEM,Jane Robinson,312,68,150,94
+Washington,Precinct 101,Chief Justice 14th Ct of App Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 101,Chief Justice 14th Ct of App Dist,,,Under Votes,35,1,24,10
+Washington,Precinct 101,Justice 1st Ct of App Dist Pl 3,,REP,Russell Lloyd,585,39,375,171
+Washington,Precinct 101,Justice 1st Ct of App Dist Pl 3,,DEM,Veronica Rivas-Molloy,310,67,149,94
+Washington,Precinct 101,Justice 1st Ct of App Dist Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 101,Justice 1st Ct of App Dist Pl 3,,,Under Votes,36,1,24,11
+Washington,Precinct 101,Justice 1st Ct of App Dist Pl 5,,REP,Terry Adams,603,45,384,174
+Washington,Precinct 101,Justice 1st Ct of App Dist Pl 5,,DEM,Amparo Monique Guerra,291,60,143,88
+Washington,Precinct 101,Justice 1st Ct of App Dist Pl 5,,,Over Votes,0,0,0,0
+Washington,Precinct 101,Justice 1st Ct of App Dist Pl 5,,,Under Votes,37,2,21,14
+Washington,Precinct 101,Justice 14th Ct of App Dist Pl 7,,REP,Ken Wise,596,44,379,173
+Washington,Precinct 101,Justice 14th Ct of App Dist Pl 7,,DEM,"DEM Tamika ""Tami"" Craft",300,62,147,91
+Washington,Precinct 101,Justice 14th Ct of App Dist Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 101,Justice 14th Ct of App Dist Pl 7,,,Under Votes,35,1,22,12
+Washington,Precinct 101,Dist Judge 21st Judicial Dist,,REP,Carson Campbell,685,53,430,202
+Washington,Precinct 101,Dist Judge 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 101,Dist Judge 21st Judicial Dist,,,Under Votes,246,54,118,74
+Washington,Precinct 101,Dist Judge 335th Judicial Dist,,REP,Reva L Towslee Corbett,679,52,428,199
+Washington,Precinct 101,Dist Judge 335th Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 101,Dist Judge 335th Judicial Dist,,,Under Votes,252,55,120,77
+Washington,Precinct 101,Dist Attorney 21st Judicial Dist,,REP,Julie Renken,678,52,429,197
+Washington,Precinct 101,Dist Attorney 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 101,Dist Attorney 21st Judicial Dist,,,Under Votes,253,55,119,79
+Washington,Precinct 101,County Attorney,,REP,Renee Ann Mueller,685,52,434,199
+Washington,Precinct 101,County Attorney,,,Over Votes,0,0,0,0
+Washington,Precinct 101,County Attorney,,,Under Votes,246,55,114,77
+Washington,Precinct 101,Sheriff,,REP,Otto Hanak,680,54,427,199
+Washington,Precinct 101,Sheriff,,,Over Votes,0,0,0,0
+Washington,Precinct 101,Sheriff,,,Under Votes,251,53,121,77
+Washington,Precinct 101,County Tax Assessor-Collector,,REP,Cheryl Tesch Gaskamp,684,52,431,201
+Washington,Precinct 101,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Washington,Precinct 101,County Tax Assessor-Collector,,,Under Votes,247,55,117,75
+Washington,Precinct 101,County Commissioner Pct 1,,REP,Donald Koester,584,38,371,175
+Washington,Precinct 101,County Commissioner Pct 1,,DEM,Shirley Harris-Jackson,315,66,155,94
+Washington,Precinct 101,County Commissioner Pct 1,,,Over Votes,0,0,0,0
+Washington,Precinct 101,County Commissioner Pct 1,,,Under Votes,32,3,22,7
+Washington,Precinct 101,Constable Pct 1,,REP,Ken Holle,662,52,424,186
+Washington,Precinct 101,Constable Pct 1,,,Over Votes,0,0,0,0
+Washington,Precinct 101,Constable Pct 1,,,Under Votes,269,55,124,90
+Washington,Precinct 104,Registered Voters,,,,1868,,,
+Washington,Precinct 104,Ballots Cast,,,,1081,157,786,138
+Washington,Precinct 104,Ballots Cast - Blank,,,,0,0,0,0
+Washington,Precinct 104,President,,REP,Donald J. Trump / Michael R. Pence,304,21,239,44
+Washington,Precinct 104,President,,DEM,Joseph R. Biden / Kamala D. Harris,763,136,538,89
+Washington,Precinct 104,President,,LIB,"Jo Jorgensen / Jeremy ""Spike"" Cohen",5,0,4,1
+Washington,Precinct 104,President,,GRN,Howie Hawkins / Angela Walker,0,0,0,0
+Washington,Precinct 104,President,,,Write-ins,6,0,3,3
+Washington,Precinct 104,President,,,Over Votes,0,0,0,0
+Washington,Precinct 104,President,,,Under Votes,3,0,2,1
+Washington,Precinct 104,U.S. Senate,,REP,John Cornyn,311,24,246,41
+Washington,Precinct 104,U.S. Senate,,DEM,"DEM Mary ""MJ"" Hegar",731,129,516,86
+Washington,Precinct 104,U.S. Senate,,LIB,Kerry Douglas McKennon,14,0,9,5
+Washington,Precinct 104,U.S. Senate,,GRN,David B. Collins,4,0,2,2
+Washington,Precinct 104,U.S. Senate,,,Write-ins,1,0,0,1
+Washington,Precinct 104,U.S. Senate,,,Over Votes,0,0,0,0
+Washington,Precinct 104,U.S. Senate,,,Under Votes,20,4,13,3
+Washington,Precinct 104,U.S. House,10,REP,Michael McCaul,317,26,249,42
+Washington,Precinct 104,U.S. House,10,DEM,Mike Siegel,731,128,513,90
+Washington,Precinct 104,U.S. House,10,LIB,Roy Eriksen,14,1,8,5
+Washington,Precinct 104,U.S. House,10,,Over Votes,0,0,0,0
+Washington,Precinct 104,U.S. House,10,,Under Votes,19,2,16,1
+Washington,Precinct 104,Railroad Commissioner,,REP,"James ""Jim"" Wright",311,22,244,45
+Washington,Precinct 104,Railroad Commissioner,,DEM,Chrysta Castaneda,713,129,506,78
+Washington,Precinct 104,Railroad Commissioner,,LIB,Matt Sterett,21,1,15,5
+Washington,Precinct 104,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",10,0,4,6
+Washington,Precinct 104,Railroad Commissioner,,,Over Votes,0,0,0,0
+Washington,Precinct 104,Railroad Commissioner,,,Under Votes,26,5,17,4
+Washington,Precinct 104,Chief Justice Supreme Court,,REP,Nathan Hecht,289,20,231,38
+Washington,Precinct 104,Chief Justice Supreme Court,,DEM,Amy Clark Meachum,736,130,521,85
+Washington,Precinct 104,Chief Justice Supreme Court,,LIB,Mark Ash,22,1,11,10
+Washington,Precinct 104,Chief Justice Supreme Court,,,Over Votes,0,0,0,0
+Washington,Precinct 104,Chief Justice Supreme Court,,,Under Votes,34,6,23,5
+Washington,Precinct 104,Justice Supreme Court Pl 6,,REP,Jane Bland,313,24,242,47
+Washington,Precinct 104,Justice Supreme Court Pl 6,,DEM,Kathy Cheng,726,129,512,85
+Washington,Precinct 104,Justice Supreme Court Pl 6,,,Over Votes,0,0,0,0
+Washington,Precinct 104,Justice Supreme Court Pl 6,,,Under Votes,42,4,32,6
+Washington,Precinct 104,Justice Supreme Court Pl 7,,REP,Jeff Boyd,293,20,231,42
+Washington,Precinct 104,Justice Supreme Court Pl 7,,DEM,Staci Williams,737,131,520,86
+Washington,Precinct 104,Justice Supreme Court Pl 7,,LIB,William Bryan Strange III,22,2,14,6
+Washington,Precinct 104,Justice Supreme Court Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 104,Justice Supreme Court Pl 7,,,Under Votes,29,4,21,4
+Washington,Precinct 104,Justice Supreme Court Pl 8,,REP,Brett Busby,299,21,236,42
+Washington,Precinct 104,Justice Supreme Court Pl 8,,DEM,Gisela D. Triana,732,130,518,84
+Washington,Precinct 104,Justice Supreme Court Pl 8,,LIB,Tom Oxford,22,2,12,8
+Washington,Precinct 104,Justice Supreme Court Pl 8,,,Over Votes,0,0,0,0
+Washington,Precinct 104,Justice Supreme Court Pl 8,,,Under Votes,28,4,20,4
+Washington,Precinct 104,Judge Ct of Crim App Pl 3,,REP,Bert Richardson,305,21,239,45
+Washington,Precinct 104,Judge Ct of Crim App Pl 3,,DEM,Elizabeth Davis Frizell,744,131,527,86
+Washington,Precinct 104,Judge Ct of Crim App Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 104,Judge Ct of Crim App Pl 3,,,Under Votes,32,5,20,7
+Washington,Precinct 104,Judge Ct of Crim App Pl 4,,REP,Kevin Patrick Yeary,305,22,237,46
+Washington,Precinct 104,Judge Ct of Crim App Pl 4,,DEM,Tina Clinton,733,130,517,86
+Washington,Precinct 104,Judge Ct of Crim App Pl 4,,,Over Votes,0,0,0,0
+Washington,Precinct 104,Judge Ct of Crim App Pl 4,,,Under Votes,43,5,32,6
+Washington,Precinct 104,Judge Ct of Crim App Pl 9,,REP,David Newell,308,22,240,46
+Washington,Precinct 104,Judge Ct of Crim App Pl 9,,DEM,Brandon Birmingham,725,129,516,80
+Washington,Precinct 104,Judge Ct of Crim App Pl 9,,,Over Votes,0,0,0,0
+Washington,Precinct 104,Judge Ct of Crim App Pl 9,,,Under Votes,48,6,30,12
+Washington,Precinct 104,Member State BoE Dist 10,,REP,Tom Maynard,291,21,228,42
+Washington,Precinct 104,Member State BoE Dist 10,,DEM,Marsha Burnett-Webster,739,131,524,84
+Washington,Precinct 104,Member State BoE Dist 10,,LIB,Trip Seibold,18,2,9,7
+Washington,Precinct 104,Member State BoE Dist 10,,,Over Votes,0,0,0,0
+Washington,Precinct 104,Member State BoE Dist 10,,,Under Votes,33,3,25,5
+Washington,Precinct 104,State Senate,18,REP,Lois W. Kolkhorst,406,29,313,64
+Washington,Precinct 104,State Senate,18,DEM,Michael Antalan,644,122,453,69
+Washington,Precinct 104,State Senate,18,,Over Votes,0,0,0,0
+Washington,Precinct 104,State Senate,18,,Under Votes,31,6,20,5
+Washington,Precinct 104,State Representative,13,REP,Ben Leman,510,52,382,76
+Washington,Precinct 104,State Representative,13,,Over Votes,0,0,0,0
+Washington,Precinct 104,State Representative,13,,Under Votes,571,105,404,62
+Washington,Precinct 104,Chief Justice 14th Ct of App Dist,,REP,Tracy Elizabeth Christopher,311,23,243,45
+Washington,Precinct 104,Chief Justice 14th Ct of App Dist,,DEM,Jane Robinson,729,127,518,84
+Washington,Precinct 104,Chief Justice 14th Ct of App Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 104,Chief Justice 14th Ct of App Dist,,,Under Votes,41,7,25,9
+Washington,Precinct 104,Justice 1st Ct of App Dist Pl 3,,REP,Russell Lloyd,309,22,242,45
+Washington,Precinct 104,Justice 1st Ct of App Dist Pl 3,,DEM,Veronica Rivas-Molloy,729,128,516,85
+Washington,Precinct 104,Justice 1st Ct of App Dist Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 104,Justice 1st Ct of App Dist Pl 3,,,Under Votes,43,7,28,8
+Washington,Precinct 104,Justice 1st Ct of App Dist Pl 5,,REP,Terry Adams,318,26,251,41
+Washington,Precinct 104,Justice 1st Ct of App Dist Pl 5,,DEM,Amparo Monique Guerra,719,123,508,88
+Washington,Precinct 104,Justice 1st Ct of App Dist Pl 5,,,Over Votes,0,0,0,0
+Washington,Precinct 104,Justice 1st Ct of App Dist Pl 5,,,Under Votes,44,8,27,9
+Washington,Precinct 104,Justice 14th Ct of App Dist Pl 7,,REP,Ken Wise,305,24,239,42
+Washington,Precinct 104,Justice 14th Ct of App Dist Pl 7,,DEM,"DEM Tamika ""Tami"" Craft",735,125,522,88
+Washington,Precinct 104,Justice 14th Ct of App Dist Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 104,Justice 14th Ct of App Dist Pl 7,,,Under Votes,41,8,25,8
+Washington,Precinct 104,Dist Judge 21st Judicial Dist,,REP,Carson Campbell,552,57,408,87
+Washington,Precinct 104,Dist Judge 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 104,Dist Judge 21st Judicial Dist,,,Under Votes,529,100,378,51
+Washington,Precinct 104,Dist Judge 335th Judicial Dist,,REP,Reva L Towslee Corbett,549,56,406,87
+Washington,Precinct 104,Dist Judge 335th Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 104,Dist Judge 335th Judicial Dist,,,Under Votes,532,101,380,51
+Washington,Precinct 104,Dist Attorney 21st Judicial Dist,,REP,Julie Renken,554,57,410,87
+Washington,Precinct 104,Dist Attorney 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 104,Dist Attorney 21st Judicial Dist,,,Under Votes,527,100,376,51
+Washington,Precinct 104,County Attorney,,REP,Renee Ann Mueller,559,58,419,82
+Washington,Precinct 104,County Attorney,,,Over Votes,0,0,0,0
+Washington,Precinct 104,County Attorney,,,Under Votes,522,99,367,56
+Washington,Precinct 104,Sheriff,,REP,Otto Hanak,570,61,422,87
+Washington,Precinct 104,Sheriff,,,Over Votes,0,0,0,0
+Washington,Precinct 104,Sheriff,,,Under Votes,511,96,364,51
+Washington,Precinct 104,County Tax Assessor-Collector,,REP,Cheryl Tesch Gaskamp,551,56,408,87
+Washington,Precinct 104,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Washington,Precinct 104,County Tax Assessor-Collector,,,Under Votes,530,101,378,51
+Washington,Precinct 104,County Commissioner Pct 1,,REP,Donald Koester,300,23,235,42
+Washington,Precinct 104,County Commissioner Pct 1,,DEM,Shirley Harris-Jackson,738,124,525,89
+Washington,Precinct 104,County Commissioner Pct 1,,,Over Votes,0,0,0,0
+Washington,Precinct 104,County Commissioner Pct 1,,,Under Votes,43,10,26,7
+Washington,Precinct 104,Constable Pct 1,,REP,Ken Holle,517,55,382,80
+Washington,Precinct 104,Constable Pct 1,,,Over Votes,0,0,0,0
+Washington,Precinct 104,Constable Pct 1,,,Under Votes,564,102,404,58
+Washington,Precinct 109,Registered Voters,,,,1084,,,
+Washington,Precinct 109,Ballots Cast,,,,826,63,553,210
+Washington,Precinct 109,Ballots Cast - Blank,,,,0,0,0,0
+Washington,Precinct 109,President,,REP,Donald J. Trump / Michael R. Pence,661,39,446,176
+Washington,Precinct 109,President,,DEM,Joseph R. Biden / Kamala D. Harris,154,24,100,30
+Washington,Precinct 109,President,,LIB,"Jo Jorgensen / Jeremy ""Spike"" Cohen",8,0,4,4
+Washington,Precinct 109,President,,GRN,Howie Hawkins / Angela Walker,0,0,0,0
+Washington,Precinct 109,President,,,Write-ins,3,0,3,0
+Washington,Precinct 109,President,,,Over Votes,0,0,0,0
+Washington,Precinct 109,President,,,Under Votes,0,0,0,0
+Washington,Precinct 109,U.S. Senate,,REP,John Cornyn,657,39,446,172
+Washington,Precinct 109,U.S. Senate,,DEM,"DEM Mary ""MJ"" Hegar",145,21,90,34
+Washington,Precinct 109,U.S. Senate,,LIB,Kerry Douglas McKennon,13,0,11,2
+Washington,Precinct 109,U.S. Senate,,GRN,David B. Collins,2,0,1,1
+Washington,Precinct 109,U.S. Senate,,,Write-ins,1,0,1,0
+Washington,Precinct 109,U.S. Senate,,,Over Votes,0,0,0,0
+Washington,Precinct 109,U.S. Senate,,,Under Votes,8,3,4,1
+Washington,Precinct 109,U.S. House,10,REP,Michael McCaul,664,38,447,179
+Washington,Precinct 109,U.S. House,10,DEM,Mike Siegel,142,22,91,29
+Washington,Precinct 109,U.S. House,10,LIB,Roy Eriksen,11,0,9,2
+Washington,Precinct 109,U.S. House,10,,Over Votes,0,0,0,0
+Washington,Precinct 109,U.S. House,10,,Under Votes,9,3,6,0
+Washington,Precinct 109,Railroad Commissioner,,REP,"James ""Jim"" Wright",641,36,430,175
+Washington,Precinct 109,Railroad Commissioner,,DEM,Chrysta Castaneda,145,25,93,27
+Washington,Precinct 109,Railroad Commissioner,,LIB,Matt Sterett,14,0,11,3
+Washington,Precinct 109,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",5,0,5,0
+Washington,Precinct 109,Railroad Commissioner,,,Over Votes,0,0,0,0
+Washington,Precinct 109,Railroad Commissioner,,,Under Votes,21,2,14,5
+Washington,Precinct 109,Chief Justice Supreme Court,,REP,Nathan Hecht,655,39,444,172
+Washington,Precinct 109,Chief Justice Supreme Court,,DEM,Amy Clark Meachum,139,21,89,29
+Washington,Precinct 109,Chief Justice Supreme Court,,LIB,Mark Ash,11,0,7,4
+Washington,Precinct 109,Chief Justice Supreme Court,,,Over Votes,0,0,0,0
+Washington,Precinct 109,Chief Justice Supreme Court,,,Under Votes,21,3,13,5
+Washington,Precinct 109,Justice Supreme Court Pl 6,,REP,Jane Bland,671,39,453,179
+Washington,Precinct 109,Justice Supreme Court Pl 6,,DEM,Kathy Cheng,134,21,87,26
+Washington,Precinct 109,Justice Supreme Court Pl 6,,,Over Votes,0,0,0,0
+Washington,Precinct 109,Justice Supreme Court Pl 6,,,Under Votes,21,3,13,5
+Washington,Precinct 109,Justice Supreme Court Pl 7,,REP,Jeff Boyd,651,39,438,174
+Washington,Precinct 109,Justice Supreme Court Pl 7,,DEM,Staci Williams,141,21,93,27
+Washington,Precinct 109,Justice Supreme Court Pl 7,,LIB,William Bryan Strange III,14,0,11,3
+Washington,Precinct 109,Justice Supreme Court Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 109,Justice Supreme Court Pl 7,,,Under Votes,20,3,11,6
+Washington,Precinct 109,Justice Supreme Court Pl 8,,REP,Brett Busby,656,38,442,176
+Washington,Precinct 109,Justice Supreme Court Pl 8,,DEM,Gisela D. Triana,136,22,90,24
+Washington,Precinct 109,Justice Supreme Court Pl 8,,LIB,Tom Oxford,14,0,11,3
+Washington,Precinct 109,Justice Supreme Court Pl 8,,,Over Votes,0,0,0,0
+Washington,Precinct 109,Justice Supreme Court Pl 8,,,Under Votes,20,3,10,7
+Washington,Precinct 109,Judge Ct of Crim App Pl 3,,REP,Bert Richardson,667,39,448,180
+Washington,Precinct 109,Judge Ct of Crim App Pl 3,,DEM,Elizabeth Davis Frizell,137,21,93,23
+Washington,Precinct 109,Judge Ct of Crim App Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 109,Judge Ct of Crim App Pl 3,,,Under Votes,22,3,12,7
+Washington,Precinct 109,Judge Ct of Crim App Pl 4,,REP,Kevin Patrick Yeary,661,38,447,176
+Washington,Precinct 109,Judge Ct of Crim App Pl 4,,DEM,Tina Clinton,134,22,88,24
+Washington,Precinct 109,Judge Ct of Crim App Pl 4,,,Over Votes,0,0,0,0
+Washington,Precinct 109,Judge Ct of Crim App Pl 4,,,Under Votes,31,3,18,10
+Washington,Precinct 109,Judge Ct of Crim App Pl 9,,REP,David Newell,657,38,444,175
+Washington,Precinct 109,Judge Ct of Crim App Pl 9,,DEM,Brandon Birmingham,137,22,89,26
+Washington,Precinct 109,Judge Ct of Crim App Pl 9,,,Over Votes,0,0,0,0
+Washington,Precinct 109,Judge Ct of Crim App Pl 9,,,Under Votes,32,3,20,9
+Washington,Precinct 109,Member State BoE Dist 10,,REP,Tom Maynard,642,38,433,171
+Washington,Precinct 109,Member State BoE Dist 10,,DEM,Marsha Burnett-Webster,144,22,92,30
+Washington,Precinct 109,Member State BoE Dist 10,,LIB,Trip Seibold,18,0,14,4
+Washington,Precinct 109,Member State BoE Dist 10,,,Over Votes,0,0,0,0
+Washington,Precinct 109,Member State BoE Dist 10,,,Under Votes,22,3,14,5
+Washington,Precinct 109,State Senate,18,REP,Lois W. Kolkhorst,692,39,467,186
+Washington,Precinct 109,State Senate,18,DEM,Michael Antalan,123,21,80,22
+Washington,Precinct 109,State Senate,18,,Over Votes,0,0,0,0
+Washington,Precinct 109,State Senate,18,,Under Votes,11,3,6,2
+Washington,Precinct 109,State Representative,13,REP,Ben Leman,701,42,477,182
+Washington,Precinct 109,State Representative,13,,Over Votes,0,0,0,0
+Washington,Precinct 109,State Representative,13,,Under Votes,125,21,76,28
+Washington,Precinct 109,Chief Justice 14th Ct of App Dist,,REP,Tracy Elizabeth Christopher,656,37,444,175
+Washington,Precinct 109,Chief Justice 14th Ct of App Dist,,DEM,Jane Robinson,143,22,92,29
+Washington,Precinct 109,Chief Justice 14th Ct of App Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 109,Chief Justice 14th Ct of App Dist,,,Under Votes,27,4,17,6
+Washington,Precinct 109,Justice 1st Ct of App Dist Pl 3,,REP,Russell Lloyd,660,38,448,174
+Washington,Precinct 109,Justice 1st Ct of App Dist Pl 3,,DEM,Veronica Rivas-Molloy,137,22,87,28
+Washington,Precinct 109,Justice 1st Ct of App Dist Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 109,Justice 1st Ct of App Dist Pl 3,,,Under Votes,29,3,18,8
+Washington,Precinct 109,Justice 1st Ct of App Dist Pl 5,,REP,Terry Adams,661,40,444,177
+Washington,Precinct 109,Justice 1st Ct of App Dist Pl 5,,DEM,Amparo Monique Guerra,139,20,90,29
+Washington,Precinct 109,Justice 1st Ct of App Dist Pl 5,,,Over Votes,0,0,0,0
+Washington,Precinct 109,Justice 1st Ct of App Dist Pl 5,,,Under Votes,26,3,19,4
+Washington,Precinct 109,Justice 14th Ct of App Dist Pl 7,,REP,Ken Wise,661,39,446,176
+Washington,Precinct 109,Justice 14th Ct of App Dist Pl 7,,DEM,"DEM Tamika ""Tami"" Craft",140,21,89,30
+Washington,Precinct 109,Justice 14th Ct of App Dist Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 109,Justice 14th Ct of App Dist Pl 7,,,Under Votes,25,3,18,4
+Washington,Precinct 109,Dist Judge 21st Judicial Dist,,REP,Carson Campbell,703,43,477,183
+Washington,Precinct 109,Dist Judge 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 109,Dist Judge 21st Judicial Dist,,,Under Votes,123,20,76,27
+Washington,Precinct 109,Dist Judge 335th Judicial Dist,,REP,Reva L Towslee Corbett,703,43,478,182
+Washington,Precinct 109,Dist Judge 335th Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 109,Dist Judge 335th Judicial Dist,,,Under Votes,123,20,75,28
+Washington,Precinct 109,Dist Attorney 21st Judicial Dist,,REP,Julie Renken,700,41,477,182
+Washington,Precinct 109,Dist Attorney 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 109,Dist Attorney 21st Judicial Dist,,,Under Votes,126,22,76,28
+Washington,Precinct 109,County Attorney,,REP,Renee Ann Mueller,700,43,475,182
+Washington,Precinct 109,County Attorney,,,Over Votes,0,0,0,0
+Washington,Precinct 109,County Attorney,,,Under Votes,126,20,78,28
+Washington,Precinct 109,Sheriff,,REP,Otto Hanak,690,42,472,176
+Washington,Precinct 109,Sheriff,,,Over Votes,0,0,0,0
+Washington,Precinct 109,Sheriff,,,Under Votes,136,21,81,34
+Washington,Precinct 109,County Tax Assessor-Collector,,REP,Cheryl Tesch Gaskamp,699,42,476,181
+Washington,Precinct 109,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Washington,Precinct 109,County Tax Assessor-Collector,,,Under Votes,127,21,77,29
+Washington,Precinct 109,County Commissioner Pct 1,,REP,Donald Koester,660,42,440,178
+Washington,Precinct 109,County Commissioner Pct 1,,DEM,Shirley Harris-Jackson,148,17,101,30
+Washington,Precinct 109,County Commissioner Pct 1,,,Over Votes,0,0,0,0
+Washington,Precinct 109,County Commissioner Pct 1,,,Under Votes,18,4,12,2
+Washington,Precinct 109,Constable Pct 1,,REP,Ken Holle,683,43,465,175
+Washington,Precinct 109,Constable Pct 1,,,Over Votes,0,0,0,0
+Washington,Precinct 109,Constable Pct 1,,,Under Votes,143,20,88,35
+Washington,Precinct 115,Registered Voters,,,,1003,,,
+Washington,Precinct 115,Ballots Cast,,,,713,46,554,113
+Washington,Precinct 115,Ballots Cast - Blank,,,,0,0,0,0
+Washington,Precinct 115,President,,REP,Donald J. Trump / Michael R. Pence,536,31,421,84
+Washington,Precinct 115,President,,DEM,Joseph R. Biden / Kamala D. Harris,163,15,123,25
+Washington,Precinct 115,President,,LIB,"Jo Jorgensen / Jeremy ""Spike"" Cohen",5,0,4,1
+Washington,Precinct 115,President,,GRN,Howie Hawkins / Angela Walker,1,0,1,0
+Washington,Precinct 115,President,,,Write-ins,1,0,1,0
+Washington,Precinct 115,President,,,Over Votes,2,0,0,2
+Washington,Precinct 115,President,,,Under Votes,5,0,4,1
+Washington,Precinct 115,U.S. Senate,,REP,John Cornyn,543,32,428,83
+Washington,Precinct 115,U.S. Senate,,DEM,"DEM Mary ""MJ"" Hegar",155,14,117,24
+Washington,Precinct 115,U.S. Senate,,LIB,Kerry Douglas McKennon,4,0,2,2
+Washington,Precinct 115,U.S. Senate,,GRN,David B. Collins,2,0,2,0
+Washington,Precinct 115,U.S. Senate,,,Write-ins,0,0,0,0
+Washington,Precinct 115,U.S. Senate,,,Over Votes,1,0,0,1
+Washington,Precinct 115,U.S. Senate,,,Under Votes,8,0,5,3
+Washington,Precinct 115,U.S. House,10,REP,Michael McCaul,539,32,423,84
+Washington,Precinct 115,U.S. House,10,DEM,Mike Siegel,155,14,115,26
+Washington,Precinct 115,U.S. House,10,LIB,Roy Eriksen,6,0,5,1
+Washington,Precinct 115,U.S. House,10,,Over Votes,0,0,0,0
+Washington,Precinct 115,U.S. House,10,,Under Votes,13,0,11,2
+Washington,Precinct 115,Railroad Commissioner,,REP,"James ""Jim"" Wright",519,29,409,81
+Washington,Precinct 115,Railroad Commissioner,,DEM,Chrysta Castaneda,162,15,120,27
+Washington,Precinct 115,Railroad Commissioner,,LIB,Matt Sterett,8,0,7,1
+Washington,Precinct 115,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",4,0,3,1
+Washington,Precinct 115,Railroad Commissioner,,,Over Votes,0,0,0,0
+Washington,Precinct 115,Railroad Commissioner,,,Under Votes,18,2,13,3
+Washington,Precinct 115,Chief Justice Supreme Court,,REP,Nathan Hecht,526,30,412,84
+Washington,Precinct 115,Chief Justice Supreme Court,,DEM,Amy Clark Meachum,156,14,116,26
+Washington,Precinct 115,Chief Justice Supreme Court,,LIB,Mark Ash,8,0,7,1
+Washington,Precinct 115,Chief Justice Supreme Court,,,Over Votes,0,0,0,0
+Washington,Precinct 115,Chief Justice Supreme Court,,,Under Votes,21,2,17,2
+Washington,Precinct 115,Justice Supreme Court Pl 6,,REP,Jane Bland,533,30,419,84
+Washington,Precinct 115,Justice Supreme Court Pl 6,,DEM,Kathy Cheng,153,14,114,25
+Washington,Precinct 115,Justice Supreme Court Pl 6,,,Over Votes,0,0,0,0
+Washington,Precinct 115,Justice Supreme Court Pl 6,,,Under Votes,25,2,19,4
+Washington,Precinct 115,Justice Supreme Court Pl 7,,REP,Jeff Boyd,524,30,412,82
+Washington,Precinct 115,Justice Supreme Court Pl 7,,DEM,Staci Williams,160,14,119,27
+Washington,Precinct 115,Justice Supreme Court Pl 7,,LIB,William Bryan Strange III,4,0,3,1
+Washington,Precinct 115,Justice Supreme Court Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 115,Justice Supreme Court Pl 7,,,Under Votes,23,2,18,3
+Washington,Precinct 115,Justice Supreme Court Pl 8,,REP,Brett Busby,531,31,417,83
+Washington,Precinct 115,Justice Supreme Court Pl 8,,DEM,Gisela D. Triana,152,14,112,26
+Washington,Precinct 115,Justice Supreme Court Pl 8,,LIB,Tom Oxford,6,0,5,1
+Washington,Precinct 115,Justice Supreme Court Pl 8,,,Over Votes,0,0,0,0
+Washington,Precinct 115,Justice Supreme Court Pl 8,,,Under Votes,22,1,18,3
+Washington,Precinct 115,Judge Ct of Crim App Pl 3,,REP,Bert Richardson,529,31,415,83
+Washington,Precinct 115,Judge Ct of Crim App Pl 3,,DEM,Elizabeth Davis Frizell,160,14,118,28
+Washington,Precinct 115,Judge Ct of Crim App Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 115,Judge Ct of Crim App Pl 3,,,Under Votes,22,1,19,2
+Washington,Precinct 115,Judge Ct of Crim App Pl 4,,REP,Kevin Patrick Yeary,522,31,408,83
+Washington,Precinct 115,Judge Ct of Crim App Pl 4,,DEM,Tina Clinton,153,11,117,25
+Washington,Precinct 115,Judge Ct of Crim App Pl 4,,,Over Votes,0,0,0,0
+Washington,Precinct 115,Judge Ct of Crim App Pl 4,,,Under Votes,36,4,27,5
+Washington,Precinct 115,Judge Ct of Crim App Pl 9,,REP,David Newell,524,31,412,81
+Washington,Precinct 115,Judge Ct of Crim App Pl 9,,DEM,Brandon Birmingham,159,14,118,27
+Washington,Precinct 115,Judge Ct of Crim App Pl 9,,,Over Votes,0,0,0,0
+Washington,Precinct 115,Judge Ct of Crim App Pl 9,,,Under Votes,28,1,22,5
+Washington,Precinct 115,Member State BoE Dist 10,,REP,Tom Maynard,520,31,407,82
+Washington,Precinct 115,Member State BoE Dist 10,,DEM,Marsha Burnett-Webster,161,14,119,28
+Washington,Precinct 115,Member State BoE Dist 10,,LIB,Trip Seibold,5,0,5,0
+Washington,Precinct 115,Member State BoE Dist 10,,,Over Votes,0,0,0,0
+Washington,Precinct 115,Member State BoE Dist 10,,,Under Votes,25,1,21,3
+Washington,Precinct 115,State Senate,18,REP,Lois W. Kolkhorst,553,33,436,84
+Washington,Precinct 115,State Senate,18,DEM,Michael Antalan,143,13,104,26
+Washington,Precinct 115,State Senate,18,,Over Votes,0,0,0,0
+Washington,Precinct 115,State Senate,18,,Under Votes,15,0,12,3
+Washington,Precinct 115,State Representative,13,REP,Ben Leman,547,30,429,88
+Washington,Precinct 115,State Representative,13,,Over Votes,0,0,0,0
+Washington,Precinct 115,State Representative,13,,Under Votes,164,16,123,25
+Washington,Precinct 115,Chief Justice 14th Ct of App Dist,,REP,Tracy Elizabeth Christopher,517,31,405,81
+Washington,Precinct 115,Chief Justice 14th Ct of App Dist,,DEM,Jane Robinson,161,14,120,27
+Washington,Precinct 115,Chief Justice 14th Ct of App Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 115,Chief Justice 14th Ct of App Dist,,,Under Votes,33,1,27,5
+Washington,Precinct 115,Justice 1st Ct of App Dist Pl 3,,REP,Russell Lloyd,526,31,413,82
+Washington,Precinct 115,Justice 1st Ct of App Dist Pl 3,,DEM,Veronica Rivas-Molloy,158,14,118,26
+Washington,Precinct 115,Justice 1st Ct of App Dist Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 115,Justice 1st Ct of App Dist Pl 3,,,Under Votes,27,1,21,5
+Washington,Precinct 115,Justice 1st Ct of App Dist Pl 5,,REP,Terry Adams,530,31,418,81
+Washington,Precinct 115,Justice 1st Ct of App Dist Pl 5,,DEM,Amparo Monique Guerra,156,14,115,27
+Washington,Precinct 115,Justice 1st Ct of App Dist Pl 5,,,Over Votes,0,0,0,0
+Washington,Precinct 115,Justice 1st Ct of App Dist Pl 5,,,Under Votes,25,1,19,5
+Washington,Precinct 115,Justice 14th Ct of App Dist Pl 7,,REP,Ken Wise,527,31,415,81
+Washington,Precinct 115,Justice 14th Ct of App Dist Pl 7,,DEM,"DEM Tamika ""Tami"" Craft",158,14,117,27
+Washington,Precinct 115,Justice 14th Ct of App Dist Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 115,Justice 14th Ct of App Dist Pl 7,,,Under Votes,26,1,20,5
+Washington,Precinct 115,Dist Judge 21st Judicial Dist,,REP,Carson Campbell,563,32,444,87
+Washington,Precinct 115,Dist Judge 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 115,Dist Judge 21st Judicial Dist,,,Under Votes,148,14,108,26
+Washington,Precinct 115,Dist Judge 335th Judicial Dist,,REP,Reva L Towslee Corbett,559,32,439,88
+Washington,Precinct 115,Dist Judge 335th Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 115,Dist Judge 335th Judicial Dist,,,Under Votes,152,14,113,25
+Washington,Precinct 115,Dist Attorney 21st Judicial Dist,,REP,Julie Renken,564,31,443,90
+Washington,Precinct 115,Dist Attorney 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 115,Dist Attorney 21st Judicial Dist,,,Under Votes,147,15,109,23
+Washington,Precinct 115,County Attorney,,REP,Renee Ann Mueller,561,32,442,87
+Washington,Precinct 115,County Attorney,,,Over Votes,0,0,0,0
+Washington,Precinct 115,County Attorney,,,Under Votes,150,14,110,26
+Washington,Precinct 115,Sheriff,,REP,Otto Hanak,550,32,432,86
+Washington,Precinct 115,Sheriff,,,Over Votes,0,0,0,0
+Washington,Precinct 115,Sheriff,,,Under Votes,161,14,120,27
+Washington,Precinct 115,County Tax Assessor-Collector,,REP,Cheryl Tesch Gaskamp,559,31,440,88
+Washington,Precinct 115,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Washington,Precinct 115,County Tax Assessor-Collector,,,Under Votes,152,15,112,25
+Washington,Precinct 115,County Commissioner Pct 1,,REP,Donald Koester,500,31,395,74
+Washington,Precinct 115,County Commissioner Pct 1,,DEM,Shirley Harris-Jackson,184,14,137,33
+Washington,Precinct 115,County Commissioner Pct 1,,,Over Votes,0,0,0,0
+Washington,Precinct 115,County Commissioner Pct 1,,,Under Votes,27,1,20,6
+Washington,Precinct 115,Constable Pct 1,,REP,Ken Holle,536,29,422,85
+Washington,Precinct 115,Constable Pct 1,,,Over Votes,0,0,0,0
+Washington,Precinct 115,Constable Pct 1,,,Under Votes,175,17,130,28
+Washington,Precinct 117,Registered Voters,,,,102,,,
+Washington,Precinct 117,Ballots Cast,,,,47,8,31,8
+Washington,Precinct 117,Ballots Cast - Blank,,,,0,0,0,0
+Washington,Precinct 117,President,,REP,Donald J. Trump / Michael R. Pence,11,0,6,5
+Washington,Precinct 117,President,,DEM,Joseph R. Biden / Kamala D. Harris,36,8,25,3
+Washington,Precinct 117,President,,LIB,"Jo Jorgensen / Jeremy ""Spike"" Cohen",0,0,0,0
+Washington,Precinct 117,President,,GRN,Howie Hawkins / Angela Walker,0,0,0,0
+Washington,Precinct 117,President,,,Write-ins,0,0,0,0
+Washington,Precinct 117,President,,,Over Votes,0,0,0,0
+Washington,Precinct 117,President,,,Under Votes,0,0,0,0
+Washington,Precinct 117,U.S. Senate,,REP,John Cornyn,10,0,5,5
+Washington,Precinct 117,U.S. Senate,,DEM,"DEM Mary ""MJ"" Hegar",34,8,24,2
+Washington,Precinct 117,U.S. Senate,,LIB,Kerry Douglas McKennon,0,0,0,0
+Washington,Precinct 117,U.S. Senate,,GRN,David B. Collins,0,0,0,0
+Washington,Precinct 117,U.S. Senate,,,Write-ins,0,0,0,0
+Washington,Precinct 117,U.S. Senate,,,Over Votes,1,0,0,1
+Washington,Precinct 117,U.S. Senate,,,Under Votes,2,0,2,0
+Washington,Precinct 117,U.S. House,10,REP,Michael McCaul,12,0,7,5
+Washington,Precinct 117,U.S. House,10,DEM,Mike Siegel,34,8,23,3
+Washington,Precinct 117,U.S. House,10,LIB,Roy Eriksen,0,0,0,0
+Washington,Precinct 117,U.S. House,10,,Over Votes,0,0,0,0
+Washington,Precinct 117,U.S. House,10,,Under Votes,1,0,1,0
+Washington,Precinct 117,Railroad Commissioner,,REP,"James ""Jim"" Wright",12,0,7,5
+Washington,Precinct 117,Railroad Commissioner,,DEM,Chrysta Castaneda,32,7,23,2
+Washington,Precinct 117,Railroad Commissioner,,LIB,Matt Sterett,0,0,0,0
+Washington,Precinct 117,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",0,0,0,0
+Washington,Precinct 117,Railroad Commissioner,,,Over Votes,0,0,0,0
+Washington,Precinct 117,Railroad Commissioner,,,Under Votes,3,1,1,1
+Washington,Precinct 117,Chief Justice Supreme Court,,REP,Nathan Hecht,10,0,5,5
+Washington,Precinct 117,Chief Justice Supreme Court,,DEM,Amy Clark Meachum,32,7,23,2
+Washington,Precinct 117,Chief Justice Supreme Court,,LIB,Mark Ash,1,0,1,0
+Washington,Precinct 117,Chief Justice Supreme Court,,,Over Votes,0,0,0,0
+Washington,Precinct 117,Chief Justice Supreme Court,,,Under Votes,4,1,2,1
+Washington,Precinct 117,Justice Supreme Court Pl 6,,REP,Jane Bland,10,0,5,5
+Washington,Precinct 117,Justice Supreme Court Pl 6,,DEM,Kathy Cheng,34,8,24,2
+Washington,Precinct 117,Justice Supreme Court Pl 6,,,Over Votes,0,0,0,0
+Washington,Precinct 117,Justice Supreme Court Pl 6,,,Under Votes,3,0,2,1
+Washington,Precinct 117,Justice Supreme Court Pl 7,,REP,Jeff Boyd,10,0,5,5
+Washington,Precinct 117,Justice Supreme Court Pl 7,,DEM,Staci Williams,34,8,24,2
+Washington,Precinct 117,Justice Supreme Court Pl 7,,LIB,William Bryan Strange III,0,0,0,0
+Washington,Precinct 117,Justice Supreme Court Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 117,Justice Supreme Court Pl 7,,,Under Votes,3,0,2,1
+Washington,Precinct 117,Justice Supreme Court Pl 8,,REP,Brett Busby,11,0,6,5
+Washington,Precinct 117,Justice Supreme Court Pl 8,,DEM,Gisela D. Triana,35,8,24,3
+Washington,Precinct 117,Justice Supreme Court Pl 8,,LIB,Tom Oxford,0,0,0,0
+Washington,Precinct 117,Justice Supreme Court Pl 8,,,Over Votes,0,0,0,0
+Washington,Precinct 117,Justice Supreme Court Pl 8,,,Under Votes,1,0,1,0
+Washington,Precinct 117,Judge Ct of Crim App Pl 3,,REP,Bert Richardson,10,0,5,5
+Washington,Precinct 117,Judge Ct of Crim App Pl 3,,DEM,Elizabeth Davis Frizell,34,8,24,2
+Washington,Precinct 117,Judge Ct of Crim App Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 117,Judge Ct of Crim App Pl 3,,,Under Votes,3,0,2,1
+Washington,Precinct 117,Judge Ct of Crim App Pl 4,,REP,Kevin Patrick Yeary,10,0,5,5
+Washington,Precinct 117,Judge Ct of Crim App Pl 4,,DEM,Tina Clinton,35,8,24,3
+Washington,Precinct 117,Judge Ct of Crim App Pl 4,,,Over Votes,0,0,0,0
+Washington,Precinct 117,Judge Ct of Crim App Pl 4,,,Under Votes,2,0,2,0
+Washington,Precinct 117,Judge Ct of Crim App Pl 9,,REP,David Newell,10,0,5,5
+Washington,Precinct 117,Judge Ct of Crim App Pl 9,,DEM,Brandon Birmingham,34,8,24,2
+Washington,Precinct 117,Judge Ct of Crim App Pl 9,,,Over Votes,0,0,0,0
+Washington,Precinct 117,Judge Ct of Crim App Pl 9,,,Under Votes,3,0,2,1
+Washington,Precinct 117,Member State BoE Dist 10,,REP,Tom Maynard,10,0,5,5
+Washington,Precinct 117,Member State BoE Dist 10,,DEM,Marsha Burnett-Webster,35,8,24,3
+Washington,Precinct 117,Member State BoE Dist 10,,LIB,Trip Seibold,0,0,0,0
+Washington,Precinct 117,Member State BoE Dist 10,,,Over Votes,0,0,0,0
+Washington,Precinct 117,Member State BoE Dist 10,,,Under Votes,2,0,2,0
+Washington,Precinct 117,State Senate,18,REP,Lois W. Kolkhorst,16,1,10,5
+Washington,Precinct 117,State Senate,18,DEM,Michael Antalan,29,7,19,3
+Washington,Precinct 117,State Senate,18,,Over Votes,0,0,0,0
+Washington,Precinct 117,State Senate,18,,Under Votes,2,0,2,0
+Washington,Precinct 117,State Representative,13,REP,Ben Leman,22,1,15,6
+Washington,Precinct 117,State Representative,13,,Over Votes,0,0,0,0
+Washington,Precinct 117,State Representative,13,,Under Votes,25,7,16,2
+Washington,Precinct 117,Chief Justice 14th Ct of App Dist,,REP,Tracy Elizabeth Christopher,10,0,5,5
+Washington,Precinct 117,Chief Justice 14th Ct of App Dist,,DEM,Jane Robinson,33,7,24,2
+Washington,Precinct 117,Chief Justice 14th Ct of App Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 117,Chief Justice 14th Ct of App Dist,,,Under Votes,4,1,2,1
+Washington,Precinct 117,Justice 1st Ct of App Dist Pl 3,,REP,Russell Lloyd,10,0,5,5
+Washington,Precinct 117,Justice 1st Ct of App Dist Pl 3,,DEM,Veronica Rivas-Molloy,34,8,24,2
+Washington,Precinct 117,Justice 1st Ct of App Dist Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 117,Justice 1st Ct of App Dist Pl 3,,,Under Votes,3,0,2,1
+Washington,Precinct 117,Justice 1st Ct of App Dist Pl 5,,REP,Terry Adams,10,0,5,5
+Washington,Precinct 117,Justice 1st Ct of App Dist Pl 5,,DEM,Amparo Monique Guerra,35,8,24,3
+Washington,Precinct 117,Justice 1st Ct of App Dist Pl 5,,,Over Votes,0,0,0,0
+Washington,Precinct 117,Justice 1st Ct of App Dist Pl 5,,,Under Votes,2,0,2,0
+Washington,Precinct 117,Justice 14th Ct of App Dist Pl 7,,REP,Ken Wise,10,0,5,5
+Washington,Precinct 117,Justice 14th Ct of App Dist Pl 7,,DEM,"DEM Tamika ""Tami"" Craft",35,8,24,3
+Washington,Precinct 117,Justice 14th Ct of App Dist Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 117,Justice 14th Ct of App Dist Pl 7,,,Under Votes,2,0,2,0
+Washington,Precinct 117,Dist Judge 21st Judicial Dist,,REP,Carson Campbell,22,1,15,6
+Washington,Precinct 117,Dist Judge 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 117,Dist Judge 21st Judicial Dist,,,Under Votes,25,7,16,2
+Washington,Precinct 117,Dist Judge 335th Judicial Dist,,REP,Reva L Towslee Corbett,22,1,15,6
+Washington,Precinct 117,Dist Judge 335th Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 117,Dist Judge 335th Judicial Dist,,,Under Votes,25,7,16,2
+Washington,Precinct 117,Dist Attorney 21st Judicial Dist,,REP,Julie Renken,22,1,15,6
+Washington,Precinct 117,Dist Attorney 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 117,Dist Attorney 21st Judicial Dist,,,Under Votes,25,7,16,2
+Washington,Precinct 117,County Attorney,,REP,Renee Ann Mueller,22,1,15,6
+Washington,Precinct 117,County Attorney,,,Over Votes,0,0,0,0
+Washington,Precinct 117,County Attorney,,,Under Votes,25,7,16,2
+Washington,Precinct 117,Sheriff,,REP,Otto Hanak,24,3,15,6
+Washington,Precinct 117,Sheriff,,,Over Votes,0,0,0,0
+Washington,Precinct 117,Sheriff,,,Under Votes,23,5,16,2
+Washington,Precinct 117,County Tax Assessor-Collector,,REP,Cheryl Tesch Gaskamp,24,3,15,6
+Washington,Precinct 117,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Washington,Precinct 117,County Tax Assessor-Collector,,,Under Votes,23,5,16,2
+Washington,Precinct 117,County Commissioner Pct 1,,REP,Donald Koester,10,0,5,5
+Washington,Precinct 117,County Commissioner Pct 1,,DEM,Shirley Harris-Jackson,35,8,24,3
+Washington,Precinct 117,County Commissioner Pct 1,,,Over Votes,0,0,0,0
+Washington,Precinct 117,County Commissioner Pct 1,,,Under Votes,2,0,2,0
+Washington,Precinct 117,Constable Pct 1,,REP,Ken Holle,24,3,15,6
+Washington,Precinct 117,Constable Pct 1,,,Over Votes,0,0,0,0
+Washington,Precinct 117,Constable Pct 1,,,Under Votes,23,5,16,2
+Washington,Precinct 121,Registered Voters,,,,104,,,
+Washington,Precinct 121,Ballots Cast,,,,67,8,50,9
+Washington,Precinct 121,Ballots Cast - Blank,,,,0,0,0,0
+Washington,Precinct 121,President,,REP,Donald J. Trump / Michael R. Pence,38,1,32,5
+Washington,Precinct 121,President,,DEM,Joseph R. Biden / Kamala D. Harris,26,7,16,3
+Washington,Precinct 121,President,,LIB,"Jo Jorgensen / Jeremy ""Spike"" Cohen",3,0,2,1
+Washington,Precinct 121,President,,GRN,Howie Hawkins / Angela Walker,0,0,0,0
+Washington,Precinct 121,President,,,Write-ins,0,0,0,0
+Washington,Precinct 121,President,,,Over Votes,0,0,0,0
+Washington,Precinct 121,President,,,Under Votes,0,0,0,0
+Washington,Precinct 121,U.S. Senate,,REP,John Cornyn,37,1,32,4
+Washington,Precinct 121,U.S. Senate,,DEM,"DEM Mary ""MJ"" Hegar",26,7,15,4
+Washington,Precinct 121,U.S. Senate,,LIB,Kerry Douglas McKennon,2,0,1,1
+Washington,Precinct 121,U.S. Senate,,GRN,David B. Collins,0,0,0,0
+Washington,Precinct 121,U.S. Senate,,,Write-ins,0,0,0,0
+Washington,Precinct 121,U.S. Senate,,,Over Votes,0,0,0,0
+Washington,Precinct 121,U.S. Senate,,,Under Votes,2,0,2,0
+Washington,Precinct 121,U.S. House,10,REP,Michael McCaul,42,1,35,6
+Washington,Precinct 121,U.S. House,10,DEM,Mike Siegel,22,7,12,3
+Washington,Precinct 121,U.S. House,10,LIB,Roy Eriksen,1,0,1,0
+Washington,Precinct 121,U.S. House,10,,Over Votes,0,0,0,0
+Washington,Precinct 121,U.S. House,10,,Under Votes,2,0,2,0
+Washington,Precinct 121,Railroad Commissioner,,REP,"James ""Jim"" Wright",37,1,31,5
+Washington,Precinct 121,Railroad Commissioner,,DEM,Chrysta Castaneda,23,7,14,2
+Washington,Precinct 121,Railroad Commissioner,,LIB,Matt Sterett,3,0,2,1
+Washington,Precinct 121,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",1,0,1,0
+Washington,Precinct 121,Railroad Commissioner,,,Over Votes,0,0,0,0
+Washington,Precinct 121,Railroad Commissioner,,,Under Votes,3,0,2,1
+Washington,Precinct 121,Chief Justice Supreme Court,,REP,Nathan Hecht,40,1,33,6
+Washington,Precinct 121,Chief Justice Supreme Court,,DEM,Amy Clark Meachum,24,7,15,2
+Washington,Precinct 121,Chief Justice Supreme Court,,LIB,Mark Ash,1,0,0,1
+Washington,Precinct 121,Chief Justice Supreme Court,,,Over Votes,0,0,0,0
+Washington,Precinct 121,Chief Justice Supreme Court,,,Under Votes,2,0,2,0
+Washington,Precinct 121,Justice Supreme Court Pl 6,,REP,Jane Bland,41,1,34,6
+Washington,Precinct 121,Justice Supreme Court Pl 6,,DEM,Kathy Cheng,23,7,14,2
+Washington,Precinct 121,Justice Supreme Court Pl 6,,,Over Votes,0,0,0,0
+Washington,Precinct 121,Justice Supreme Court Pl 6,,,Under Votes,3,0,2,1
+Washington,Precinct 121,Justice Supreme Court Pl 7,,REP,Jeff Boyd,38,1,32,5
+Washington,Precinct 121,Justice Supreme Court Pl 7,,DEM,Staci Williams,23,7,13,3
+Washington,Precinct 121,Justice Supreme Court Pl 7,,LIB,William Bryan Strange III,3,0,3,0
+Washington,Precinct 121,Justice Supreme Court Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 121,Justice Supreme Court Pl 7,,,Under Votes,3,0,2,1
+Washington,Precinct 121,Justice Supreme Court Pl 8,,REP,Brett Busby,38,1,32,5
+Washington,Precinct 121,Justice Supreme Court Pl 8,,DEM,Gisela D. Triana,25,7,16,2
+Washington,Precinct 121,Justice Supreme Court Pl 8,,LIB,Tom Oxford,1,0,0,1
+Washington,Precinct 121,Justice Supreme Court Pl 8,,,Over Votes,0,0,0,0
+Washington,Precinct 121,Justice Supreme Court Pl 8,,,Under Votes,3,0,2,1
+Washington,Precinct 121,Judge Ct of Crim App Pl 3,,REP,Bert Richardson,38,1,32,5
+Washington,Precinct 121,Judge Ct of Crim App Pl 3,,DEM,Elizabeth Davis Frizell,25,7,15,3
+Washington,Precinct 121,Judge Ct of Crim App Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 121,Judge Ct of Crim App Pl 3,,,Under Votes,4,0,3,1
+Washington,Precinct 121,Judge Ct of Crim App Pl 4,,REP,Kevin Patrick Yeary,37,1,31,5
+Washington,Precinct 121,Judge Ct of Crim App Pl 4,,DEM,Tina Clinton,27,7,17,3
+Washington,Precinct 121,Judge Ct of Crim App Pl 4,,,Over Votes,0,0,0,0
+Washington,Precinct 121,Judge Ct of Crim App Pl 4,,,Under Votes,3,0,2,1
+Washington,Precinct 121,Judge Ct of Crim App Pl 9,,REP,David Newell,42,1,36,5
+Washington,Precinct 121,Judge Ct of Crim App Pl 9,,DEM,Brandon Birmingham,22,7,12,3
+Washington,Precinct 121,Judge Ct of Crim App Pl 9,,,Over Votes,0,0,0,0
+Washington,Precinct 121,Judge Ct of Crim App Pl 9,,,Under Votes,3,0,2,1
+Washington,Precinct 121,Member State BoE Dist 10,,REP,Tom Maynard,37,1,31,5
+Washington,Precinct 121,Member State BoE Dist 10,,DEM,Marsha Burnett-Webster,24,7,15,2
+Washington,Precinct 121,Member State BoE Dist 10,,LIB,Trip Seibold,2,0,1,1
+Washington,Precinct 121,Member State BoE Dist 10,,,Over Votes,0,0,0,0
+Washington,Precinct 121,Member State BoE Dist 10,,,Under Votes,4,0,3,1
+Washington,Precinct 121,State Senate,18,REP,Lois W. Kolkhorst,47,1,40,6
+Washington,Precinct 121,State Senate,18,DEM,Michael Antalan,15,6,7,2
+Washington,Precinct 121,State Senate,18,,Over Votes,0,0,0,0
+Washington,Precinct 121,State Senate,18,,Under Votes,5,1,3,1
+Washington,Precinct 121,State Representative,13,REP,Ben Leman,53,5,42,6
+Washington,Precinct 121,State Representative,13,,Over Votes,0,0,0,0
+Washington,Precinct 121,State Representative,13,,Under Votes,14,3,8,3
+Washington,Precinct 121,Chief Justice 14th Ct of App Dist,,REP,Tracy Elizabeth Christopher,40,1,33,6
+Washington,Precinct 121,Chief Justice 14th Ct of App Dist,,DEM,Jane Robinson,23,7,14,2
+Washington,Precinct 121,Chief Justice 14th Ct of App Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 121,Chief Justice 14th Ct of App Dist,,,Under Votes,4,0,3,1
+Washington,Precinct 121,Justice 1st Ct of App Dist Pl 3,,REP,Russell Lloyd,37,1,32,4
+Washington,Precinct 121,Justice 1st Ct of App Dist Pl 3,,DEM,Veronica Rivas-Molloy,26,7,16,3
+Washington,Precinct 121,Justice 1st Ct of App Dist Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 121,Justice 1st Ct of App Dist Pl 3,,,Under Votes,4,0,2,2
+Washington,Precinct 121,Justice 1st Ct of App Dist Pl 5,,REP,Terry Adams,40,1,34,5
+Washington,Precinct 121,Justice 1st Ct of App Dist Pl 5,,DEM,Amparo Monique Guerra,23,7,14,2
+Washington,Precinct 121,Justice 1st Ct of App Dist Pl 5,,,Over Votes,0,0,0,0
+Washington,Precinct 121,Justice 1st Ct of App Dist Pl 5,,,Under Votes,4,0,2,2
+Washington,Precinct 121,Justice 14th Ct of App Dist Pl 7,,REP,Ken Wise,38,1,32,5
+Washington,Precinct 121,Justice 14th Ct of App Dist Pl 7,,DEM,"DEM Tamika ""Tami"" Craft",24,7,15,2
+Washington,Precinct 121,Justice 14th Ct of App Dist Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 121,Justice 14th Ct of App Dist Pl 7,,,Under Votes,5,0,3,2
+Washington,Precinct 121,Dist Judge 21st Judicial Dist,,REP,Carson Campbell,52,5,41,6
+Washington,Precinct 121,Dist Judge 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 121,Dist Judge 21st Judicial Dist,,,Under Votes,15,3,9,3
+Washington,Precinct 121,Dist Judge 335th Judicial Dist,,REP,Reva L Towslee Corbett,52,5,41,6
+Washington,Precinct 121,Dist Judge 335th Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 121,Dist Judge 335th Judicial Dist,,,Under Votes,15,3,9,3
+Washington,Precinct 121,Dist Attorney 21st Judicial Dist,,REP,Julie Renken,52,5,41,6
+Washington,Precinct 121,Dist Attorney 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 121,Dist Attorney 21st Judicial Dist,,,Under Votes,15,3,9,3
+Washington,Precinct 121,County Attorney,,REP,Renee Ann Mueller,52,5,41,6
+Washington,Precinct 121,County Attorney,,,Over Votes,0,0,0,0
+Washington,Precinct 121,County Attorney,,,Under Votes,15,3,9,3
+Washington,Precinct 121,Sheriff,,REP,Otto Hanak,54,5,43,6
+Washington,Precinct 121,Sheriff,,,Over Votes,0,0,0,0
+Washington,Precinct 121,Sheriff,,,Under Votes,13,3,7,3
+Washington,Precinct 121,County Tax Assessor-Collector,,REP,Cheryl Tesch Gaskamp,53,5,42,6
+Washington,Precinct 121,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Washington,Precinct 121,County Tax Assessor-Collector,,,Under Votes,14,3,8,3
+Washington,Precinct 121,County Commissioner Pct 1,,REP,Donald Koester,36,1,30,5
+Washington,Precinct 121,County Commissioner Pct 1,,DEM,Shirley Harris-Jackson,28,7,18,3
+Washington,Precinct 121,County Commissioner Pct 1,,,Over Votes,0,0,0,0
+Washington,Precinct 121,County Commissioner Pct 1,,,Under Votes,3,0,2,1
+Washington,Precinct 121,Constable Pct 1,,REP,Ken Holle,51,5,40,6
+Washington,Precinct 121,Constable Pct 1,,,Over Votes,0,0,0,0
+Washington,Precinct 121,Constable Pct 1,,,Under Votes,16,3,10,3
+Washington,Precinct 202,Registered Voters,,,,315,,,
+Washington,Precinct 202,Ballots Cast,,,,186,22,141,23
+Washington,Precinct 202,Ballots Cast - Blank,,,,0,0,0,0
+Washington,Precinct 202,President,,REP,Donald J. Trump / Michael R. Pence,118,15,91,12
+Washington,Precinct 202,President,,DEM,Joseph R. Biden / Kamala D. Harris,63,6,46,11
+Washington,Precinct 202,President,,LIB,"Jo Jorgensen / Jeremy ""Spike"" Cohen",2,1,1,0
+Washington,Precinct 202,President,,GRN,Howie Hawkins / Angela Walker,0,0,0,0
+Washington,Precinct 202,President,,,Write-ins,0,0,0,0
+Washington,Precinct 202,President,,,Over Votes,2,0,2,0
+Washington,Precinct 202,President,,,Under Votes,1,0,1,0
+Washington,Precinct 202,U.S. Senate,,REP,John Cornyn,110,15,87,8
+Washington,Precinct 202,U.S. Senate,,DEM,"DEM Mary ""MJ"" Hegar",61,5,45,11
+Washington,Precinct 202,U.S. Senate,,LIB,Kerry Douglas McKennon,2,1,0,1
+Washington,Precinct 202,U.S. Senate,,GRN,David B. Collins,2,1,1,0
+Washington,Precinct 202,U.S. Senate,,,Write-ins,0,0,0,0
+Washington,Precinct 202,U.S. Senate,,,Over Votes,2,0,2,0
+Washington,Precinct 202,U.S. Senate,,,Under Votes,8,0,6,2
+Washington,Precinct 202,U.S. House,10,REP,Michael McCaul,114,14,91,9
+Washington,Precinct 202,U.S. House,10,DEM,Mike Siegel,62,7,43,12
+Washington,Precinct 202,U.S. House,10,LIB,Roy Eriksen,3,1,1,1
+Washington,Precinct 202,U.S. House,10,,Over Votes,0,0,0,0
+Washington,Precinct 202,U.S. House,10,,Under Votes,7,0,6,1
+Washington,Precinct 202,Railroad Commissioner,,REP,"James ""Jim"" Wright",113,14,90,9
+Washington,Precinct 202,Railroad Commissioner,,DEM,Chrysta Castaneda,58,7,40,11
+Washington,Precinct 202,Railroad Commissioner,,LIB,Matt Sterett,3,0,2,1
+Washington,Precinct 202,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",5,1,4,0
+Washington,Precinct 202,Railroad Commissioner,,,Over Votes,0,0,0,0
+Washington,Precinct 202,Railroad Commissioner,,,Under Votes,7,0,5,2
+Washington,Precinct 202,Chief Justice Supreme Court,,REP,Nathan Hecht,111,14,88,9
+Washington,Precinct 202,Chief Justice Supreme Court,,DEM,Amy Clark Meachum,64,8,44,12
+Washington,Precinct 202,Chief Justice Supreme Court,,LIB,Mark Ash,1,0,1,0
+Washington,Precinct 202,Chief Justice Supreme Court,,,Over Votes,0,0,0,0
+Washington,Precinct 202,Chief Justice Supreme Court,,,Under Votes,10,0,8,2
+Washington,Precinct 202,Justice Supreme Court Pl 6,,REP,Jane Bland,113,15,89,9
+Washington,Precinct 202,Justice Supreme Court Pl 6,,DEM,Kathy Cheng,63,7,44,12
+Washington,Precinct 202,Justice Supreme Court Pl 6,,,Over Votes,0,0,0,0
+Washington,Precinct 202,Justice Supreme Court Pl 6,,,Under Votes,10,0,8,2
+Washington,Precinct 202,Justice Supreme Court Pl 7,,REP,Jeff Boyd,112,14,89,9
+Washington,Precinct 202,Justice Supreme Court Pl 7,,DEM,Staci Williams,63,8,43,12
+Washington,Precinct 202,Justice Supreme Court Pl 7,,LIB,William Bryan Strange III,1,0,1,0
+Washington,Precinct 202,Justice Supreme Court Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 202,Justice Supreme Court Pl 7,,,Under Votes,10,0,8,2
+Washington,Precinct 202,Justice Supreme Court Pl 8,,REP,Brett Busby,112,14,89,9
+Washington,Precinct 202,Justice Supreme Court Pl 8,,DEM,Gisela D. Triana,62,7,43,12
+Washington,Precinct 202,Justice Supreme Court Pl 8,,LIB,Tom Oxford,2,1,1,0
+Washington,Precinct 202,Justice Supreme Court Pl 8,,,Over Votes,0,0,0,0
+Washington,Precinct 202,Justice Supreme Court Pl 8,,,Under Votes,10,0,8,2
+Washington,Precinct 202,Judge Ct of Crim App Pl 3,,REP,Bert Richardson,115,15,90,10
+Washington,Precinct 202,Judge Ct of Crim App Pl 3,,DEM,Elizabeth Davis Frizell,61,7,43,11
+Washington,Precinct 202,Judge Ct of Crim App Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 202,Judge Ct of Crim App Pl 3,,,Under Votes,10,0,8,2
+Washington,Precinct 202,Judge Ct of Crim App Pl 4,,REP,Kevin Patrick Yeary,116,14,93,9
+Washington,Precinct 202,Judge Ct of Crim App Pl 4,,DEM,Tina Clinton,60,7,41,12
+Washington,Precinct 202,Judge Ct of Crim App Pl 4,,,Over Votes,0,0,0,0
+Washington,Precinct 202,Judge Ct of Crim App Pl 4,,,Under Votes,10,1,7,2
+Washington,Precinct 202,Judge Ct of Crim App Pl 9,,REP,David Newell,113,15,89,9
+Washington,Precinct 202,Judge Ct of Crim App Pl 9,,DEM,Brandon Birmingham,63,7,44,12
+Washington,Precinct 202,Judge Ct of Crim App Pl 9,,,Over Votes,0,0,0,0
+Washington,Precinct 202,Judge Ct of Crim App Pl 9,,,Under Votes,10,0,8,2
+Washington,Precinct 202,Member State BoE Dist 10,,REP,Tom Maynard,113,15,89,9
+Washington,Precinct 202,Member State BoE Dist 10,,DEM,Marsha Burnett-Webster,63,6,46,11
+Washington,Precinct 202,Member State BoE Dist 10,,LIB,Trip Seibold,2,1,0,1
+Washington,Precinct 202,Member State BoE Dist 10,,,Over Votes,0,0,0,0
+Washington,Precinct 202,Member State BoE Dist 10,,,Under Votes,8,0,6,2
+Washington,Precinct 202,State Senate,18,REP,Lois W. Kolkhorst,127,16,99,12
+Washington,Precinct 202,State Senate,18,DEM,Michael Antalan,52,6,37,9
+Washington,Precinct 202,State Senate,18,,Over Votes,0,0,0,0
+Washington,Precinct 202,State Senate,18,,Under Votes,7,0,5,2
+Washington,Precinct 202,State Representative,13,REP,Ben Leman,139,18,106,15
+Washington,Precinct 202,State Representative,13,,Over Votes,0,0,0,0
+Washington,Precinct 202,State Representative,13,,Under Votes,47,4,35,8
+Washington,Precinct 202,Chief Justice 14th Ct of App Dist,,REP,Tracy Elizabeth Christopher,112,14,89,9
+Washington,Precinct 202,Chief Justice 14th Ct of App Dist,,DEM,Jane Robinson,63,8,44,11
+Washington,Precinct 202,Chief Justice 14th Ct of App Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 202,Chief Justice 14th Ct of App Dist,,,Under Votes,11,0,8,3
+Washington,Precinct 202,Justice 1st Ct of App Dist Pl 3,,REP,Russell Lloyd,118,14,94,10
+Washington,Precinct 202,Justice 1st Ct of App Dist Pl 3,,DEM,Veronica Rivas-Molloy,57,8,39,10
+Washington,Precinct 202,Justice 1st Ct of App Dist Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 202,Justice 1st Ct of App Dist Pl 3,,,Under Votes,11,0,8,3
+Washington,Precinct 202,Justice 1st Ct of App Dist Pl 5,,REP,Terry Adams,117,14,93,10
+Washington,Precinct 202,Justice 1st Ct of App Dist Pl 5,,DEM,Amparo Monique Guerra,59,8,41,10
+Washington,Precinct 202,Justice 1st Ct of App Dist Pl 5,,,Over Votes,0,0,0,0
+Washington,Precinct 202,Justice 1st Ct of App Dist Pl 5,,,Under Votes,10,0,7,3
+Washington,Precinct 202,Justice 14th Ct of App Dist Pl 7,,REP,Ken Wise,116,14,92,10
+Washington,Precinct 202,Justice 14th Ct of App Dist Pl 7,,DEM,"DEM Tamika ""Tami"" Craft",60,8,42,10
+Washington,Precinct 202,Justice 14th Ct of App Dist Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 202,Justice 14th Ct of App Dist Pl 7,,,Under Votes,10,0,7,3
+Washington,Precinct 202,Dist Judge 21st Judicial Dist,,REP,Carson Campbell,142,18,109,15
+Washington,Precinct 202,Dist Judge 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 202,Dist Judge 21st Judicial Dist,,,Under Votes,44,4,32,8
+Washington,Precinct 202,Dist Judge 335th Judicial Dist,,REP,Reva L Towslee Corbett,140,18,107,15
+Washington,Precinct 202,Dist Judge 335th Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 202,Dist Judge 335th Judicial Dist,,,Under Votes,46,4,34,8
+Washington,Precinct 202,Dist Attorney 21st Judicial Dist,,REP,Julie Renken,142,18,110,14
+Washington,Precinct 202,Dist Attorney 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 202,Dist Attorney 21st Judicial Dist,,,Under Votes,44,4,31,9
+Washington,Precinct 202,County Attorney,,REP,Renee Ann Mueller,142,18,111,13
+Washington,Precinct 202,County Attorney,,,Over Votes,0,0,0,0
+Washington,Precinct 202,County Attorney,,,Under Votes,44,4,30,10
+Washington,Precinct 202,Sheriff,,REP,Otto Hanak,146,18,114,14
+Washington,Precinct 202,Sheriff,,,Over Votes,0,0,0,0
+Washington,Precinct 202,Sheriff,,,Under Votes,40,4,27,9
+Washington,Precinct 202,County Tax Assessor-Collector,,REP,Cheryl Tesch Gaskamp,145,18,112,15
+Washington,Precinct 202,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Washington,Precinct 202,County Tax Assessor-Collector,,,Under Votes,41,4,29,8
+Washington,Precinct 202,Constable Pct 2,,REP,"George D. ""Trey"" Holleway III",141,17,109,15
+Washington,Precinct 202,Constable Pct 2,,,Over Votes,0,0,0,0
+Washington,Precinct 202,Constable Pct 2,,,Under Votes,45,5,32,8
+Washington,Precinct 203,Registered Voters,,,,1954,,,
+Washington,Precinct 203,Ballots Cast,,,,1447,125,1037,285
+Washington,Precinct 203,Ballots Cast - Blank,,,,0,0,0,0
+Washington,Precinct 203,President,,REP,Donald J. Trump / Michael R. Pence,1116,63,831,222
+Washington,Precinct 203,President,,DEM,Joseph R. Biden / Kamala D. Harris,300,61,186,53
+Washington,Precinct 203,President,,LIB,"Jo Jorgensen / Jeremy ""Spike"" Cohen",17,0,11,6
+Washington,Precinct 203,President,,GRN,Howie Hawkins / Angela Walker,1,0,0,1
+Washington,Precinct 203,President,,,Write-ins,2,0,2,0
+Washington,Precinct 203,President,,,Over Votes,2,0,1,1
+Washington,Precinct 203,President,,,Under Votes,9,1,6,2
+Washington,Precinct 203,U.S. Senate,,REP,John Cornyn,1114,61,834,219
+Washington,Precinct 203,U.S. Senate,,DEM,"DEM Mary ""MJ"" Hegar",277,56,176,45
+Washington,Precinct 203,U.S. Senate,,LIB,Kerry Douglas McKennon,19,0,11,8
+Washington,Precinct 203,U.S. Senate,,GRN,David B. Collins,5,1,1,3
+Washington,Precinct 203,U.S. Senate,,,Write-ins,1,0,1,0
+Washington,Precinct 203,U.S. Senate,,,Over Votes,1,0,1,0
+Washington,Precinct 203,U.S. Senate,,,Under Votes,30,7,13,10
+Washington,Precinct 203,U.S. House,10,REP,Michael McCaul,1133,62,847,224
+Washington,Precinct 203,U.S. House,10,DEM,Mike Siegel,255,56,158,41
+Washington,Precinct 203,U.S. House,10,LIB,Roy Eriksen,25,0,15,10
+Washington,Precinct 203,U.S. House,10,,Over Votes,0,0,0,0
+Washington,Precinct 203,U.S. House,10,,Under Votes,34,7,17,10
+Washington,Precinct 203,Railroad Commissioner,,REP,"James ""Jim"" Wright",1092,56,820,216
+Washington,Precinct 203,Railroad Commissioner,,DEM,Chrysta Castaneda,277,54,180,43
+Washington,Precinct 203,Railroad Commissioner,,LIB,Matt Sterett,22,0,11,11
+Washington,Precinct 203,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",8,2,5,1
+Washington,Precinct 203,Railroad Commissioner,,,Over Votes,0,0,0,0
+Washington,Precinct 203,Railroad Commissioner,,,Under Votes,48,13,21,14
+Washington,Precinct 203,Chief Justice Supreme Court,,REP,Nathan Hecht,1099,61,824,214
+Washington,Precinct 203,Chief Justice Supreme Court,,DEM,Amy Clark Meachum,271,50,175,46
+Washington,Precinct 203,Chief Justice Supreme Court,,LIB,Mark Ash,22,0,14,8
+Washington,Precinct 203,Chief Justice Supreme Court,,,Over Votes,0,0,0,0
+Washington,Precinct 203,Chief Justice Supreme Court,,,Under Votes,55,14,24,17
+Washington,Precinct 203,Justice Supreme Court Pl 6,,REP,Jane Bland,1116,61,833,222
+Washington,Precinct 203,Justice Supreme Court Pl 6,,DEM,Kathy Cheng,266,50,173,43
+Washington,Precinct 203,Justice Supreme Court Pl 6,,,Over Votes,0,0,0,0
+Washington,Precinct 203,Justice Supreme Court Pl 6,,,Under Votes,65,14,31,20
+Washington,Precinct 203,Justice Supreme Court Pl 7,,REP,Jeff Boyd,1099,60,821,218
+Washington,Precinct 203,Justice Supreme Court Pl 7,,DEM,Staci Williams,266,49,176,41
+Washington,Precinct 203,Justice Supreme Court Pl 7,,LIB,William Bryan Strange III,26,1,13,12
+Washington,Precinct 203,Justice Supreme Court Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 203,Justice Supreme Court Pl 7,,,Under Votes,56,15,27,14
+Washington,Precinct 203,Justice Supreme Court Pl 8,,REP,Brett Busby,1103,59,825,219
+Washington,Precinct 203,Justice Supreme Court Pl 8,,DEM,Gisela D. Triana,264,51,174,39
+Washington,Precinct 203,Justice Supreme Court Pl 8,,LIB,Tom Oxford,24,1,11,12
+Washington,Precinct 203,Justice Supreme Court Pl 8,,,Over Votes,0,0,0,0
+Washington,Precinct 203,Justice Supreme Court Pl 8,,,Under Votes,56,14,27,15
+Washington,Precinct 203,Judge Ct of Crim App Pl 3,,REP,Bert Richardson,1115,61,833,221
+Washington,Precinct 203,Judge Ct of Crim App Pl 3,,DEM,Elizabeth Davis Frizell,272,49,174,49
+Washington,Precinct 203,Judge Ct of Crim App Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 203,Judge Ct of Crim App Pl 3,,,Under Votes,60,15,30,15
+Washington,Precinct 203,Judge Ct of Crim App Pl 4,,REP,Kevin Patrick Yeary,1103,59,824,220
+Washington,Precinct 203,Judge Ct of Crim App Pl 4,,DEM,Tina Clinton,266,51,168,47
+Washington,Precinct 203,Judge Ct of Crim App Pl 4,,,Over Votes,0,0,0,0
+Washington,Precinct 203,Judge Ct of Crim App Pl 4,,,Under Votes,78,15,45,18
+Washington,Precinct 203,Judge Ct of Crim App Pl 9,,REP,David Newell,1120,63,835,222
+Washington,Precinct 203,Judge Ct of Crim App Pl 9,,DEM,Brandon Birmingham,256,47,165,44
+Washington,Precinct 203,Judge Ct of Crim App Pl 9,,,Over Votes,0,0,0,0
+Washington,Precinct 203,Judge Ct of Crim App Pl 9,,,Under Votes,71,15,37,19
+Washington,Precinct 203,Member State BoE Dist 10,,REP,Tom Maynard,1097,58,820,219
+Washington,Precinct 203,Member State BoE Dist 10,,DEM,Marsha Burnett-Webster,264,52,169,43
+Washington,Precinct 203,Member State BoE Dist 10,,LIB,Trip Seibold,28,1,15,12
+Washington,Precinct 203,Member State BoE Dist 10,,,Over Votes,0,0,0,0
+Washington,Precinct 203,Member State BoE Dist 10,,,Under Votes,58,14,33,11
+Washington,Precinct 203,State Senate,18,REP,Lois W. Kolkhorst,1184,76,870,238
+Washington,Precinct 203,State Senate,18,DEM,Michael Antalan,217,38,140,39
+Washington,Precinct 203,State Senate,18,,Over Votes,0,0,0,0
+Washington,Precinct 203,State Senate,18,,Under Votes,46,11,27,8
+Washington,Precinct 203,State Representative,13,REP,Ben Leman,1178,76,871,231
+Washington,Precinct 203,State Representative,13,,Over Votes,0,0,0,0
+Washington,Precinct 203,State Representative,13,,Under Votes,269,49,166,54
+Washington,Precinct 203,Chief Justice 14th Ct of App Dist,,REP,Tracy Elizabeth Christopher,1110,60,829,221
+Washington,Precinct 203,Chief Justice 14th Ct of App Dist,,DEM,Jane Robinson,258,50,165,43
+Washington,Precinct 203,Chief Justice 14th Ct of App Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 203,Chief Justice 14th Ct of App Dist,,,Under Votes,79,15,43,21
+Washington,Precinct 203,Justice 1st Ct of App Dist Pl 3,,REP,Russell Lloyd,1104,61,824,219
+Washington,Precinct 203,Justice 1st Ct of App Dist Pl 3,,DEM,Veronica Rivas-Molloy,270,48,175,47
+Washington,Precinct 203,Justice 1st Ct of App Dist Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 203,Justice 1st Ct of App Dist Pl 3,,,Under Votes,73,16,38,19
+Washington,Precinct 203,Justice 1st Ct of App Dist Pl 5,,REP,Terry Adams,1123,61,841,221
+Washington,Precinct 203,Justice 1st Ct of App Dist Pl 5,,DEM,Amparo Monique Guerra,257,49,163,45
+Washington,Precinct 203,Justice 1st Ct of App Dist Pl 5,,,Over Votes,0,0,0,0
+Washington,Precinct 203,Justice 1st Ct of App Dist Pl 5,,,Under Votes,67,15,33,19
+Washington,Precinct 203,Justice 14th Ct of App Dist Pl 7,,REP,Ken Wise,1119,61,839,219
+Washington,Precinct 203,Justice 14th Ct of App Dist Pl 7,,DEM,"DEM Tamika ""Tami"" Craft",253,48,161,44
+Washington,Precinct 203,Justice 14th Ct of App Dist Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 203,Justice 14th Ct of App Dist Pl 7,,,Under Votes,75,16,37,22
+Washington,Precinct 203,Dist Judge 21st Judicial Dist,,REP,Carson Campbell,1194,74,881,239
+Washington,Precinct 203,Dist Judge 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 203,Dist Judge 21st Judicial Dist,,,Under Votes,253,51,156,46
+Washington,Precinct 203,Dist Judge 335th Judicial Dist,,REP,Reva L Towslee Corbett,1190,74,881,235
+Washington,Precinct 203,Dist Judge 335th Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 203,Dist Judge 335th Judicial Dist,,,Under Votes,257,51,156,50
+Washington,Precinct 203,Dist Attorney 21st Judicial Dist,,REP,Julie Renken,1194,76,885,233
+Washington,Precinct 203,Dist Attorney 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 203,Dist Attorney 21st Judicial Dist,,,Under Votes,253,49,152,52
+Washington,Precinct 203,County Attorney,,REP,Renee Ann Mueller,1187,78,875,234
+Washington,Precinct 203,County Attorney,,,Over Votes,0,0,0,0
+Washington,Precinct 203,County Attorney,,,Under Votes,260,47,162,51
+Washington,Precinct 203,Sheriff,,REP,Otto Hanak,1184,82,874,228
+Washington,Precinct 203,Sheriff,,,Over Votes,0,0,0,0
+Washington,Precinct 203,Sheriff,,,Under Votes,263,43,163,57
+Washington,Precinct 203,County Tax Assessor-Collector,,REP,Cheryl Tesch Gaskamp,1190,75,879,236
+Washington,Precinct 203,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Washington,Precinct 203,County Tax Assessor-Collector,,,Under Votes,257,50,158,49
+Washington,Precinct 203,Constable Pct 2,,REP,"George D. ""Trey"" Holleway III",1171,74,868,229
+Washington,Precinct 203,Constable Pct 2,,,Over Votes,0,0,0,0
+Washington,Precinct 203,Constable Pct 2,,,Under Votes,276,51,169,56
+Washington,Precinct 205,Registered Voters,,,,2563,,,
+Washington,Precinct 205,Ballots Cast,,,,1943,249,1486,208
+Washington,Precinct 205,Ballots Cast - Blank,,,,0,0,0,0
+Washington,Precinct 205,President,,REP,Donald J. Trump / Michael R. Pence,1401,139,1125,137
+Washington,Precinct 205,President,,DEM,Joseph R. Biden / Kamala D. Harris,494,104,332,58
+Washington,Precinct 205,President,,LIB,"Jo Jorgensen / Jeremy ""Spike"" Cohen",25,1,17,7
+Washington,Precinct 205,President,,GRN,Howie Hawkins / Angela Walker,5,2,1,2
+Washington,Precinct 205,President,,,Write-ins,3,0,3,0
+Washington,Precinct 205,President,,,Over Votes,2,0,0,2
+Washington,Precinct 205,President,,,Under Votes,13,3,8,2
+Washington,Precinct 205,U.S. Senate,,REP,John Cornyn,1432,147,1149,136
+Washington,Precinct 205,U.S. Senate,,DEM,"DEM Mary ""MJ"" Hegar",460,98,308,54
+Washington,Precinct 205,U.S. Senate,,LIB,Kerry Douglas McKennon,24,0,16,8
+Washington,Precinct 205,U.S. Senate,,GRN,David B. Collins,6,0,4,2
+Washington,Precinct 205,U.S. Senate,,,Write-ins,0,0,0,0
+Washington,Precinct 205,U.S. Senate,,,Over Votes,1,0,0,1
+Washington,Precinct 205,U.S. Senate,,,Under Votes,20,4,9,7
+Washington,Precinct 205,U.S. House,10,REP,Michael McCaul,1455,157,1155,143
+Washington,Precinct 205,U.S. House,10,DEM,Mike Siegel,432,88,291,53
+Washington,Precinct 205,U.S. House,10,LIB,Roy Eriksen,24,0,19,5
+Washington,Precinct 205,U.S. House,10,,Over Votes,0,0,0,0
+Washington,Precinct 205,U.S. House,10,,Under Votes,32,4,21,7
+Washington,Precinct 205,Railroad Commissioner,,REP,"James ""Jim"" Wright",1406,148,1118,140
+Washington,Precinct 205,Railroad Commissioner,,DEM,Chrysta Castaneda,442,86,308,48
+Washington,Precinct 205,Railroad Commissioner,,LIB,Matt Sterett,29,1,21,7
+Washington,Precinct 205,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",16,3,9,4
+Washington,Precinct 205,Railroad Commissioner,,,Over Votes,0,0,0,0
+Washington,Precinct 205,Railroad Commissioner,,,Under Votes,50,11,30,9
+Washington,Precinct 205,Chief Justice Supreme Court,,REP,Nathan Hecht,1416,152,1134,130
+Washington,Precinct 205,Chief Justice Supreme Court,,DEM,Amy Clark Meachum,450,87,305,58
+Washington,Precinct 205,Chief Justice Supreme Court,,LIB,Mark Ash,32,1,20,11
+Washington,Precinct 205,Chief Justice Supreme Court,,,Over Votes,0,0,0,0
+Washington,Precinct 205,Chief Justice Supreme Court,,,Under Votes,45,9,27,9
+Washington,Precinct 205,Justice Supreme Court Pl 6,,REP,Jane Bland,1449,148,1160,141
+Washington,Precinct 205,Justice Supreme Court Pl 6,,DEM,Kathy Cheng,434,89,289,56
+Washington,Precinct 205,Justice Supreme Court Pl 6,,,Over Votes,0,0,0,0
+Washington,Precinct 205,Justice Supreme Court Pl 6,,,Under Votes,60,12,37,11
+Washington,Precinct 205,Justice Supreme Court Pl 7,,REP,Jeff Boyd,1409,147,1129,133
+Washington,Precinct 205,Justice Supreme Court Pl 7,,DEM,Staci Williams,452,89,305,58
+Washington,Precinct 205,Justice Supreme Court Pl 7,,LIB,William Bryan Strange III,30,1,20,9
+Washington,Precinct 205,Justice Supreme Court Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 205,Justice Supreme Court Pl 7,,,Under Votes,52,12,32,8
+Washington,Precinct 205,Justice Supreme Court Pl 8,,REP,Brett Busby,1433,151,1146,136
+Washington,Precinct 205,Justice Supreme Court Pl 8,,DEM,Gisela D. Triana,428,84,288,56
+Washington,Precinct 205,Justice Supreme Court Pl 8,,LIB,Tom Oxford,34,1,24,9
+Washington,Precinct 205,Justice Supreme Court Pl 8,,,Over Votes,0,0,0,0
+Washington,Precinct 205,Justice Supreme Court Pl 8,,,Under Votes,48,13,28,7
+Washington,Precinct 205,Judge Ct of Crim App Pl 3,,REP,Bert Richardson,1437,150,1152,135
+Washington,Precinct 205,Judge Ct of Crim App Pl 3,,DEM,Elizabeth Davis Frizell,437,85,294,58
+Washington,Precinct 205,Judge Ct of Crim App Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 205,Judge Ct of Crim App Pl 3,,,Under Votes,69,14,40,15
+Washington,Precinct 205,Judge Ct of Crim App Pl 4,,REP,Kevin Patrick Yeary,1403,145,1121,137
+Washington,Precinct 205,Judge Ct of Crim App Pl 4,,DEM,Tina Clinton,446,89,299,58
+Washington,Precinct 205,Judge Ct of Crim App Pl 4,,,Over Votes,0,0,0,0
+Washington,Precinct 205,Judge Ct of Crim App Pl 4,,,Under Votes,94,15,66,13
+Washington,Precinct 205,Judge Ct of Crim App Pl 9,,REP,David Newell,1427,147,1142,138
+Washington,Precinct 205,Judge Ct of Crim App Pl 9,,DEM,Brandon Birmingham,433,84,295,54
+Washington,Precinct 205,Judge Ct of Crim App Pl 9,,,Over Votes,0,0,0,0
+Washington,Precinct 205,Judge Ct of Crim App Pl 9,,,Under Votes,83,18,49,16
+Washington,Precinct 205,Member State BoE Dist 10,,REP,Tom Maynard,1398,148,1117,133
+Washington,Precinct 205,Member State BoE Dist 10,,DEM,Marsha Burnett-Webster,449,90,306,53
+Washington,Precinct 205,Member State BoE Dist 10,,LIB,Trip Seibold,33,2,21,10
+Washington,Precinct 205,Member State BoE Dist 10,,,Over Votes,0,0,0,0
+Washington,Precinct 205,Member State BoE Dist 10,,,Under Votes,63,9,42,12
+Washington,Precinct 205,State Senate,18,REP,Lois W. Kolkhorst,1525,170,1196,159
+Washington,Precinct 205,State Senate,18,DEM,Michael Antalan,373,69,262,42
+Washington,Precinct 205,State Senate,18,,Over Votes,0,0,0,0
+Washington,Precinct 205,State Senate,18,,Under Votes,45,10,28,7
+Washington,Precinct 205,State Representative,13,REP,Ben Leman,1583,177,1240,166
+Washington,Precinct 205,State Representative,13,,Over Votes,0,0,0,0
+Washington,Precinct 205,State Representative,13,,Under Votes,359,72,245,42
+Washington,Precinct 205,Chief Justice 14th Ct of App Dist,,REP,Tracy Elizabeth Christopher,1410,144,1131,135
+Washington,Precinct 205,Chief Justice 14th Ct of App Dist,,DEM,Jane Robinson,447,89,298,60
+Washington,Precinct 205,Chief Justice 14th Ct of App Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 205,Chief Justice 14th Ct of App Dist,,,Under Votes,86,16,57,13
+Washington,Precinct 205,Justice 1st Ct of App Dist Pl 3,,REP,Russell Lloyd,1419,145,1135,139
+Washington,Precinct 205,Justice 1st Ct of App Dist Pl 3,,DEM,Veronica Rivas-Molloy,440,89,295,56
+Washington,Precinct 205,Justice 1st Ct of App Dist Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 205,Justice 1st Ct of App Dist Pl 3,,,Under Votes,84,15,56,13
+Washington,Precinct 205,Justice 1st Ct of App Dist Pl 5,,REP,Terry Adams,1436,151,1144,141
+Washington,Precinct 205,Justice 1st Ct of App Dist Pl 5,,DEM,Amparo Monique Guerra,429,86,290,53
+Washington,Precinct 205,Justice 1st Ct of App Dist Pl 5,,,Over Votes,0,0,0,0
+Washington,Precinct 205,Justice 1st Ct of App Dist Pl 5,,,Under Votes,78,12,52,14
+Washington,Precinct 205,Justice 14th Ct of App Dist Pl 7,,REP,Ken Wise,1438,153,1145,140
+Washington,Precinct 205,Justice 14th Ct of App Dist Pl 7,,DEM,"DEM Tamika ""Tami"" Craft",427,84,289,54
+Washington,Precinct 205,Justice 14th Ct of App Dist Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 205,Justice 14th Ct of App Dist Pl 7,,,Under Votes,78,12,52,14
+Washington,Precinct 205,Dist Judge 21st Judicial Dist,,REP,Carson Campbell,1605,184,1249,172
+Washington,Precinct 205,Dist Judge 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 205,Dist Judge 21st Judicial Dist,,,Under Votes,337,65,236,36
+Washington,Precinct 205,Dist Judge 335th Judicial Dist,,REP,Reva L Towslee Corbett,1602,183,1250,169
+Washington,Precinct 205,Dist Judge 335th Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 205,Dist Judge 335th Judicial Dist,,,Under Votes,340,66,235,39
+Washington,Precinct 205,Dist Attorney 21st Judicial Dist,,REP,Julie Renken,1619,188,1262,169
+Washington,Precinct 205,Dist Attorney 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 205,Dist Attorney 21st Judicial Dist,,,Under Votes,323,61,223,39
+Washington,Precinct 205,County Attorney,,REP,Renee Ann Mueller,1596,184,1241,171
+Washington,Precinct 205,County Attorney,,,Over Votes,0,0,0,0
+Washington,Precinct 205,County Attorney,,,Under Votes,346,65,244,37
+Washington,Precinct 205,Sheriff,,REP,Otto Hanak,1598,184,1242,172
+Washington,Precinct 205,Sheriff,,,Over Votes,0,0,0,0
+Washington,Precinct 205,Sheriff,,,Under Votes,344,65,243,36
+Washington,Precinct 205,County Tax Assessor-Collector,,REP,Cheryl Tesch Gaskamp,1613,184,1259,170
+Washington,Precinct 205,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Washington,Precinct 205,County Tax Assessor-Collector,,,Under Votes,329,65,226,38
+Washington,Precinct 205,Constable Pct 2,,REP,"George D. ""Trey"" Holleway III",1577,180,1231,166
+Washington,Precinct 205,Constable Pct 2,,,Over Votes,0,0,0,0
+Washington,Precinct 205,Constable Pct 2,,,Under Votes,365,69,254,42
+Washington,Precinct 208,Registered Voters,,,,1482,,,
+Washington,Precinct 208,Ballots Cast,,,,1163,86,897,180
+Washington,Precinct 208,Ballots Cast - Blank,,,,1,0,1,0
+Washington,Precinct 208,President,,REP,Donald J. Trump / Michael R. Pence,995,46,790,159
+Washington,Precinct 208,President,,DEM,Joseph R. Biden / Kamala D. Harris,147,38,90,19
+Washington,Precinct 208,President,,LIB,"Jo Jorgensen / Jeremy ""Spike"" Cohen",10,0,10,0
+Washington,Precinct 208,President,,GRN,Howie Hawkins / Angela Walker,2,0,1,1
+Washington,Precinct 208,President,,,Write-ins,4,0,3,1
+Washington,Precinct 208,President,,,Over Votes,0,0,0,0
+Washington,Precinct 208,President,,,Under Votes,5,2,3,0
+Washington,Precinct 208,U.S. Senate,,REP,John Cornyn,995,46,791,158
+Washington,Precinct 208,U.S. Senate,,DEM,"DEM Mary ""MJ"" Hegar",135,37,78,20
+Washington,Precinct 208,U.S. Senate,,LIB,Kerry Douglas McKennon,18,0,17,1
+Washington,Precinct 208,U.S. Senate,,GRN,David B. Collins,2,0,2,0
+Washington,Precinct 208,U.S. Senate,,,Write-ins,0,0,0,0
+Washington,Precinct 208,U.S. Senate,,,Over Votes,0,0,0,0
+Washington,Precinct 208,U.S. Senate,,,Under Votes,13,3,9,1
+Washington,Precinct 208,U.S. House,10,REP,Michael McCaul,1009,49,795,165
+Washington,Precinct 208,U.S. House,10,DEM,Mike Siegel,118,36,70,12
+Washington,Precinct 208,U.S. House,10,LIB,Roy Eriksen,18,0,15,3
+Washington,Precinct 208,U.S. House,10,,Over Votes,0,0,0,0
+Washington,Precinct 208,U.S. House,10,,Under Votes,18,1,17,0
+Washington,Precinct 208,Railroad Commissioner,,REP,"James ""Jim"" Wright",977,41,787,149
+Washington,Precinct 208,Railroad Commissioner,,DEM,Chrysta Castaneda,124,40,69,15
+Washington,Precinct 208,Railroad Commissioner,,LIB,Matt Sterett,25,1,21,3
+Washington,Precinct 208,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",7,0,5,2
+Washington,Precinct 208,Railroad Commissioner,,,Over Votes,0,0,0,0
+Washington,Precinct 208,Railroad Commissioner,,,Under Votes,30,4,15,11
+Washington,Precinct 208,Chief Justice Supreme Court,,REP,Nathan Hecht,979,46,779,154
+Washington,Precinct 208,Chief Justice Supreme Court,,DEM,Amy Clark Meachum,128,34,78,16
+Washington,Precinct 208,Chief Justice Supreme Court,,LIB,Mark Ash,24,1,21,2
+Washington,Precinct 208,Chief Justice Supreme Court,,,Over Votes,0,0,0,0
+Washington,Precinct 208,Chief Justice Supreme Court,,,Under Votes,32,5,19,8
+Washington,Precinct 208,Justice Supreme Court Pl 6,,REP,Jane Bland,1010,46,806,158
+Washington,Precinct 208,Justice Supreme Court Pl 6,,DEM,Kathy Cheng,116,34,69,13
+Washington,Precinct 208,Justice Supreme Court Pl 6,,,Over Votes,0,0,0,0
+Washington,Precinct 208,Justice Supreme Court Pl 6,,,Under Votes,37,6,22,9
+Washington,Precinct 208,Justice Supreme Court Pl 7,,REP,Jeff Boyd,979,45,781,153
+Washington,Precinct 208,Justice Supreme Court Pl 7,,DEM,Staci Williams,126,36,75,15
+Washington,Precinct 208,Justice Supreme Court Pl 7,,LIB,William Bryan Strange III,20,0,19,1
+Washington,Precinct 208,Justice Supreme Court Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 208,Justice Supreme Court Pl 7,,,Under Votes,38,5,22,11
+Washington,Precinct 208,Justice Supreme Court Pl 8,,REP,Brett Busby,998,47,794,157
+Washington,Precinct 208,Justice Supreme Court Pl 8,,DEM,Gisela D. Triana,112,34,64,14
+Washington,Precinct 208,Justice Supreme Court Pl 8,,LIB,Tom Oxford,23,1,20,2
+Washington,Precinct 208,Justice Supreme Court Pl 8,,,Over Votes,0,0,0,0
+Washington,Precinct 208,Justice Supreme Court Pl 8,,,Under Votes,30,4,19,7
+Washington,Precinct 208,Judge Ct of Crim App Pl 3,,REP,Bert Richardson,996,47,793,156
+Washington,Precinct 208,Judge Ct of Crim App Pl 3,,DEM,Elizabeth Davis Frizell,132,35,82,15
+Washington,Precinct 208,Judge Ct of Crim App Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 208,Judge Ct of Crim App Pl 3,,,Under Votes,35,4,22,9
+Washington,Precinct 208,Judge Ct of Crim App Pl 4,,REP,Kevin Patrick Yeary,987,44,788,155
+Washington,Precinct 208,Judge Ct of Crim App Pl 4,,DEM,Tina Clinton,129,36,76,17
+Washington,Precinct 208,Judge Ct of Crim App Pl 4,,,Over Votes,0,0,0,0
+Washington,Precinct 208,Judge Ct of Crim App Pl 4,,,Under Votes,47,6,33,8
+Washington,Precinct 208,Judge Ct of Crim App Pl 9,,REP,David Newell,996,45,797,154
+Washington,Precinct 208,Judge Ct of Crim App Pl 9,,DEM,Brandon Birmingham,127,37,75,15
+Washington,Precinct 208,Judge Ct of Crim App Pl 9,,,Over Votes,0,0,0,0
+Washington,Precinct 208,Judge Ct of Crim App Pl 9,,,Under Votes,40,4,25,11
+Washington,Precinct 208,Member State BoE Dist 10,,REP,Tom Maynard,969,44,773,152
+Washington,Precinct 208,Member State BoE Dist 10,,DEM,Marsha Burnett-Webster,127,37,75,15
+Washington,Precinct 208,Member State BoE Dist 10,,LIB,Trip Seibold,26,0,21,5
+Washington,Precinct 208,Member State BoE Dist 10,,,Over Votes,0,0,0,0
+Washington,Precinct 208,Member State BoE Dist 10,,,Under Votes,41,5,28,8
+Washington,Precinct 208,State Senate,18,REP,Lois W. Kolkhorst,1036,54,815,167
+Washington,Precinct 208,State Senate,18,DEM,Michael Antalan,107,31,66,10
+Washington,Precinct 208,State Senate,18,,Over Votes,0,0,0,0
+Washington,Precinct 208,State Senate,18,,Under Votes,20,1,16,3
+Washington,Precinct 208,State Representative,13,REP,Ben Leman,1038,55,815,168
+Washington,Precinct 208,State Representative,13,,Over Votes,0,0,0,0
+Washington,Precinct 208,State Representative,13,,Under Votes,125,31,82,12
+Washington,Precinct 208,Chief Justice 14th Ct of App Dist,,REP,Tracy Elizabeth Christopher,982,42,789,151
+Washington,Precinct 208,Chief Justice 14th Ct of App Dist,,DEM,Jane Robinson,130,39,76,15
+Washington,Precinct 208,Chief Justice 14th Ct of App Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 208,Chief Justice 14th Ct of App Dist,,,Under Votes,51,5,32,14
+Washington,Precinct 208,Justice 1st Ct of App Dist Pl 3,,REP,Russell Lloyd,995,45,795,155
+Washington,Precinct 208,Justice 1st Ct of App Dist Pl 3,,DEM,Veronica Rivas-Molloy,128,37,78,13
+Washington,Precinct 208,Justice 1st Ct of App Dist Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 208,Justice 1st Ct of App Dist Pl 3,,,Under Votes,40,4,24,12
+Washington,Precinct 208,Justice 1st Ct of App Dist Pl 5,,REP,Terry Adams,1002,45,801,156
+Washington,Precinct 208,Justice 1st Ct of App Dist Pl 5,,DEM,Amparo Monique Guerra,121,37,72,12
+Washington,Precinct 208,Justice 1st Ct of App Dist Pl 5,,,Over Votes,0,0,0,0
+Washington,Precinct 208,Justice 1st Ct of App Dist Pl 5,,,Under Votes,40,4,24,12
+Washington,Precinct 208,Justice 14th Ct of App Dist Pl 7,,REP,Ken Wise,1002,46,802,154
+Washington,Precinct 208,Justice 14th Ct of App Dist Pl 7,,DEM,"DEM Tamika ""Tami"" Craft",120,37,69,14
+Washington,Precinct 208,Justice 14th Ct of App Dist Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 208,Justice 14th Ct of App Dist Pl 7,,,Under Votes,41,3,26,12
+Washington,Precinct 208,Dist Judge 21st Judicial Dist,,REP,Carson Campbell,1063,61,838,164
+Washington,Precinct 208,Dist Judge 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 208,Dist Judge 21st Judicial Dist,,,Under Votes,100,25,59,16
+Washington,Precinct 208,Dist Judge 335th Judicial Dist,,REP,Reva L Towslee Corbett,1057,60,833,164
+Washington,Precinct 208,Dist Judge 335th Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 208,Dist Judge 335th Judicial Dist,,,Under Votes,106,26,64,16
+Washington,Precinct 208,Dist Attorney 21st Judicial Dist,,REP,Julie Renken,1062,61,833,168
+Washington,Precinct 208,Dist Attorney 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 208,Dist Attorney 21st Judicial Dist,,,Under Votes,101,25,64,12
+Washington,Precinct 208,County Attorney,,REP,Renee Ann Mueller,1061,63,834,164
+Washington,Precinct 208,County Attorney,,,Over Votes,0,0,0,0
+Washington,Precinct 208,County Attorney,,,Under Votes,102,23,63,16
+Washington,Precinct 208,Sheriff,,REP,Otto Hanak,1041,60,821,160
+Washington,Precinct 208,Sheriff,,,Over Votes,0,0,0,0
+Washington,Precinct 208,Sheriff,,,Under Votes,122,26,76,20
+Washington,Precinct 208,County Tax Assessor-Collector,,REP,Cheryl Tesch Gaskamp,1064,61,837,166
+Washington,Precinct 208,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Washington,Precinct 208,County Tax Assessor-Collector,,,Under Votes,99,25,60,14
+Washington,Precinct 208,Constable Pct 2,,REP,"George D. ""Trey"" Holleway III",1051,59,832,160
+Washington,Precinct 208,Constable Pct 2,,,Over Votes,0,0,0,0
+Washington,Precinct 208,Constable Pct 2,,,Under Votes,112,27,65,20
+Washington,Precinct 307,Registered Voters,,,,1682,,,
+Washington,Precinct 307,Ballots Cast,,,,1180,118,928,134
+Washington,Precinct 307,Ballots Cast - Blank,,,,0,0,0,0
+Washington,Precinct 307,President,,REP,Donald J. Trump / Michael R. Pence,834,69,666,99
+Washington,Precinct 307,President,,DEM,Joseph R. Biden / Kamala D. Harris,328,48,251,29
+Washington,Precinct 307,President,,LIB,"Jo Jorgensen / Jeremy ""Spike"" Cohen",11,0,5,6
+Washington,Precinct 307,President,,GRN,Howie Hawkins / Angela Walker,0,0,0,0
+Washington,Precinct 307,President,,,Write-ins,2,0,2,0
+Washington,Precinct 307,President,,,Over Votes,2,0,2,0
+Washington,Precinct 307,President,,,Under Votes,3,1,2,0
+Washington,Precinct 307,U.S. Senate,,REP,John Cornyn,833,70,664,99
+Washington,Precinct 307,U.S. Senate,,DEM,"DEM Mary ""MJ"" Hegar",315,47,243,25
+Washington,Precinct 307,U.S. Senate,,LIB,Kerry Douglas McKennon,14,0,8,6
+Washington,Precinct 307,U.S. Senate,,GRN,David B. Collins,3,0,1,2
+Washington,Precinct 307,U.S. Senate,,,Write-ins,0,0,0,0
+Washington,Precinct 307,U.S. Senate,,,Over Votes,1,0,1,0
+Washington,Precinct 307,U.S. Senate,,,Under Votes,14,1,11,2
+Washington,Precinct 307,U.S. House,10,REP,Michael McCaul,840,70,669,101
+Washington,Precinct 307,U.S. House,10,DEM,Mike Siegel,302,46,233,23
+Washington,Precinct 307,U.S. House,10,LIB,Roy Eriksen,13,1,6,6
+Washington,Precinct 307,U.S. House,10,,Over Votes,0,0,0,0
+Washington,Precinct 307,U.S. House,10,,Under Votes,25,1,20,4
+Washington,Precinct 307,Railroad Commissioner,,REP,"James ""Jim"" Wright",819,70,656,93
+Washington,Precinct 307,Railroad Commissioner,,DEM,Chrysta Castaneda,304,43,235,26
+Washington,Precinct 307,Railroad Commissioner,,LIB,Matt Sterett,16,0,10,6
+Washington,Precinct 307,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",5,1,2,2
+Washington,Precinct 307,Railroad Commissioner,,,Over Votes,0,0,0,0
+Washington,Precinct 307,Railroad Commissioner,,,Under Votes,35,4,25,6
+Washington,Precinct 307,Chief Justice Supreme Court,,REP,Nathan Hecht,821,69,655,97
+Washington,Precinct 307,Chief Justice Supreme Court,,DEM,Amy Clark Meachum,305,44,236,25
+Washington,Precinct 307,Chief Justice Supreme Court,,LIB,Mark Ash,14,1,8,5
+Washington,Precinct 307,Chief Justice Supreme Court,,,Over Votes,0,0,0,0
+Washington,Precinct 307,Chief Justice Supreme Court,,,Under Votes,39,4,29,6
+Washington,Precinct 307,Justice Supreme Court Pl 6,,REP,Jane Bland,836,73,660,103
+Washington,Precinct 307,Justice Supreme Court Pl 6,,DEM,Kathy Cheng,303,41,237,25
+Washington,Precinct 307,Justice Supreme Court Pl 6,,,Over Votes,0,0,0,0
+Washington,Precinct 307,Justice Supreme Court Pl 6,,,Under Votes,40,4,30,6
+Washington,Precinct 307,Justice Supreme Court Pl 7,,REP,Jeff Boyd,808,67,648,93
+Washington,Precinct 307,Justice Supreme Court Pl 7,,DEM,Staci Williams,309,45,240,24
+Washington,Precinct 307,Justice Supreme Court Pl 7,,LIB,William Bryan Strange III,19,0,10,9
+Washington,Precinct 307,Justice Supreme Court Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 307,Justice Supreme Court Pl 7,,,Under Votes,44,6,30,8
+Washington,Precinct 307,Justice Supreme Court Pl 8,,REP,Brett Busby,822,70,656,96
+Washington,Precinct 307,Justice Supreme Court Pl 8,,DEM,Gisela D. Triana,300,42,234,24
+Washington,Precinct 307,Justice Supreme Court Pl 8,,LIB,Tom Oxford,18,1,10,7
+Washington,Precinct 307,Justice Supreme Court Pl 8,,,Over Votes,0,0,0,0
+Washington,Precinct 307,Justice Supreme Court Pl 8,,,Under Votes,40,5,28,7
+Washington,Precinct 307,Judge Ct of Crim App Pl 3,,REP,Bert Richardson,823,70,650,103
+Washington,Precinct 307,Judge Ct of Crim App Pl 3,,DEM,Elizabeth Davis Frizell,315,43,249,23
+Washington,Precinct 307,Judge Ct of Crim App Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 307,Judge Ct of Crim App Pl 3,,,Under Votes,42,5,29,8
+Washington,Precinct 307,Judge Ct of Crim App Pl 4,,REP,Kevin Patrick Yeary,812,66,647,99
+Washington,Precinct 307,Judge Ct of Crim App Pl 4,,DEM,Tina Clinton,311,43,241,27
+Washington,Precinct 307,Judge Ct of Crim App Pl 4,,,Over Votes,0,0,0,0
+Washington,Precinct 307,Judge Ct of Crim App Pl 4,,,Under Votes,57,9,40,8
+Washington,Precinct 307,Judge Ct of Crim App Pl 9,,REP,David Newell,821,69,652,100
+Washington,Precinct 307,Judge Ct of Crim App Pl 9,,DEM,Brandon Birmingham,305,45,235,25
+Washington,Precinct 307,Judge Ct of Crim App Pl 9,,,Over Votes,0,0,0,0
+Washington,Precinct 307,Judge Ct of Crim App Pl 9,,,Under Votes,54,4,41,9
+Washington,Precinct 307,Member State BoE Dist 10,,REP,Tom Maynard,810,66,648,96
+Washington,Precinct 307,Member State BoE Dist 10,,DEM,Marsha Burnett-Webster,305,46,236,23
+Washington,Precinct 307,Member State BoE Dist 10,,LIB,Trip Seibold,22,1,12,9
+Washington,Precinct 307,Member State BoE Dist 10,,,Over Votes,0,0,0,0
+Washington,Precinct 307,Member State BoE Dist 10,,,Under Votes,43,5,32,6
+Washington,Precinct 307,State Senate,18,REP,Lois W. Kolkhorst,892,74,711,107
+Washington,Precinct 307,State Senate,18,DEM,Michael Antalan,258,40,196,22
+Washington,Precinct 307,State Senate,18,,Over Votes,0,0,0,0
+Washington,Precinct 307,State Senate,18,,Under Votes,30,4,21,5
+Washington,Precinct 307,State Representative,13,REP,Ben Leman,936,80,749,107
+Washington,Precinct 307,State Representative,13,,Over Votes,0,0,0,0
+Washington,Precinct 307,State Representative,13,,Under Votes,244,38,179,27
+Washington,Precinct 307,Chief Justice 14th Ct of App Dist,,REP,Tracy Elizabeth Christopher,832,67,666,99
+Washington,Precinct 307,Chief Justice 14th Ct of App Dist,,DEM,Jane Robinson,296,46,225,25
+Washington,Precinct 307,Chief Justice 14th Ct of App Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 307,Chief Justice 14th Ct of App Dist,,,Under Votes,52,5,37,10
+Washington,Precinct 307,Justice 1st Ct of App Dist Pl 3,,REP,Russell Lloyd,818,67,654,97
+Washington,Precinct 307,Justice 1st Ct of App Dist Pl 3,,DEM,Veronica Rivas-Molloy,304,44,234,26
+Washington,Precinct 307,Justice 1st Ct of App Dist Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 307,Justice 1st Ct of App Dist Pl 3,,,Under Votes,58,7,40,11
+Washington,Precinct 307,Justice 1st Ct of App Dist Pl 5,,REP,Terry Adams,841,71,672,98
+Washington,Precinct 307,Justice 1st Ct of App Dist Pl 5,,DEM,Amparo Monique Guerra,286,41,220,25
+Washington,Precinct 307,Justice 1st Ct of App Dist Pl 5,,,Over Votes,0,0,0,0
+Washington,Precinct 307,Justice 1st Ct of App Dist Pl 5,,,Under Votes,53,6,36,11
+Washington,Precinct 307,Justice 14th Ct of App Dist Pl 7,,REP,Ken Wise,831,70,660,101
+Washington,Precinct 307,Justice 14th Ct of App Dist Pl 7,,DEM,"DEM Tamika ""Tami"" Craft",297,41,232,24
+Washington,Precinct 307,Justice 14th Ct of App Dist Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 307,Justice 14th Ct of App Dist Pl 7,,,Under Votes,52,7,36,9
+Washington,Precinct 307,Dist Judge 21st Judicial Dist,,REP,Carson Campbell,956,82,764,110
+Washington,Precinct 307,Dist Judge 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 307,Dist Judge 21st Judicial Dist,,,Under Votes,224,36,164,24
+Washington,Precinct 307,Dist Judge 335th Judicial Dist,,REP,Reva L Towslee Corbett,957,80,765,112
+Washington,Precinct 307,Dist Judge 335th Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 307,Dist Judge 335th Judicial Dist,,,Under Votes,223,38,163,22
+Washington,Precinct 307,Dist Attorney 21st Judicial Dist,,REP,Julie Renken,958,80,768,110
+Washington,Precinct 307,Dist Attorney 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 307,Dist Attorney 21st Judicial Dist,,,Under Votes,221,38,159,24
+Washington,Precinct 307,County Attorney,,REP,Renee Ann Mueller,950,82,757,111
+Washington,Precinct 307,County Attorney,,,Over Votes,0,0,0,0
+Washington,Precinct 307,County Attorney,,,Under Votes,230,36,171,23
+Washington,Precinct 307,Sheriff,,REP,Otto Hanak,955,82,762,111
+Washington,Precinct 307,Sheriff,,,Over Votes,0,0,0,0
+Washington,Precinct 307,Sheriff,,,Under Votes,225,36,166,23
+Washington,Precinct 307,County Tax Assessor-Collector,,REP,Cheryl Tesch Gaskamp,960,81,768,111
+Washington,Precinct 307,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Washington,Precinct 307,County Tax Assessor-Collector,,,Under Votes,220,37,160,23
+Washington,Precinct 307,County Commissioner Pct 3,,REP,Kirk Hanath,950,81,760,109
+Washington,Precinct 307,County Commissioner Pct 3,,,Over Votes,0,0,0,0
+Washington,Precinct 307,County Commissioner Pct 3,,,Under Votes,230,37,168,25
+Washington,Precinct 307,Constable Pct 3,,REP,David Blakey,945,81,752,112
+Washington,Precinct 307,Constable Pct 3,,,Over Votes,0,0,0,0
+Washington,Precinct 307,Constable Pct 3,,,Under Votes,235,37,176,22
+Washington,Precinct 311,Registered Voters,,,,1269,,,
+Washington,Precinct 311,Ballots Cast,,,,947,90,683,174
+Washington,Precinct 311,Ballots Cast - Blank,,,,0,0,0,0
+Washington,Precinct 311,President,,REP,Donald J. Trump / Michael R. Pence,747,47,554,146
+Washington,Precinct 311,President,,DEM,Joseph R. Biden / Kamala D. Harris,170,41,114,15
+Washington,Precinct 311,President,,LIB,"Jo Jorgensen / Jeremy ""Spike"" Cohen",24,1,13,10
+Washington,Precinct 311,President,,GRN,Howie Hawkins / Angela Walker,1,0,1,0
+Washington,Precinct 311,President,,,Write-ins,0,0,0,0
+Washington,Precinct 311,President,,,Over Votes,1,0,0,1
+Washington,Precinct 311,President,,,Under Votes,4,1,1,2
+Washington,Precinct 311,U.S. Senate,,REP,John Cornyn,753,53,556,144
+Washington,Precinct 311,U.S. Senate,,DEM,"DEM Mary ""MJ"" Hegar",154,34,106,14
+Washington,Precinct 311,U.S. Senate,,LIB,Kerry Douglas McKennon,22,0,15,7
+Washington,Precinct 311,U.S. Senate,,GRN,David B. Collins,3,0,1,2
+Washington,Precinct 311,U.S. Senate,,,Write-ins,0,0,0,0
+Washington,Precinct 311,U.S. Senate,,,Over Votes,1,0,0,1
+Washington,Precinct 311,U.S. Senate,,,Under Votes,14,3,5,6
+Washington,Precinct 311,U.S. House,10,REP,Michael McCaul,759,51,562,146
+Washington,Precinct 311,U.S. House,10,DEM,Mike Siegel,151,37,100,14
+Washington,Precinct 311,U.S. House,10,LIB,Roy Eriksen,24,1,14,9
+Washington,Precinct 311,U.S. House,10,,Over Votes,0,0,0,0
+Washington,Precinct 311,U.S. House,10,,Under Votes,13,1,7,5
+Washington,Precinct 311,Railroad Commissioner,,REP,"James ""Jim"" Wright",745,46,554,145
+Washington,Precinct 311,Railroad Commissioner,,DEM,Chrysta Castaneda,158,38,105,15
+Washington,Precinct 311,Railroad Commissioner,,LIB,Matt Sterett,23,2,14,7
+Washington,Precinct 311,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",6,2,2,2
+Washington,Precinct 311,Railroad Commissioner,,,Over Votes,0,0,0,0
+Washington,Precinct 311,Railroad Commissioner,,,Under Votes,15,2,8,5
+Washington,Precinct 311,Chief Justice Supreme Court,,REP,Nathan Hecht,749,51,554,144
+Washington,Precinct 311,Chief Justice Supreme Court,,DEM,Amy Clark Meachum,153,37,103,13
+Washington,Precinct 311,Chief Justice Supreme Court,,LIB,Mark Ash,24,0,14,10
+Washington,Precinct 311,Chief Justice Supreme Court,,,Over Votes,0,0,0,0
+Washington,Precinct 311,Chief Justice Supreme Court,,,Under Votes,21,2,12,7
+Washington,Precinct 311,Justice Supreme Court Pl 6,,REP,Jane Bland,763,50,563,150
+Washington,Precinct 311,Justice Supreme Court Pl 6,,DEM,Kathy Cheng,155,37,104,14
+Washington,Precinct 311,Justice Supreme Court Pl 6,,,Over Votes,0,0,0,0
+Washington,Precinct 311,Justice Supreme Court Pl 6,,,Under Votes,29,3,16,10
+Washington,Precinct 311,Justice Supreme Court Pl 7,,REP,Jeff Boyd,750,50,554,146
+Washington,Precinct 311,Justice Supreme Court Pl 7,,DEM,Staci Williams,152,35,104,13
+Washington,Precinct 311,Justice Supreme Court Pl 7,,LIB,William Bryan Strange III,24,2,15,7
+Washington,Precinct 311,Justice Supreme Court Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 311,Justice Supreme Court Pl 7,,,Under Votes,21,3,10,8
+Washington,Precinct 311,Justice Supreme Court Pl 8,,REP,Brett Busby,751,49,557,145
+Washington,Precinct 311,Justice Supreme Court Pl 8,,DEM,Gisela D. Triana,150,37,100,13
+Washington,Precinct 311,Justice Supreme Court Pl 8,,LIB,Tom Oxford,24,0,16,8
+Washington,Precinct 311,Justice Supreme Court Pl 8,,,Over Votes,0,0,0,0
+Washington,Precinct 311,Justice Supreme Court Pl 8,,,Under Votes,22,4,10,8
+Washington,Precinct 311,Judge Ct of Crim App Pl 3,,REP,Bert Richardson,757,49,559,149
+Washington,Precinct 311,Judge Ct of Crim App Pl 3,,DEM,Elizabeth Davis Frizell,158,37,107,14
+Washington,Precinct 311,Judge Ct of Crim App Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 311,Judge Ct of Crim App Pl 3,,,Under Votes,32,4,17,11
+Washington,Precinct 311,Judge Ct of Crim App Pl 4,,REP,Kevin Patrick Yeary,750,50,553,147
+Washington,Precinct 311,Judge Ct of Crim App Pl 4,,DEM,Tina Clinton,158,35,107,16
+Washington,Precinct 311,Judge Ct of Crim App Pl 4,,,Over Votes,0,0,0,0
+Washington,Precinct 311,Judge Ct of Crim App Pl 4,,,Under Votes,39,5,23,11
+Washington,Precinct 311,Judge Ct of Crim App Pl 9,,REP,David Newell,759,49,563,147
+Washington,Precinct 311,Judge Ct of Crim App Pl 9,,DEM,Brandon Birmingham,151,36,99,16
+Washington,Precinct 311,Judge Ct of Crim App Pl 9,,,Over Votes,0,0,0,0
+Washington,Precinct 311,Judge Ct of Crim App Pl 9,,,Under Votes,37,5,21,11
+Washington,Precinct 311,Member State BoE Dist 10,,REP,Tom Maynard,741,47,551,143
+Washington,Precinct 311,Member State BoE Dist 10,,DEM,Marsha Burnett-Webster,157,39,105,13
+Washington,Precinct 311,Member State BoE Dist 10,,LIB,Trip Seibold,27,2,14,11
+Washington,Precinct 311,Member State BoE Dist 10,,,Over Votes,0,0,0,0
+Washington,Precinct 311,Member State BoE Dist 10,,,Under Votes,22,2,13,7
+Washington,Precinct 311,State Senate,18,REP,Lois W. Kolkhorst,793,57,580,156
+Washington,Precinct 311,State Senate,18,DEM,Michael Antalan,138,31,93,14
+Washington,Precinct 311,State Senate,18,,Over Votes,0,0,0,0
+Washington,Precinct 311,State Senate,18,,Under Votes,16,2,10,4
+Washington,Precinct 311,State Representative,13,REP,Ben Leman,796,54,586,156
+Washington,Precinct 311,State Representative,13,,Over Votes,0,0,0,0
+Washington,Precinct 311,State Representative,13,,Under Votes,151,36,97,18
+Washington,Precinct 311,Chief Justice 14th Ct of App Dist,,REP,Tracy Elizabeth Christopher,756,50,556,150
+Washington,Precinct 311,Chief Justice 14th Ct of App Dist,,DEM,Jane Robinson,150,35,103,12
+Washington,Precinct 311,Chief Justice 14th Ct of App Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 311,Chief Justice 14th Ct of App Dist,,,Under Votes,41,5,24,12
+Washington,Precinct 311,Justice 1st Ct of App Dist Pl 3,,REP,Russell Lloyd,753,50,555,148
+Washington,Precinct 311,Justice 1st Ct of App Dist Pl 3,,DEM,Veronica Rivas-Molloy,157,35,106,16
+Washington,Precinct 311,Justice 1st Ct of App Dist Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 311,Justice 1st Ct of App Dist Pl 3,,,Under Votes,37,5,22,10
+Washington,Precinct 311,Justice 1st Ct of App Dist Pl 5,,REP,Terry Adams,765,49,565,151
+Washington,Precinct 311,Justice 1st Ct of App Dist Pl 5,,DEM,Amparo Monique Guerra,146,35,98,13
+Washington,Precinct 311,Justice 1st Ct of App Dist Pl 5,,,Over Votes,0,0,0,0
+Washington,Precinct 311,Justice 1st Ct of App Dist Pl 5,,,Under Votes,36,6,20,10
+Washington,Precinct 311,Justice 14th Ct of App Dist Pl 7,,REP,Ken Wise,758,49,560,149
+Washington,Precinct 311,Justice 14th Ct of App Dist Pl 7,,DEM,"DEM Tamika ""Tami"" Craft",152,35,102,15
+Washington,Precinct 311,Justice 14th Ct of App Dist Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 311,Justice 14th Ct of App Dist Pl 7,,,Under Votes,37,6,21,10
+Washington,Precinct 311,Dist Judge 21st Judicial Dist,,REP,Carson Campbell,814,62,598,154
+Washington,Precinct 311,Dist Judge 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 311,Dist Judge 21st Judicial Dist,,,Under Votes,133,28,85,20
+Washington,Precinct 311,Dist Judge 335th Judicial Dist,,REP,Reva L Towslee Corbett,806,59,593,154
+Washington,Precinct 311,Dist Judge 335th Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 311,Dist Judge 335th Judicial Dist,,,Under Votes,141,31,90,20
+Washington,Precinct 311,Dist Attorney 21st Judicial Dist,,REP,Julie Renken,808,60,592,156
+Washington,Precinct 311,Dist Attorney 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 311,Dist Attorney 21st Judicial Dist,,,Under Votes,139,30,91,18
+Washington,Precinct 311,County Attorney,,REP,Renee Ann Mueller,812,63,595,154
+Washington,Precinct 311,County Attorney,,,Over Votes,0,0,0,0
+Washington,Precinct 311,County Attorney,,,Under Votes,135,27,88,20
+Washington,Precinct 311,Sheriff,,REP,Otto Hanak,804,63,585,156
+Washington,Precinct 311,Sheriff,,,Over Votes,0,0,0,0
+Washington,Precinct 311,Sheriff,,,Under Votes,143,27,98,18
+Washington,Precinct 311,County Tax Assessor-Collector,,REP,Cheryl Tesch Gaskamp,804,61,585,158
+Washington,Precinct 311,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Washington,Precinct 311,County Tax Assessor-Collector,,,Under Votes,143,29,98,16
+Washington,Precinct 311,County Commissioner Pct 3,,REP,Kirk Hanath,807,63,585,159
+Washington,Precinct 311,County Commissioner Pct 3,,,Over Votes,0,0,0,0
+Washington,Precinct 311,County Commissioner Pct 3,,,Under Votes,140,27,98,15
+Washington,Precinct 311,Constable Pct 3,,REP,David Blakey,810,63,591,156
+Washington,Precinct 311,Constable Pct 3,,,Over Votes,0,0,0,0
+Washington,Precinct 311,Constable Pct 3,,,Under Votes,137,27,92,18
+Washington,Precinct 312,Registered Voters,,,,1222,,,
+Washington,Precinct 312,Ballots Cast,,,,961,69,706,186
+Washington,Precinct 312,Ballots Cast - Blank,,,,0,0,0,0
+Washington,Precinct 312,President,,REP,Donald J. Trump / Michael R. Pence,803,40,597,166
+Washington,Precinct 312,President,,DEM,Joseph R. Biden / Kamala D. Harris,150,28,105,17
+Washington,Precinct 312,President,,LIB,"Jo Jorgensen / Jeremy ""Spike"" Cohen",5,1,2,2
+Washington,Precinct 312,President,,GRN,Howie Hawkins / Angela Walker,0,0,0,0
+Washington,Precinct 312,President,,,Write-ins,0,0,0,0
+Washington,Precinct 312,President,,,Over Votes,0,0,0,0
+Washington,Precinct 312,President,,,Under Votes,3,0,2,1
+Washington,Precinct 312,U.S. Senate,,REP,John Cornyn,793,42,588,163
+Washington,Precinct 312,U.S. Senate,,DEM,"DEM Mary ""MJ"" Hegar",136,26,95,15
+Washington,Precinct 312,U.S. Senate,,LIB,Kerry Douglas McKennon,11,1,7,3
+Washington,Precinct 312,U.S. Senate,,GRN,David B. Collins,5,0,4,1
+Washington,Precinct 312,U.S. Senate,,,Write-ins,0,0,0,0
+Washington,Precinct 312,U.S. Senate,,,Over Votes,0,0,0,0
+Washington,Precinct 312,U.S. Senate,,,Under Votes,16,0,12,4
+Washington,Precinct 312,U.S. House,10,REP,Michael McCaul,810,43,604,163
+Washington,Precinct 312,U.S. House,10,DEM,Mike Siegel,131,24,90,17
+Washington,Precinct 312,U.S. House,10,LIB,Roy Eriksen,8,0,5,3
+Washington,Precinct 312,U.S. House,10,,Over Votes,0,0,0,0
+Washington,Precinct 312,U.S. House,10,,Under Votes,12,2,7,3
+Washington,Precinct 312,Railroad Commissioner,,REP,"James ""Jim"" Wright",787,42,582,163
+Washington,Precinct 312,Railroad Commissioner,,DEM,Chrysta Castaneda,135,25,94,16
+Washington,Precinct 312,Railroad Commissioner,,LIB,Matt Sterett,13,0,10,3
+Washington,Precinct 312,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",3,0,3,0
+Washington,Precinct 312,Railroad Commissioner,,,Over Votes,0,0,0,0
+Washington,Precinct 312,Railroad Commissioner,,,Under Votes,23,2,17,4
+Washington,Precinct 312,Chief Justice Supreme Court,,REP,Nathan Hecht,783,42,584,157
+Washington,Precinct 312,Chief Justice Supreme Court,,DEM,Amy Clark Meachum,135,26,91,18
+Washington,Precinct 312,Chief Justice Supreme Court,,LIB,Mark Ash,15,0,10,5
+Washington,Precinct 312,Chief Justice Supreme Court,,,Over Votes,0,0,0,0
+Washington,Precinct 312,Chief Justice Supreme Court,,,Under Votes,28,1,21,6
+Washington,Precinct 312,Justice Supreme Court Pl 6,,REP,Jane Bland,797,41,592,164
+Washington,Precinct 312,Justice Supreme Court Pl 6,,DEM,Kathy Cheng,131,25,89,17
+Washington,Precinct 312,Justice Supreme Court Pl 6,,,Over Votes,0,0,0,0
+Washington,Precinct 312,Justice Supreme Court Pl 6,,,Under Votes,33,3,25,5
+Washington,Precinct 312,Justice Supreme Court Pl 7,,REP,Jeff Boyd,784,42,582,160
+Washington,Precinct 312,Justice Supreme Court Pl 7,,DEM,Staci Williams,131,26,91,14
+Washington,Precinct 312,Justice Supreme Court Pl 7,,LIB,William Bryan Strange III,14,0,8,6
+Washington,Precinct 312,Justice Supreme Court Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 312,Justice Supreme Court Pl 7,,,Under Votes,32,1,25,6
+Washington,Precinct 312,Justice Supreme Court Pl 8,,REP,Brett Busby,792,43,585,164
+Washington,Precinct 312,Justice Supreme Court Pl 8,,DEM,Gisela D. Triana,131,25,92,14
+Washington,Precinct 312,Justice Supreme Court Pl 8,,LIB,Tom Oxford,12,0,8,4
+Washington,Precinct 312,Justice Supreme Court Pl 8,,,Over Votes,0,0,0,0
+Washington,Precinct 312,Justice Supreme Court Pl 8,,,Under Votes,26,1,21,4
+Washington,Precinct 312,Judge Ct of Crim App Pl 3,,REP,Bert Richardson,788,41,583,164
+Washington,Precinct 312,Judge Ct of Crim App Pl 3,,DEM,Elizabeth Davis Frizell,139,25,97,17
+Washington,Precinct 312,Judge Ct of Crim App Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 312,Judge Ct of Crim App Pl 3,,,Under Votes,34,3,26,5
+Washington,Precinct 312,Judge Ct of Crim App Pl 4,,REP,Kevin Patrick Yeary,785,42,577,166
+Washington,Precinct 312,Judge Ct of Crim App Pl 4,,DEM,Tina Clinton,135,24,95,16
+Washington,Precinct 312,Judge Ct of Crim App Pl 4,,,Over Votes,0,0,0,0
+Washington,Precinct 312,Judge Ct of Crim App Pl 4,,,Under Votes,41,3,34,4
+Washington,Precinct 312,Judge Ct of Crim App Pl 9,,REP,David Newell,784,41,580,163
+Washington,Precinct 312,Judge Ct of Crim App Pl 9,,DEM,Brandon Birmingham,136,26,92,18
+Washington,Precinct 312,Judge Ct of Crim App Pl 9,,,Over Votes,0,0,0,0
+Washington,Precinct 312,Judge Ct of Crim App Pl 9,,,Under Votes,41,2,34,5
+Washington,Precinct 312,Member State BoE Dist 10,,REP,Tom Maynard,790,42,585,163
+Washington,Precinct 312,Member State BoE Dist 10,,DEM,Marsha Burnett-Webster,130,27,87,16
+Washington,Precinct 312,Member State BoE Dist 10,,LIB,Trip Seibold,13,0,10,3
+Washington,Precinct 312,Member State BoE Dist 10,,,Over Votes,0,0,0,0
+Washington,Precinct 312,Member State BoE Dist 10,,,Under Votes,28,0,24,4
+Washington,Precinct 312,State Senate,18,REP,Lois W. Kolkhorst,831,47,615,169
+Washington,Precinct 312,State Senate,18,DEM,Michael Antalan,118,21,83,14
+Washington,Precinct 312,State Senate,18,,Over Votes,0,0,0,0
+Washington,Precinct 312,State Senate,18,,Under Votes,12,1,8,3
+Washington,Precinct 312,State Representative,13,REP,Ben Leman,830,51,610,169
+Washington,Precinct 312,State Representative,13,,Over Votes,0,0,0,0
+Washington,Precinct 312,State Representative,13,,Under Votes,131,18,96,17
+Washington,Precinct 312,Chief Justice 14th Ct of App Dist,,REP,Tracy Elizabeth Christopher,798,43,590,165
+Washington,Precinct 312,Chief Justice 14th Ct of App Dist,,DEM,Jane Robinson,129,24,88,17
+Washington,Precinct 312,Chief Justice 14th Ct of App Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 312,Chief Justice 14th Ct of App Dist,,,Under Votes,34,2,28,4
+Washington,Precinct 312,Justice 1st Ct of App Dist Pl 3,,REP,Russell Lloyd,786,42,579,165
+Washington,Precinct 312,Justice 1st Ct of App Dist Pl 3,,DEM,Veronica Rivas-Molloy,134,24,94,16
+Washington,Precinct 312,Justice 1st Ct of App Dist Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 312,Justice 1st Ct of App Dist Pl 3,,,Under Votes,41,3,33,5
+Washington,Precinct 312,Justice 1st Ct of App Dist Pl 5,,REP,Terry Adams,794,43,585,166
+Washington,Precinct 312,Justice 1st Ct of App Dist Pl 5,,DEM,Amparo Monique Guerra,134,24,94,16
+Washington,Precinct 312,Justice 1st Ct of App Dist Pl 5,,,Over Votes,0,0,0,0
+Washington,Precinct 312,Justice 1st Ct of App Dist Pl 5,,,Under Votes,33,2,27,4
+Washington,Precinct 312,Justice 14th Ct of App Dist Pl 7,,REP,Ken Wise,796,42,587,167
+Washington,Precinct 312,Justice 14th Ct of App Dist Pl 7,,DEM,"DEM Tamika ""Tami"" Craft",128,24,89,15
+Washington,Precinct 312,Justice 14th Ct of App Dist Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 312,Justice 14th Ct of App Dist Pl 7,,,Under Votes,37,3,30,4
+Washington,Precinct 312,Dist Judge 21st Judicial Dist,,REP,Carson Campbell,845,51,622,172
+Washington,Precinct 312,Dist Judge 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 312,Dist Judge 21st Judicial Dist,,,Under Votes,116,18,84,14
+Washington,Precinct 312,Dist Judge 335th Judicial Dist,,REP,Reva L Towslee Corbett,839,50,616,173
+Washington,Precinct 312,Dist Judge 335th Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 312,Dist Judge 335th Judicial Dist,,,Under Votes,122,19,90,13
+Washington,Precinct 312,Dist Attorney 21st Judicial Dist,,REP,Julie Renken,842,52,619,171
+Washington,Precinct 312,Dist Attorney 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 312,Dist Attorney 21st Judicial Dist,,,Under Votes,119,17,87,15
+Washington,Precinct 312,County Attorney,,REP,Renee Ann Mueller,843,52,618,173
+Washington,Precinct 312,County Attorney,,,Over Votes,0,0,0,0
+Washington,Precinct 312,County Attorney,,,Under Votes,118,17,88,13
+Washington,Precinct 312,Sheriff,,REP,Otto Hanak,832,52,612,168
+Washington,Precinct 312,Sheriff,,,Over Votes,0,0,0,0
+Washington,Precinct 312,Sheriff,,,Under Votes,129,17,94,18
+Washington,Precinct 312,County Tax Assessor-Collector,,REP,Cheryl Tesch Gaskamp,845,52,621,172
+Washington,Precinct 312,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Washington,Precinct 312,County Tax Assessor-Collector,,,Under Votes,116,17,85,14
+Washington,Precinct 312,County Commissioner Pct 3,,REP,Kirk Hanath,837,52,612,173
+Washington,Precinct 312,County Commissioner Pct 3,,,Over Votes,0,0,0,0
+Washington,Precinct 312,County Commissioner Pct 3,,,Under Votes,124,17,94,13
+Washington,Precinct 312,Constable Pct 3,,REP,David Blakey,839,50,616,173
+Washington,Precinct 312,Constable Pct 3,,,Over Votes,0,0,0,0
+Washington,Precinct 312,Constable Pct 3,,,Under Votes,122,19,90,13
+Washington,Precinct 316,Registered Voters,,,,263,,,
+Washington,Precinct 316,Ballots Cast,,,,185,18,139,28
+Washington,Precinct 316,Ballots Cast - Blank,,,,1,1,0,0
+Washington,Precinct 316,President,,REP,Donald J. Trump / Michael R. Pence,142,13,107,22
+Washington,Precinct 316,President,,DEM,Joseph R. Biden / Kamala D. Harris,39,4,30,5
+Washington,Precinct 316,President,,LIB,"Jo Jorgensen / Jeremy ""Spike"" Cohen",1,0,1,0
+Washington,Precinct 316,President,,GRN,Howie Hawkins / Angela Walker,0,0,0,0
+Washington,Precinct 316,President,,,Write-ins,1,0,0,1
+Washington,Precinct 316,President,,,Over Votes,0,0,0,0
+Washington,Precinct 316,President,,,Under Votes,2,1,1,0
+Washington,Precinct 316,U.S. Senate,,REP,John Cornyn,143,12,108,23
+Washington,Precinct 316,U.S. Senate,,DEM,"DEM Mary ""MJ"" Hegar",38,5,28,5
+Washington,Precinct 316,U.S. Senate,,LIB,Kerry Douglas McKennon,1,0,1,0
+Washington,Precinct 316,U.S. Senate,,GRN,David B. Collins,0,0,0,0
+Washington,Precinct 316,U.S. Senate,,,Write-ins,0,0,0,0
+Washington,Precinct 316,U.S. Senate,,,Over Votes,0,0,0,0
+Washington,Precinct 316,U.S. Senate,,,Under Votes,3,1,2,0
+Washington,Precinct 316,U.S. House,10,REP,Michael McCaul,142,13,106,23
+Washington,Precinct 316,U.S. House,10,DEM,Mike Siegel,34,4,26,4
+Washington,Precinct 316,U.S. House,10,LIB,Roy Eriksen,3,0,2,1
+Washington,Precinct 316,U.S. House,10,,Over Votes,0,0,0,0
+Washington,Precinct 316,U.S. House,10,,Under Votes,6,1,5,0
+Washington,Precinct 316,Railroad Commissioner,,REP,"James ""Jim"" Wright",144,13,108,23
+Washington,Precinct 316,Railroad Commissioner,,DEM,Chrysta Castaneda,34,4,25,5
+Washington,Precinct 316,Railroad Commissioner,,LIB,Matt Sterett,4,0,4,0
+Washington,Precinct 316,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",0,0,0,0
+Washington,Precinct 316,Railroad Commissioner,,,Over Votes,0,0,0,0
+Washington,Precinct 316,Railroad Commissioner,,,Under Votes,3,1,2,0
+Washington,Precinct 316,Chief Justice Supreme Court,,REP,Nathan Hecht,142,12,108,22
+Washington,Precinct 316,Chief Justice Supreme Court,,DEM,Amy Clark Meachum,39,5,28,6
+Washington,Precinct 316,Chief Justice Supreme Court,,LIB,Mark Ash,1,0,1,0
+Washington,Precinct 316,Chief Justice Supreme Court,,,Over Votes,0,0,0,0
+Washington,Precinct 316,Chief Justice Supreme Court,,,Under Votes,3,1,2,0
+Washington,Precinct 316,Justice Supreme Court Pl 6,,REP,Jane Bland,141,12,107,22
+Washington,Precinct 316,Justice Supreme Court Pl 6,,DEM,Kathy Cheng,39,5,28,6
+Washington,Precinct 316,Justice Supreme Court Pl 6,,,Over Votes,0,0,0,0
+Washington,Precinct 316,Justice Supreme Court Pl 6,,,Under Votes,5,1,4,0
+Washington,Precinct 316,Justice Supreme Court Pl 7,,REP,Jeff Boyd,140,13,105,22
+Washington,Precinct 316,Justice Supreme Court Pl 7,,DEM,Staci Williams,39,4,30,5
+Washington,Precinct 316,Justice Supreme Court Pl 7,,LIB,William Bryan Strange III,2,0,2,0
+Washington,Precinct 316,Justice Supreme Court Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 316,Justice Supreme Court Pl 7,,,Under Votes,4,1,2,1
+Washington,Precinct 316,Justice Supreme Court Pl 8,,REP,Brett Busby,142,13,107,22
+Washington,Precinct 316,Justice Supreme Court Pl 8,,DEM,Gisela D. Triana,38,4,28,6
+Washington,Precinct 316,Justice Supreme Court Pl 8,,LIB,Tom Oxford,2,0,2,0
+Washington,Precinct 316,Justice Supreme Court Pl 8,,,Over Votes,0,0,0,0
+Washington,Precinct 316,Justice Supreme Court Pl 8,,,Under Votes,3,1,2,0
+Washington,Precinct 316,Judge Ct of Crim App Pl 3,,REP,Bert Richardson,141,13,106,22
+Washington,Precinct 316,Judge Ct of Crim App Pl 3,,DEM,Elizabeth Davis Frizell,39,4,30,5
+Washington,Precinct 316,Judge Ct of Crim App Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 316,Judge Ct of Crim App Pl 3,,,Under Votes,5,1,3,1
+Washington,Precinct 316,Judge Ct of Crim App Pl 4,,REP,Kevin Patrick Yeary,140,13,106,21
+Washington,Precinct 316,Judge Ct of Crim App Pl 4,,DEM,Tina Clinton,38,4,29,5
+Washington,Precinct 316,Judge Ct of Crim App Pl 4,,,Over Votes,0,0,0,0
+Washington,Precinct 316,Judge Ct of Crim App Pl 4,,,Under Votes,7,1,4,2
+Washington,Precinct 316,Judge Ct of Crim App Pl 9,,REP,David Newell,138,12,104,22
+Washington,Precinct 316,Judge Ct of Crim App Pl 9,,DEM,Brandon Birmingham,38,5,29,4
+Washington,Precinct 316,Judge Ct of Crim App Pl 9,,,Over Votes,0,0,0,0
+Washington,Precinct 316,Judge Ct of Crim App Pl 9,,,Under Votes,9,1,6,2
+Washington,Precinct 316,Member State BoE Dist 10,,REP,Tom Maynard,137,12,103,22
+Washington,Precinct 316,Member State BoE Dist 10,,DEM,Marsha Burnett-Webster,38,5,28,5
+Washington,Precinct 316,Member State BoE Dist 10,,LIB,Trip Seibold,3,0,3,0
+Washington,Precinct 316,Member State BoE Dist 10,,,Over Votes,0,0,0,0
+Washington,Precinct 316,Member State BoE Dist 10,,,Under Votes,7,1,5,1
+Washington,Precinct 316,State Senate,18,REP,Lois W. Kolkhorst,151,13,112,26
+Washington,Precinct 316,State Senate,18,DEM,Michael Antalan,28,4,22,2
+Washington,Precinct 316,State Senate,18,,Over Votes,0,0,0,0
+Washington,Precinct 316,State Senate,18,,Under Votes,6,1,5,0
+Washington,Precinct 316,State Representative,13,REP,Ben Leman,154,13,116,25
+Washington,Precinct 316,State Representative,13,,Over Votes,0,0,0,0
+Washington,Precinct 316,State Representative,13,,Under Votes,31,5,23,3
+Washington,Precinct 316,Chief Justice 14th Ct of App Dist,,REP,Tracy Elizabeth Christopher,140,12,107,21
+Washington,Precinct 316,Chief Justice 14th Ct of App Dist,,DEM,Jane Robinson,39,5,28,6
+Washington,Precinct 316,Chief Justice 14th Ct of App Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 316,Chief Justice 14th Ct of App Dist,,,Under Votes,6,1,4,1
+Washington,Precinct 316,Justice 1st Ct of App Dist Pl 3,,REP,Russell Lloyd,139,13,106,20
+Washington,Precinct 316,Justice 1st Ct of App Dist Pl 3,,DEM,Veronica Rivas-Molloy,37,4,27,6
+Washington,Precinct 316,Justice 1st Ct of App Dist Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 316,Justice 1st Ct of App Dist Pl 3,,,Under Votes,9,1,6,2
+Washington,Precinct 316,Justice 1st Ct of App Dist Pl 5,,REP,Terry Adams,144,13,107,24
+Washington,Precinct 316,Justice 1st Ct of App Dist Pl 5,,DEM,Amparo Monique Guerra,34,4,27,3
+Washington,Precinct 316,Justice 1st Ct of App Dist Pl 5,,,Over Votes,0,0,0,0
+Washington,Precinct 316,Justice 1st Ct of App Dist Pl 5,,,Under Votes,7,1,5,1
+Washington,Precinct 316,Justice 14th Ct of App Dist Pl 7,,REP,Ken Wise,142,13,108,21
+Washington,Precinct 316,Justice 14th Ct of App Dist Pl 7,,DEM,"DEM Tamika ""Tami"" Craft",36,4,26,6
+Washington,Precinct 316,Justice 14th Ct of App Dist Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 316,Justice 14th Ct of App Dist Pl 7,,,Under Votes,7,1,5,1
+Washington,Precinct 316,Dist Judge 21st Judicial Dist,,REP,Carson Campbell,157,13,118,26
+Washington,Precinct 316,Dist Judge 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 316,Dist Judge 21st Judicial Dist,,,Under Votes,28,5,21,2
+Washington,Precinct 316,Dist Judge 335th Judicial Dist,,REP,Reva L Towslee Corbett,155,14,116,25
+Washington,Precinct 316,Dist Judge 335th Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 316,Dist Judge 335th Judicial Dist,,,Under Votes,30,4,23,3
+Washington,Precinct 316,Dist Attorney 21st Judicial Dist,,REP,Julie Renken,159,14,119,26
+Washington,Precinct 316,Dist Attorney 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 316,Dist Attorney 21st Judicial Dist,,,Under Votes,26,4,20,2
+Washington,Precinct 316,County Attorney,,REP,Renee Ann Mueller,152,13,114,25
+Washington,Precinct 316,County Attorney,,,Over Votes,0,0,0,0
+Washington,Precinct 316,County Attorney,,,Under Votes,33,5,25,3
+Washington,Precinct 316,Sheriff,,REP,Otto Hanak,156,13,118,25
+Washington,Precinct 316,Sheriff,,,Over Votes,0,0,0,0
+Washington,Precinct 316,Sheriff,,,Under Votes,29,5,21,3
+Washington,Precinct 316,County Tax Assessor-Collector,,REP,Cheryl Tesch Gaskamp,157,14,117,26
+Washington,Precinct 316,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Washington,Precinct 316,County Tax Assessor-Collector,,,Under Votes,28,4,22,2
+Washington,Precinct 316,County Commissioner Pct 3,,REP,Kirk Hanath,152,13,115,24
+Washington,Precinct 316,County Commissioner Pct 3,,,Over Votes,0,0,0,0
+Washington,Precinct 316,County Commissioner Pct 3,,,Under Votes,33,5,24,4
+Washington,Precinct 316,Constable Pct 3,,REP,David Blakey,150,13,111,26
+Washington,Precinct 316,Constable Pct 3,,,Over Votes,0,0,0,0
+Washington,Precinct 316,Constable Pct 3,,,Under Votes,35,5,28,2
+Washington,Precinct 320,Registered Voters,,,,1918,,,
+Washington,Precinct 320,Ballots Cast,,,,1535,117,1233,185
+Washington,Precinct 320,Ballots Cast - Blank,,,,0,0,0,0
+Washington,Precinct 320,President,,REP,Donald J. Trump / Michael R. Pence,1306,75,1071,160
+Washington,Precinct 320,President,,DEM,Joseph R. Biden / Kamala D. Harris,205,41,148,16
+Washington,Precinct 320,President,,LIB,"Jo Jorgensen / Jeremy ""Spike"" Cohen",12,0,7,5
+Washington,Precinct 320,President,,GRN,Howie Hawkins / Angela Walker,0,0,0,0
+Washington,Precinct 320,President,,,Write-ins,3,0,2,1
+Washington,Precinct 320,President,,,Over Votes,0,0,0,0
+Washington,Precinct 320,President,,,Under Votes,9,1,5,3
+Washington,Precinct 320,U.S. Senate,,REP,John Cornyn,1312,78,1073,161
+Washington,Precinct 320,U.S. Senate,,DEM,"DEM Mary ""MJ"" Hegar",186,37,133,16
+Washington,Precinct 320,U.S. Senate,,LIB,Kerry Douglas McKennon,15,0,11,4
+Washington,Precinct 320,U.S. Senate,,GRN,David B. Collins,1,1,0,0
+Washington,Precinct 320,U.S. Senate,,,Write-ins,2,0,1,1
+Washington,Precinct 320,U.S. Senate,,,Over Votes,0,0,0,0
+Washington,Precinct 320,U.S. Senate,,,Under Votes,19,1,15,3
+Washington,Precinct 320,U.S. House,10,REP,Michael McCaul,1338,81,1091,166
+Washington,Precinct 320,U.S. House,10,DEM,Mike Siegel,170,34,121,15
+Washington,Precinct 320,U.S. House,10,LIB,Roy Eriksen,12,1,8,3
+Washington,Precinct 320,U.S. House,10,,Over Votes,0,0,0,0
+Washington,Precinct 320,U.S. House,10,,Under Votes,15,1,13,1
+Washington,Precinct 320,Railroad Commissioner,,REP,"James ""Jim"" Wright",1273,73,1043,157
+Washington,Precinct 320,Railroad Commissioner,,DEM,Chrysta Castaneda,191,36,138,17
+Washington,Precinct 320,Railroad Commissioner,,LIB,Matt Sterett,23,2,16,5
+Washington,Precinct 320,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",9,1,6,2
+Washington,Precinct 320,Railroad Commissioner,,,Over Votes,0,0,0,0
+Washington,Precinct 320,Railroad Commissioner,,,Under Votes,39,5,30,4
+Washington,Precinct 320,Chief Justice Supreme Court,,REP,Nathan Hecht,1286,76,1051,159
+Washington,Precinct 320,Chief Justice Supreme Court,,DEM,Amy Clark Meachum,181,36,130,15
+Washington,Precinct 320,Chief Justice Supreme Court,,LIB,Mark Ash,23,0,18,5
+Washington,Precinct 320,Chief Justice Supreme Court,,,Over Votes,0,0,0,0
+Washington,Precinct 320,Chief Justice Supreme Court,,,Under Votes,45,5,34,6
+Washington,Precinct 320,Justice Supreme Court Pl 6,,REP,Jane Bland,1313,78,1071,164
+Washington,Precinct 320,Justice Supreme Court Pl 6,,DEM,Kathy Cheng,178,34,129,15
+Washington,Precinct 320,Justice Supreme Court Pl 6,,,Over Votes,0,0,0,0
+Washington,Precinct 320,Justice Supreme Court Pl 6,,,Under Votes,44,5,33,6
+Washington,Precinct 320,Justice Supreme Court Pl 7,,REP,Jeff Boyd,1288,74,1055,159
+Washington,Precinct 320,Justice Supreme Court Pl 7,,DEM,Staci Williams,182,36,130,16
+Washington,Precinct 320,Justice Supreme Court Pl 7,,LIB,William Bryan Strange III,15,0,11,4
+Washington,Precinct 320,Justice Supreme Court Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 320,Justice Supreme Court Pl 7,,,Under Votes,50,7,37,6
+Washington,Precinct 320,Justice Supreme Court Pl 8,,REP,Brett Busby,1298,75,1061,162
+Washington,Precinct 320,Justice Supreme Court Pl 8,,DEM,Gisela D. Triana,176,35,128,13
+Washington,Precinct 320,Justice Supreme Court Pl 8,,LIB,Tom Oxford,18,1,13,4
+Washington,Precinct 320,Justice Supreme Court Pl 8,,,Over Votes,0,0,0,0
+Washington,Precinct 320,Justice Supreme Court Pl 8,,,Under Votes,43,6,31,6
+Washington,Precinct 320,Judge Ct of Crim App Pl 3,,REP,Bert Richardson,1307,77,1066,164
+Washington,Precinct 320,Judge Ct of Crim App Pl 3,,DEM,Elizabeth Davis Frizell,178,34,128,16
+Washington,Precinct 320,Judge Ct of Crim App Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 320,Judge Ct of Crim App Pl 3,,,Under Votes,50,6,39,5
+Washington,Precinct 320,Judge Ct of Crim App Pl 4,,REP,Kevin Patrick Yeary,1290,73,1054,163
+Washington,Precinct 320,Judge Ct of Crim App Pl 4,,DEM,Tina Clinton,184,37,134,13
+Washington,Precinct 320,Judge Ct of Crim App Pl 4,,,Over Votes,0,0,0,0
+Washington,Precinct 320,Judge Ct of Crim App Pl 4,,,Under Votes,61,7,45,9
+Washington,Precinct 320,Judge Ct of Crim App Pl 9,,REP,David Newell,1301,76,1061,164
+Washington,Precinct 320,Judge Ct of Crim App Pl 9,,DEM,Brandon Birmingham,174,34,125,15
+Washington,Precinct 320,Judge Ct of Crim App Pl 9,,,Over Votes,0,0,0,0
+Washington,Precinct 320,Judge Ct of Crim App Pl 9,,,Under Votes,60,7,47,6
+Washington,Precinct 320,Member State BoE Dist 10,,REP,Tom Maynard,1276,74,1044,158
+Washington,Precinct 320,Member State BoE Dist 10,,DEM,Marsha Burnett-Webster,184,37,133,14
+Washington,Precinct 320,Member State BoE Dist 10,,LIB,Trip Seibold,26,0,19,7
+Washington,Precinct 320,Member State BoE Dist 10,,,Over Votes,0,0,0,0
+Washington,Precinct 320,Member State BoE Dist 10,,,Under Votes,49,6,37,6
+Washington,Precinct 320,State Senate,18,REP,Lois W. Kolkhorst,1373,87,1113,173
+Washington,Precinct 320,State Senate,18,DEM,Michael Antalan,137,28,99,10
+Washington,Precinct 320,State Senate,18,,Over Votes,0,0,0,0
+Washington,Precinct 320,State Senate,18,,Under Votes,25,2,21,2
+Washington,Precinct 320,State Representative,13,REP,Ben Leman,1358,97,1095,166
+Washington,Precinct 320,State Representative,13,,Over Votes,0,0,0,0
+Washington,Precinct 320,State Representative,13,,Under Votes,177,20,138,19
+Washington,Precinct 320,Chief Justice 14th Ct of App Dist,,REP,Tracy Elizabeth Christopher,1301,77,1063,161
+Washington,Precinct 320,Chief Justice 14th Ct of App Dist,,DEM,Jane Robinson,172,34,122,16
+Washington,Precinct 320,Chief Justice 14th Ct of App Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 320,Chief Justice 14th Ct of App Dist,,,Under Votes,62,6,48,8
+Washington,Precinct 320,Justice 1st Ct of App Dist Pl 3,,REP,Russell Lloyd,1299,76,1064,159
+Washington,Precinct 320,Justice 1st Ct of App Dist Pl 3,,DEM,Veronica Rivas-Molloy,177,35,123,19
+Washington,Precinct 320,Justice 1st Ct of App Dist Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 320,Justice 1st Ct of App Dist Pl 3,,,Under Votes,59,6,46,7
+Washington,Precinct 320,Justice 1st Ct of App Dist Pl 5,,REP,Terry Adams,1311,76,1073,162
+Washington,Precinct 320,Justice 1st Ct of App Dist Pl 5,,DEM,Amparo Monique Guerra,168,34,117,17
+Washington,Precinct 320,Justice 1st Ct of App Dist Pl 5,,,Over Votes,0,0,0,0
+Washington,Precinct 320,Justice 1st Ct of App Dist Pl 5,,,Under Votes,56,7,43,6
+Washington,Precinct 320,Justice 14th Ct of App Dist Pl 7,,REP,Ken Wise,1312,80,1069,163
+Washington,Precinct 320,Justice 14th Ct of App Dist Pl 7,,DEM,"DEM Tamika ""Tami"" Craft",164,32,116,16
+Washington,Precinct 320,Justice 14th Ct of App Dist Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 320,Justice 14th Ct of App Dist Pl 7,,,Under Votes,59,5,48,6
+Washington,Precinct 320,Dist Judge 21st Judicial Dist,,REP,Carson Campbell,1379,96,1110,173
+Washington,Precinct 320,Dist Judge 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 320,Dist Judge 21st Judicial Dist,,,Under Votes,156,21,123,12
+Washington,Precinct 320,Dist Judge 335th Judicial Dist,,REP,Reva L Towslee Corbett,1376,97,1108,171
+Washington,Precinct 320,Dist Judge 335th Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 320,Dist Judge 335th Judicial Dist,,,Under Votes,159,20,125,14
+Washington,Precinct 320,Dist Attorney 21st Judicial Dist,,REP,Julie Renken,1382,97,1114,171
+Washington,Precinct 320,Dist Attorney 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 320,Dist Attorney 21st Judicial Dist,,,Under Votes,153,20,119,14
+Washington,Precinct 320,County Attorney,,REP,Renee Ann Mueller,1371,98,1104,169
+Washington,Precinct 320,County Attorney,,,Over Votes,0,0,0,0
+Washington,Precinct 320,County Attorney,,,Under Votes,164,19,129,16
+Washington,Precinct 320,Sheriff,,REP,Otto Hanak,1363,102,1091,170
+Washington,Precinct 320,Sheriff,,,Over Votes,0,0,0,0
+Washington,Precinct 320,Sheriff,,,Under Votes,172,15,142,15
+Washington,Precinct 320,County Tax Assessor-Collector,,REP,Cheryl Tesch Gaskamp,1383,100,1110,173
+Washington,Precinct 320,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Washington,Precinct 320,County Tax Assessor-Collector,,,Under Votes,152,17,123,12
+Washington,Precinct 320,County Commissioner Pct 3,,REP,Kirk Hanath,1379,100,1105,174
+Washington,Precinct 320,County Commissioner Pct 3,,,Over Votes,0,0,0,0
+Washington,Precinct 320,County Commissioner Pct 3,,,Under Votes,156,17,128,11
+Washington,Precinct 320,Constable Pct 3,,REP,David Blakey,1367,98,1100,169
+Washington,Precinct 320,Constable Pct 3,,,Over Votes,0,0,0,0
+Washington,Precinct 320,Constable Pct 3,,,Under Votes,168,19,133,16
+Washington,Precinct 406,Registered Voters,,,,1711,,,
+Washington,Precinct 406,Ballots Cast,,,,1143,118,901,124
+Washington,Precinct 406,Ballots Cast - Blank,,,,0,0,0,0
+Washington,Precinct 406,President,,REP,Donald J. Trump / Michael R. Pence,808,60,661,87
+Washington,Precinct 406,President,,DEM,Joseph R. Biden / Kamala D. Harris,317,58,225,34
+Washington,Precinct 406,President,,LIB,"Jo Jorgensen / Jeremy ""Spike"" Cohen",11,0,9,2
+Washington,Precinct 406,President,,GRN,Howie Hawkins / Angela Walker,3,0,2,1
+Washington,Precinct 406,President,,,Write-ins,0,0,0,0
+Washington,Precinct 406,President,,,Over Votes,0,0,0,0
+Washington,Precinct 406,President,,,Under Votes,4,0,4,0
+Washington,Precinct 406,U.S. Senate,,REP,John Cornyn,825,69,669,87
+Washington,Precinct 406,U.S. Senate,,DEM,"DEM Mary ""MJ"" Hegar",286,46,208,32
+Washington,Precinct 406,U.S. Senate,,LIB,Kerry Douglas McKennon,17,0,13,4
+Washington,Precinct 406,U.S. Senate,,GRN,David B. Collins,5,1,4,0
+Washington,Precinct 406,U.S. Senate,,,Write-ins,1,0,1,0
+Washington,Precinct 406,U.S. Senate,,,Over Votes,0,0,0,0
+Washington,Precinct 406,U.S. Senate,,,Under Votes,9,2,6,1
+Washington,Precinct 406,U.S. House,10,REP,Michael McCaul,847,74,682,91
+Washington,Precinct 406,U.S. House,10,DEM,Mike Siegel,262,41,190,31
+Washington,Precinct 406,U.S. House,10,LIB,Roy Eriksen,13,1,10,2
+Washington,Precinct 406,U.S. House,10,,Over Votes,0,0,0,0
+Washington,Precinct 406,U.S. House,10,,Under Votes,21,2,19,0
+Washington,Precinct 406,Railroad Commissioner,,REP,"James ""Jim"" Wright",794,68,641,85
+Washington,Precinct 406,Railroad Commissioner,,DEM,Chrysta Castaneda,285,41,213,31
+Washington,Precinct 406,Railroad Commissioner,,LIB,Matt Sterett,21,1,16,4
+Washington,Precinct 406,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",12,2,8,2
+Washington,Precinct 406,Railroad Commissioner,,,Over Votes,0,0,0,0
+Washington,Precinct 406,Railroad Commissioner,,,Under Votes,31,6,23,2
+Washington,Precinct 406,Chief Justice Supreme Court,,REP,Nathan Hecht,810,68,653,89
+Washington,Precinct 406,Chief Justice Supreme Court,,DEM,Amy Clark Meachum,278,44,204,30
+Washington,Precinct 406,Chief Justice Supreme Court,,LIB,Mark Ash,23,1,20,2
+Washington,Precinct 406,Chief Justice Supreme Court,,,Over Votes,0,0,0,0
+Washington,Precinct 406,Chief Justice Supreme Court,,,Under Votes,32,5,24,3
+Washington,Precinct 406,Justice Supreme Court Pl 6,,REP,Jane Bland,822,61,673,88
+Washington,Precinct 406,Justice Supreme Court Pl 6,,DEM,Kathy Cheng,287,50,205,32
+Washington,Precinct 406,Justice Supreme Court Pl 6,,,Over Votes,0,0,0,0
+Washington,Precinct 406,Justice Supreme Court Pl 6,,,Under Votes,34,7,23,4
+Washington,Precinct 406,Justice Supreme Court Pl 7,,REP,Jeff Boyd,806,64,655,87
+Washington,Precinct 406,Justice Supreme Court Pl 7,,DEM,Staci Williams,283,46,202,35
+Washington,Precinct 406,Justice Supreme Court Pl 7,,LIB,William Bryan Strange III,20,1,19,0
+Washington,Precinct 406,Justice Supreme Court Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 406,Justice Supreme Court Pl 7,,,Under Votes,34,7,25,2
+Washington,Precinct 406,Justice Supreme Court Pl 8,,REP,Brett Busby,811,64,662,85
+Washington,Precinct 406,Justice Supreme Court Pl 8,,DEM,Gisela D. Triana,277,46,198,33
+Washington,Precinct 406,Justice Supreme Court Pl 8,,LIB,Tom Oxford,20,1,16,3
+Washington,Precinct 406,Justice Supreme Court Pl 8,,,Over Votes,0,0,0,0
+Washington,Precinct 406,Justice Supreme Court Pl 8,,,Under Votes,35,7,25,3
+Washington,Precinct 406,Judge Ct of Crim App Pl 3,,REP,Bert Richardson,820,62,672,86
+Washington,Precinct 406,Judge Ct of Crim App Pl 3,,DEM,Elizabeth Davis Frizell,288,50,205,33
+Washington,Precinct 406,Judge Ct of Crim App Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 406,Judge Ct of Crim App Pl 3,,,Under Votes,35,6,24,5
+Washington,Precinct 406,Judge Ct of Crim App Pl 4,,REP,Kevin Patrick Yeary,811,64,661,86
+Washington,Precinct 406,Judge Ct of Crim App Pl 4,,DEM,Tina Clinton,283,46,204,33
+Washington,Precinct 406,Judge Ct of Crim App Pl 4,,,Over Votes,0,0,0,0
+Washington,Precinct 406,Judge Ct of Crim App Pl 4,,,Under Votes,49,8,36,5
+Washington,Precinct 406,Judge Ct of Crim App Pl 9,,REP,David Newell,824,62,674,88
+Washington,Precinct 406,Judge Ct of Crim App Pl 9,,DEM,Brandon Birmingham,273,49,195,29
+Washington,Precinct 406,Judge Ct of Crim App Pl 9,,,Over Votes,1,0,1,0
+Washington,Precinct 406,Judge Ct of Crim App Pl 9,,,Under Votes,45,7,31,7
+Washington,Precinct 406,Member State BoE Dist 10,,REP,Tom Maynard,791,61,644,86
+Washington,Precinct 406,Member State BoE Dist 10,,DEM,Marsha Burnett-Webster,280,49,196,35
+Washington,Precinct 406,Member State BoE Dist 10,,LIB,Trip Seibold,24,0,23,1
+Washington,Precinct 406,Member State BoE Dist 10,,,Over Votes,0,0,0,0
+Washington,Precinct 406,Member State BoE Dist 10,,,Under Votes,48,8,38,2
+Washington,Precinct 406,State Senate,18,REP,Lois W. Kolkhorst,873,73,706,94
+Washington,Precinct 406,State Senate,18,DEM,Michael Antalan,240,41,172,27
+Washington,Precinct 406,State Senate,18,,Over Votes,0,0,0,0
+Washington,Precinct 406,State Senate,18,,Under Votes,30,4,23,3
+Washington,Precinct 406,State Representative,13,REP,Ben Leman,916,84,729,103
+Washington,Precinct 406,State Representative,13,,Over Votes,0,0,0,0
+Washington,Precinct 406,State Representative,13,,Under Votes,227,34,172,21
+Washington,Precinct 406,Chief Justice 14th Ct of App Dist,,REP,Tracy Elizabeth Christopher,808,60,662,86
+Washington,Precinct 406,Chief Justice 14th Ct of App Dist,,DEM,Jane Robinson,278,49,195,34
+Washington,Precinct 406,Chief Justice 14th Ct of App Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 406,Chief Justice 14th Ct of App Dist,,,Under Votes,57,9,44,4
+Washington,Precinct 406,Justice 1st Ct of App Dist Pl 3,,REP,Russell Lloyd,803,60,657,86
+Washington,Precinct 406,Justice 1st Ct of App Dist Pl 3,,DEM,Veronica Rivas-Molloy,292,49,208,35
+Washington,Precinct 406,Justice 1st Ct of App Dist Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 406,Justice 1st Ct of App Dist Pl 3,,,Under Votes,48,9,36,3
+Washington,Precinct 406,Justice 1st Ct of App Dist Pl 5,,REP,Terry Adams,827,68,672,87
+Washington,Precinct 406,Justice 1st Ct of App Dist Pl 5,,DEM,Amparo Monique Guerra,270,42,195,33
+Washington,Precinct 406,Justice 1st Ct of App Dist Pl 5,,,Over Votes,0,0,0,0
+Washington,Precinct 406,Justice 1st Ct of App Dist Pl 5,,,Under Votes,46,8,34,4
+Washington,Precinct 406,Justice 14th Ct of App Dist Pl 7,,REP,Ken Wise,822,66,668,88
+Washington,Precinct 406,Justice 14th Ct of App Dist Pl 7,,DEM,"DEM Tamika ""Tami"" Craft",265,43,190,32
+Washington,Precinct 406,Justice 14th Ct of App Dist Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 406,Justice 14th Ct of App Dist Pl 7,,,Under Votes,56,9,43,4
+Washington,Precinct 406,Dist Judge 21st Judicial Dist,,REP,Carson Campbell,937,85,747,105
+Washington,Precinct 406,Dist Judge 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 406,Dist Judge 21st Judicial Dist,,,Under Votes,206,33,154,19
+Washington,Precinct 406,Dist Judge 335th Judicial Dist,,REP,Reva L Towslee Corbett,934,84,744,106
+Washington,Precinct 406,Dist Judge 335th Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 406,Dist Judge 335th Judicial Dist,,,Under Votes,209,34,157,18
+Washington,Precinct 406,Dist Attorney 21st Judicial Dist,,REP,Julie Renken,932,87,741,104
+Washington,Precinct 406,Dist Attorney 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 406,Dist Attorney 21st Judicial Dist,,,Under Votes,211,31,160,20
+Washington,Precinct 406,County Attorney,,REP,Renee Ann Mueller,934,87,742,105
+Washington,Precinct 406,County Attorney,,,Over Votes,0,0,0,0
+Washington,Precinct 406,County Attorney,,,Under Votes,209,31,159,19
+Washington,Precinct 406,Sheriff,,REP,Otto Hanak,929,85,741,103
+Washington,Precinct 406,Sheriff,,,Over Votes,0,0,0,0
+Washington,Precinct 406,Sheriff,,,Under Votes,214,33,160,21
+Washington,Precinct 406,County Tax Assessor-Collector,,REP,Cheryl Tesch Gaskamp,937,88,742,107
+Washington,Precinct 406,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Washington,Precinct 406,County Tax Assessor-Collector,,,Under Votes,206,30,159,17
+Washington,Precinct 406,Constable Pct 4,,REP,Greg Rolling,918,83,731,104
+Washington,Precinct 406,Constable Pct 4,,,Over Votes,0,0,0,0
+Washington,Precinct 406,Constable Pct 4,,,Under Votes,225,35,170,20
+Washington,Precinct 410,Registered Voters,,,,1258,,,
+Washington,Precinct 410,Ballots Cast,,,,963,88,576,299
+Washington,Precinct 410,Ballots Cast - Blank,,,,0,0,0,0
+Washington,Precinct 410,President,,REP,Donald J. Trump / Michael R. Pence,791,51,491,249
+Washington,Precinct 410,President,,DEM,Joseph R. Biden / Kamala D. Harris,158,37,81,40
+Washington,Precinct 410,President,,LIB,"Jo Jorgensen / Jeremy ""Spike"" Cohen",5,0,1,4
+Washington,Precinct 410,President,,GRN,Howie Hawkins / Angela Walker,3,0,0,3
+Washington,Precinct 410,President,,,Write-ins,1,0,0,1
+Washington,Precinct 410,President,,,Over Votes,0,0,0,0
+Washington,Precinct 410,President,,,Under Votes,5,0,3,2
+Washington,Precinct 410,U.S. Senate,,REP,John Cornyn,781,49,486,246
+Washington,Precinct 410,U.S. Senate,,DEM,"DEM Mary ""MJ"" Hegar",156,39,77,40
+Washington,Precinct 410,U.S. Senate,,LIB,Kerry Douglas McKennon,9,0,5,4
+Washington,Precinct 410,U.S. Senate,,GRN,David B. Collins,1,0,0,1
+Washington,Precinct 410,U.S. Senate,,,Write-ins,0,0,0,0
+Washington,Precinct 410,U.S. Senate,,,Over Votes,0,0,0,0
+Washington,Precinct 410,U.S. Senate,,,Under Votes,16,0,8,8
+Washington,Precinct 410,U.S. House,10,REP,Michael McCaul,788,54,486,248
+Washington,Precinct 410,U.S. House,10,DEM,Mike Siegel,145,34,71,40
+Washington,Precinct 410,U.S. House,10,LIB,Roy Eriksen,5,0,3,2
+Washington,Precinct 410,U.S. House,10,,Over Votes,0,0,0,0
+Washington,Precinct 410,U.S. House,10,,Under Votes,24,0,15,9
+Washington,Precinct 410,Railroad Commissioner,,REP,"James ""Jim"" Wright",768,49,479,240
+Washington,Precinct 410,Railroad Commissioner,,DEM,Chrysta Castaneda,158,37,83,38
+Washington,Precinct 410,Railroad Commissioner,,LIB,Matt Sterett,5,0,1,4
+Washington,Precinct 410,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",3,0,0,3
+Washington,Precinct 410,Railroad Commissioner,,,Over Votes,0,0,0,0
+Washington,Precinct 410,Railroad Commissioner,,,Under Votes,28,2,12,14
+Washington,Precinct 410,Chief Justice Supreme Court,,REP,Nathan Hecht,776,52,486,238
+Washington,Precinct 410,Chief Justice Supreme Court,,DEM,Amy Clark Meachum,147,34,72,41
+Washington,Precinct 410,Chief Justice Supreme Court,,LIB,Mark Ash,9,0,3,6
+Washington,Precinct 410,Chief Justice Supreme Court,,,Over Votes,0,0,0,0
+Washington,Precinct 410,Chief Justice Supreme Court,,,Under Votes,30,2,14,14
+Washington,Precinct 410,Justice Supreme Court Pl 6,,REP,Jane Bland,789,53,489,247
+Washington,Precinct 410,Justice Supreme Court Pl 6,,DEM,Kathy Cheng,141,33,72,36
+Washington,Precinct 410,Justice Supreme Court Pl 6,,,Over Votes,0,0,0,0
+Washington,Precinct 410,Justice Supreme Court Pl 6,,,Under Votes,32,2,14,16
+Washington,Precinct 410,Justice Supreme Court Pl 7,,REP,Jeff Boyd,775,51,482,242
+Washington,Precinct 410,Justice Supreme Court Pl 7,,DEM,Staci Williams,146,35,73,38
+Washington,Precinct 410,Justice Supreme Court Pl 7,,LIB,William Bryan Strange III,9,0,4,5
+Washington,Precinct 410,Justice Supreme Court Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 410,Justice Supreme Court Pl 7,,,Under Votes,32,2,16,14
+Washington,Precinct 410,Justice Supreme Court Pl 8,,REP,Brett Busby,774,52,483,239
+Washington,Precinct 410,Justice Supreme Court Pl 8,,DEM,Gisela D. Triana,147,34,74,39
+Washington,Precinct 410,Justice Supreme Court Pl 8,,LIB,Tom Oxford,12,0,4,8
+Washington,Precinct 410,Justice Supreme Court Pl 8,,,Over Votes,0,0,0,0
+Washington,Precinct 410,Justice Supreme Court Pl 8,,,Under Votes,29,2,14,13
+Washington,Precinct 410,Judge Ct of Crim App Pl 3,,REP,Bert Richardson,781,52,485,244
+Washington,Precinct 410,Judge Ct of Crim App Pl 3,,DEM,Elizabeth Davis Frizell,146,33,73,40
+Washington,Precinct 410,Judge Ct of Crim App Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 410,Judge Ct of Crim App Pl 3,,,Under Votes,35,3,17,15
+Washington,Precinct 410,Judge Ct of Crim App Pl 4,,REP,Kevin Patrick Yeary,770,49,481,240
+Washington,Precinct 410,Judge Ct of Crim App Pl 4,,DEM,Tina Clinton,150,35,73,42
+Washington,Precinct 410,Judge Ct of Crim App Pl 4,,,Over Votes,0,0,0,0
+Washington,Precinct 410,Judge Ct of Crim App Pl 4,,,Under Votes,42,4,21,17
+Washington,Precinct 410,Judge Ct of Crim App Pl 9,,REP,David Newell,774,50,483,241
+Washington,Precinct 410,Judge Ct of Crim App Pl 9,,DEM,Brandon Birmingham,144,34,72,38
+Washington,Precinct 410,Judge Ct of Crim App Pl 9,,,Over Votes,0,0,0,0
+Washington,Precinct 410,Judge Ct of Crim App Pl 9,,,Under Votes,44,4,20,20
+Washington,Precinct 410,Member State BoE Dist 10,,REP,Tom Maynard,764,49,477,238
+Washington,Precinct 410,Member State BoE Dist 10,,DEM,Marsha Burnett-Webster,150,37,74,39
+Washington,Precinct 410,Member State BoE Dist 10,,LIB,Trip Seibold,12,0,5,7
+Washington,Precinct 410,Member State BoE Dist 10,,,Over Votes,0,0,0,0
+Washington,Precinct 410,Member State BoE Dist 10,,,Under Votes,36,2,19,15
+Washington,Precinct 410,State Senate,18,REP,Lois W. Kolkhorst,803,52,494,257
+Washington,Precinct 410,State Senate,18,DEM,Michael Antalan,135,33,68,34
+Washington,Precinct 410,State Senate,18,,Over Votes,0,0,0,0
+Washington,Precinct 410,State Senate,18,,Under Votes,24,3,13,8
+Washington,Precinct 410,State Representative,13,REP,Ben Leman,798,53,497,248
+Washington,Precinct 410,State Representative,13,,Over Votes,0,0,0,0
+Washington,Precinct 410,State Representative,13,,Under Votes,163,35,78,50
+Washington,Precinct 410,Chief Justice 14th Ct of App Dist,,REP,Tracy Elizabeth Christopher,771,49,477,245
+Washington,Precinct 410,Chief Justice 14th Ct of App Dist,,DEM,Jane Robinson,143,34,72,37
+Washington,Precinct 410,Chief Justice 14th Ct of App Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 410,Chief Justice 14th Ct of App Dist,,,Under Votes,48,5,26,17
+Washington,Precinct 410,Justice 1st Ct of App Dist Pl 3,,REP,Russell Lloyd,777,49,483,245
+Washington,Precinct 410,Justice 1st Ct of App Dist Pl 3,,DEM,Veronica Rivas-Molloy,138,34,69,35
+Washington,Precinct 410,Justice 1st Ct of App Dist Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 410,Justice 1st Ct of App Dist Pl 3,,,Under Votes,47,5,23,19
+Washington,Precinct 410,Justice 1st Ct of App Dist Pl 5,,REP,Terry Adams,777,52,477,248
+Washington,Precinct 410,Justice 1st Ct of App Dist Pl 5,,DEM,Amparo Monique Guerra,138,32,73,33
+Washington,Precinct 410,Justice 1st Ct of App Dist Pl 5,,,Over Votes,0,0,0,0
+Washington,Precinct 410,Justice 1st Ct of App Dist Pl 5,,,Under Votes,47,4,25,18
+Washington,Precinct 410,Justice 14th Ct of App Dist Pl 7,,REP,Ken Wise,774,48,479,247
+Washington,Precinct 410,Justice 14th Ct of App Dist Pl 7,,DEM,"DEM Tamika ""Tami"" Craft",137,33,69,35
+Washington,Precinct 410,Justice 14th Ct of App Dist Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 410,Justice 14th Ct of App Dist Pl 7,,,Under Votes,51,7,27,17
+Washington,Precinct 410,Dist Judge 21st Judicial Dist,,REP,Carson Campbell,828,59,512,257
+Washington,Precinct 410,Dist Judge 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 410,Dist Judge 21st Judicial Dist,,,Under Votes,134,29,63,42
+Washington,Precinct 410,Dist Judge 335th Judicial Dist,,REP,Reva L Towslee Corbett,825,58,511,256
+Washington,Precinct 410,Dist Judge 335th Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 410,Dist Judge 335th Judicial Dist,,,Under Votes,137,30,64,43
+Washington,Precinct 410,Dist Attorney 21st Judicial Dist,,REP,Julie Renken,813,60,501,252
+Washington,Precinct 410,Dist Attorney 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 410,Dist Attorney 21st Judicial Dist,,,Under Votes,149,28,74,47
+Washington,Precinct 410,County Attorney,,REP,Renee Ann Mueller,820,61,505,254
+Washington,Precinct 410,County Attorney,,,Over Votes,0,0,0,0
+Washington,Precinct 410,County Attorney,,,Under Votes,142,27,70,45
+Washington,Precinct 410,Sheriff,,REP,Otto Hanak,803,62,494,247
+Washington,Precinct 410,Sheriff,,,Over Votes,0,0,0,0
+Washington,Precinct 410,Sheriff,,,Under Votes,159,26,81,52
+Washington,Precinct 410,County Tax Assessor-Collector,,REP,Cheryl Tesch Gaskamp,813,60,501,252
+Washington,Precinct 410,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Washington,Precinct 410,County Tax Assessor-Collector,,,Under Votes,149,28,74,47
+Washington,Precinct 410,Constable Pct 4,,REP,Greg Rolling,801,60,495,246
+Washington,Precinct 410,Constable Pct 4,,,Over Votes,0,0,0,0
+Washington,Precinct 410,Constable Pct 4,,,Under Votes,161,28,80,53
+Washington,Precinct 413,Registered Voters,,,,861,,,
+Washington,Precinct 413,Ballots Cast,,,,715,68,476,171
+Washington,Precinct 413,Ballots Cast - Blank,,,,0,0,0,0
+Washington,Precinct 413,President,,REP,Donald J. Trump / Michael R. Pence,608,39,411,158
+Washington,Precinct 413,President,,DEM,Joseph R. Biden / Kamala D. Harris,97,26,61,10
+Washington,Precinct 413,President,,LIB,"Jo Jorgensen / Jeremy ""Spike"" Cohen",6,2,1,3
+Washington,Precinct 413,President,,GRN,Howie Hawkins / Angela Walker,0,0,0,0
+Washington,Precinct 413,President,,,Write-ins,1,1,0,0
+Washington,Precinct 413,President,,,Over Votes,0,0,0,0
+Washington,Precinct 413,President,,,Under Votes,3,0,3,0
+Washington,Precinct 413,U.S. Senate,,REP,John Cornyn,605,44,406,155
+Washington,Precinct 413,U.S. Senate,,DEM,"DEM Mary ""MJ"" Hegar",92,21,61,10
+Washington,Precinct 413,U.S. Senate,,LIB,Kerry Douglas McKennon,12,3,5,4
+Washington,Precinct 413,U.S. Senate,,GRN,David B. Collins,1,0,1,0
+Washington,Precinct 413,U.S. Senate,,,Write-ins,0,0,0,0
+Washington,Precinct 413,U.S. Senate,,,Over Votes,0,0,0,0
+Washington,Precinct 413,U.S. Senate,,,Under Votes,5,0,3,2
+Washington,Precinct 413,U.S. House,10,REP,Michael McCaul,608,43,407,158
+Washington,Precinct 413,U.S. House,10,DEM,Mike Siegel,83,21,55,7
+Washington,Precinct 413,U.S. House,10,LIB,Roy Eriksen,13,3,6,4
+Washington,Precinct 413,U.S. House,10,,Over Votes,0,0,0,0
+Washington,Precinct 413,U.S. House,10,,Under Votes,11,1,8,2
+Washington,Precinct 413,Railroad Commissioner,,REP,"James ""Jim"" Wright",600,42,404,154
+Washington,Precinct 413,Railroad Commissioner,,DEM,Chrysta Castaneda,87,22,59,6
+Washington,Precinct 413,Railroad Commissioner,,LIB,Matt Sterett,13,2,5,6
+Washington,Precinct 413,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",3,1,1,1
+Washington,Precinct 413,Railroad Commissioner,,,Over Votes,0,0,0,0
+Washington,Precinct 413,Railroad Commissioner,,,Under Votes,12,1,7,4
+Washington,Precinct 413,Chief Justice Supreme Court,,REP,Nathan Hecht,600,41,407,152
+Washington,Precinct 413,Chief Justice Supreme Court,,DEM,Amy Clark Meachum,82,24,52,6
+Washington,Precinct 413,Chief Justice Supreme Court,,LIB,Mark Ash,12,2,5,5
+Washington,Precinct 413,Chief Justice Supreme Court,,,Over Votes,0,0,0,0
+Washington,Precinct 413,Chief Justice Supreme Court,,,Under Votes,21,1,12,8
+Washington,Precinct 413,Justice Supreme Court Pl 6,,REP,Jane Bland,612,46,410,156
+Washington,Precinct 413,Justice Supreme Court Pl 6,,DEM,Kathy Cheng,82,20,52,10
+Washington,Precinct 413,Justice Supreme Court Pl 6,,,Over Votes,0,0,0,0
+Washington,Precinct 413,Justice Supreme Court Pl 6,,,Under Votes,21,2,14,5
+Washington,Precinct 413,Justice Supreme Court Pl 7,,REP,Jeff Boyd,596,41,402,153
+Washington,Precinct 413,Justice Supreme Court Pl 7,,DEM,Staci Williams,90,22,57,11
+Washington,Precinct 413,Justice Supreme Court Pl 7,,LIB,William Bryan Strange III,11,3,5,3
+Washington,Precinct 413,Justice Supreme Court Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 413,Justice Supreme Court Pl 7,,,Under Votes,18,2,12,4
+Washington,Precinct 413,Justice Supreme Court Pl 8,,REP,Brett Busby,596,43,404,149
+Washington,Precinct 413,Justice Supreme Court Pl 8,,DEM,Gisela D. Triana,87,21,56,10
+Washington,Precinct 413,Justice Supreme Court Pl 8,,LIB,Tom Oxford,14,3,5,6
+Washington,Precinct 413,Justice Supreme Court Pl 8,,,Over Votes,0,0,0,0
+Washington,Precinct 413,Justice Supreme Court Pl 8,,,Under Votes,18,1,11,6
+Washington,Precinct 413,Judge Ct of Crim App Pl 3,,REP,Bert Richardson,606,43,408,155
+Washington,Precinct 413,Judge Ct of Crim App Pl 3,,DEM,Elizabeth Davis Frizell,87,23,54,10
+Washington,Precinct 413,Judge Ct of Crim App Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 413,Judge Ct of Crim App Pl 3,,,Under Votes,22,2,14,6
+Washington,Precinct 413,Judge Ct of Crim App Pl 4,,REP,Kevin Patrick Yeary,586,42,393,151
+Washington,Precinct 413,Judge Ct of Crim App Pl 4,,DEM,Tina Clinton,94,24,59,11
+Washington,Precinct 413,Judge Ct of Crim App Pl 4,,,Over Votes,0,0,0,0
+Washington,Precinct 413,Judge Ct of Crim App Pl 4,,,Under Votes,35,2,24,9
+Washington,Precinct 413,Judge Ct of Crim App Pl 9,,REP,David Newell,592,42,402,148
+Washington,Precinct 413,Judge Ct of Crim App Pl 9,,DEM,Brandon Birmingham,89,23,56,10
+Washington,Precinct 413,Judge Ct of Crim App Pl 9,,,Over Votes,0,0,0,0
+Washington,Precinct 413,Judge Ct of Crim App Pl 9,,,Under Votes,34,3,18,13
+Washington,Precinct 413,Member State BoE Dist 10,,REP,Tom Maynard,593,44,400,149
+Washington,Precinct 413,Member State BoE Dist 10,,DEM,Marsha Burnett-Webster,87,21,57,9
+Washington,Precinct 413,Member State BoE Dist 10,,LIB,Trip Seibold,15,2,5,8
+Washington,Precinct 413,Member State BoE Dist 10,,,Over Votes,0,0,0,0
+Washington,Precinct 413,Member State BoE Dist 10,,,Under Votes,20,1,14,5
+Washington,Precinct 413,State Senate,18,REP,Lois W. Kolkhorst,633,49,423,161
+Washington,Precinct 413,State Senate,18,DEM,Michael Antalan,74,18,48,8
+Washington,Precinct 413,State Senate,18,,Over Votes,0,0,0,0
+Washington,Precinct 413,State Senate,18,,Under Votes,8,1,5,2
+Washington,Precinct 413,State Representative,13,REP,Ben Leman,630,48,423,159
+Washington,Precinct 413,State Representative,13,,Over Votes,0,0,0,0
+Washington,Precinct 413,State Representative,13,,Under Votes,85,20,53,12
+Washington,Precinct 413,Chief Justice 14th Ct of App Dist,,REP,Tracy Elizabeth Christopher,602,43,403,156
+Washington,Precinct 413,Chief Justice 14th Ct of App Dist,,DEM,Jane Robinson,89,23,56,10
+Washington,Precinct 413,Chief Justice 14th Ct of App Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 413,Chief Justice 14th Ct of App Dist,,,Under Votes,24,2,17,5
+Washington,Precinct 413,Justice 1st Ct of App Dist Pl 3,,REP,Russell Lloyd,606,43,408,155
+Washington,Precinct 413,Justice 1st Ct of App Dist Pl 3,,DEM,Veronica Rivas-Molloy,87,23,54,10
+Washington,Precinct 413,Justice 1st Ct of App Dist Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 413,Justice 1st Ct of App Dist Pl 3,,,Under Votes,22,2,14,6
+Washington,Precinct 413,Justice 1st Ct of App Dist Pl 5,,REP,Terry Adams,612,45,409,158
+Washington,Precinct 413,Justice 1st Ct of App Dist Pl 5,,DEM,Amparo Monique Guerra,80,21,52,7
+Washington,Precinct 413,Justice 1st Ct of App Dist Pl 5,,,Over Votes,0,0,0,0
+Washington,Precinct 413,Justice 1st Ct of App Dist Pl 5,,,Under Votes,23,2,15,6
+Washington,Precinct 413,Justice 14th Ct of App Dist Pl 7,,REP,Ken Wise,611,46,408,157
+Washington,Precinct 413,Justice 14th Ct of App Dist Pl 7,,DEM,"DEM Tamika ""Tami"" Craft",81,20,53,8
+Washington,Precinct 413,Justice 14th Ct of App Dist Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 413,Justice 14th Ct of App Dist Pl 7,,,Under Votes,23,2,15,6
+Washington,Precinct 413,Dist Judge 21st Judicial Dist,,REP,Carson Campbell,639,52,425,162
+Washington,Precinct 413,Dist Judge 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 413,Dist Judge 21st Judicial Dist,,,Under Votes,76,16,51,9
+Washington,Precinct 413,Dist Judge 335th Judicial Dist,,REP,Reva L Towslee Corbett,638,52,425,161
+Washington,Precinct 413,Dist Judge 335th Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 413,Dist Judge 335th Judicial Dist,,,Under Votes,77,16,51,10
+Washington,Precinct 413,Dist Attorney 21st Judicial Dist,,REP,Julie Renken,640,51,425,164
+Washington,Precinct 413,Dist Attorney 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 413,Dist Attorney 21st Judicial Dist,,,Under Votes,75,17,51,7
+Washington,Precinct 413,County Attorney,,REP,Renee Ann Mueller,634,52,422,160
+Washington,Precinct 413,County Attorney,,,Over Votes,0,0,0,0
+Washington,Precinct 413,County Attorney,,,Under Votes,81,16,54,11
+Washington,Precinct 413,Sheriff,,REP,Otto Hanak,630,51,419,160
+Washington,Precinct 413,Sheriff,,,Over Votes,0,0,0,0
+Washington,Precinct 413,Sheriff,,,Under Votes,85,17,57,11
+Washington,Precinct 413,County Tax Assessor-Collector,,REP,Cheryl Tesch Gaskamp,644,54,428,162
+Washington,Precinct 413,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Washington,Precinct 413,County Tax Assessor-Collector,,,Under Votes,71,14,48,9
+Washington,Precinct 413,Constable Pct 4,,REP,Greg Rolling,631,52,417,162
+Washington,Precinct 413,Constable Pct 4,,,Over Votes,0,0,0,0
+Washington,Precinct 413,Constable Pct 4,,,Under Votes,84,16,59,9
+Washington,Precinct 414,Registered Voters,,,,842,,,
+Washington,Precinct 414,Ballots Cast,,,,651,43,523,85
+Washington,Precinct 414,Ballots Cast - Blank,,,,0,0,0,0
+Washington,Precinct 414,President,,REP,Donald J. Trump / Michael R. Pence,557,23,458,76
+Washington,Precinct 414,President,,DEM,Joseph R. Biden / Kamala D. Harris,81,18,56,7
+Washington,Precinct 414,President,,LIB,"Jo Jorgensen / Jeremy ""Spike"" Cohen",8,1,6,1
+Washington,Precinct 414,President,,GRN,Howie Hawkins / Angela Walker,1,0,1,0
+Washington,Precinct 414,President,,,Write-ins,1,0,1,0
+Washington,Precinct 414,President,,,Over Votes,0,0,0,0
+Washington,Precinct 414,President,,,Under Votes,3,1,1,1
+Washington,Precinct 414,U.S. Senate,,REP,John Cornyn,551,25,452,74
+Washington,Precinct 414,U.S. Senate,,DEM,"DEM Mary ""MJ"" Hegar",84,15,60,9
+Washington,Precinct 414,U.S. Senate,,LIB,Kerry Douglas McKennon,4,1,3,0
+Washington,Precinct 414,U.S. Senate,,GRN,David B. Collins,4,1,2,1
+Washington,Precinct 414,U.S. Senate,,,Write-ins,0,0,0,0
+Washington,Precinct 414,U.S. Senate,,,Over Votes,0,0,0,0
+Washington,Precinct 414,U.S. Senate,,,Under Votes,8,1,6,1
+Washington,Precinct 414,U.S. House,10,REP,Michael McCaul,559,25,458,76
+Washington,Precinct 414,U.S. House,10,DEM,Mike Siegel,78,16,55,7
+Washington,Precinct 414,U.S. House,10,LIB,Roy Eriksen,5,2,3,0
+Washington,Precinct 414,U.S. House,10,,Over Votes,1,0,1,0
+Washington,Precinct 414,U.S. House,10,,Under Votes,8,0,6,2
+Washington,Precinct 414,Railroad Commissioner,,REP,"James ""Jim"" Wright",546,25,450,71
+Washington,Precinct 414,Railroad Commissioner,,DEM,Chrysta Castaneda,81,14,57,10
+Washington,Precinct 414,Railroad Commissioner,,LIB,Matt Sterett,7,1,5,1
+Washington,Precinct 414,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",1,1,0,0
+Washington,Precinct 414,Railroad Commissioner,,,Over Votes,1,0,1,0
+Washington,Precinct 414,Railroad Commissioner,,,Under Votes,15,2,10,3
+Washington,Precinct 414,Chief Justice Supreme Court,,REP,Nathan Hecht,549,26,448,75
+Washington,Precinct 414,Chief Justice Supreme Court,,DEM,Amy Clark Meachum,76,13,57,6
+Washington,Precinct 414,Chief Justice Supreme Court,,LIB,Mark Ash,11,2,8,1
+Washington,Precinct 414,Chief Justice Supreme Court,,,Over Votes,0,0,0,0
+Washington,Precinct 414,Chief Justice Supreme Court,,,Under Votes,15,2,10,3
+Washington,Precinct 414,Justice Supreme Court Pl 6,,REP,Jane Bland,559,27,456,76
+Washington,Precinct 414,Justice Supreme Court Pl 6,,DEM,Kathy Cheng,75,14,54,7
+Washington,Precinct 414,Justice Supreme Court Pl 6,,,Over Votes,0,0,0,0
+Washington,Precinct 414,Justice Supreme Court Pl 6,,,Under Votes,17,2,13,2
+Washington,Precinct 414,Justice Supreme Court Pl 7,,REP,Jeff Boyd,551,25,452,74
+Washington,Precinct 414,Justice Supreme Court Pl 7,,DEM,Staci Williams,78,14,57,7
+Washington,Precinct 414,Justice Supreme Court Pl 7,,LIB,William Bryan Strange III,9,1,6,2
+Washington,Precinct 414,Justice Supreme Court Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 414,Justice Supreme Court Pl 7,,,Under Votes,13,3,8,2
+Washington,Precinct 414,Justice Supreme Court Pl 8,,REP,Brett Busby,555,26,455,74
+Washington,Precinct 414,Justice Supreme Court Pl 8,,DEM,Gisela D. Triana,73,14,52,7
+Washington,Precinct 414,Justice Supreme Court Pl 8,,LIB,Tom Oxford,8,1,6,1
+Washington,Precinct 414,Justice Supreme Court Pl 8,,,Over Votes,0,0,0,0
+Washington,Precinct 414,Justice Supreme Court Pl 8,,,Under Votes,15,2,10,3
+Washington,Precinct 414,Judge Ct of Crim App Pl 3,,REP,Bert Richardson,554,26,454,74
+Washington,Precinct 414,Judge Ct of Crim App Pl 3,,DEM,Elizabeth Davis Frizell,82,15,59,8
+Washington,Precinct 414,Judge Ct of Crim App Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 414,Judge Ct of Crim App Pl 3,,,Under Votes,15,2,10,3
+Washington,Precinct 414,Judge Ct of Crim App Pl 4,,REP,Kevin Patrick Yeary,554,27,452,75
+Washington,Precinct 414,Judge Ct of Crim App Pl 4,,DEM,Tina Clinton,76,13,56,7
+Washington,Precinct 414,Judge Ct of Crim App Pl 4,,,Over Votes,0,0,0,0
+Washington,Precinct 414,Judge Ct of Crim App Pl 4,,,Under Votes,21,3,15,3
+Washington,Precinct 414,Judge Ct of Crim App Pl 9,,REP,David Newell,555,26,453,76
+Washington,Precinct 414,Judge Ct of Crim App Pl 9,,DEM,Brandon Birmingham,76,15,55,6
+Washington,Precinct 414,Judge Ct of Crim App Pl 9,,,Over Votes,0,0,0,0
+Washington,Precinct 414,Judge Ct of Crim App Pl 9,,,Under Votes,20,2,15,3
+Washington,Precinct 414,Member State BoE Dist 10,,REP,Tom Maynard,543,25,447,71
+Washington,Precinct 414,Member State BoE Dist 10,,DEM,Marsha Burnett-Webster,82,15,58,9
+Washington,Precinct 414,Member State BoE Dist 10,,LIB,Trip Seibold,9,1,6,2
+Washington,Precinct 414,Member State BoE Dist 10,,,Over Votes,0,0,0,0
+Washington,Precinct 414,Member State BoE Dist 10,,,Under Votes,17,2,12,3
+Washington,Precinct 414,State Senate,18,REP,Lois W. Kolkhorst,566,27,463,76
+Washington,Precinct 414,State Senate,18,DEM,Michael Antalan,72,14,51,7
+Washington,Precinct 414,State Senate,18,,Over Votes,0,0,0,0
+Washington,Precinct 414,State Senate,18,,Under Votes,13,2,9,2
+Washington,Precinct 414,State Representative,13,REP,Ben Leman,568,31,463,74
+Washington,Precinct 414,State Representative,13,,Over Votes,0,0,0,0
+Washington,Precinct 414,State Representative,13,,Under Votes,83,12,60,11
+Washington,Precinct 414,Chief Justice 14th Ct of App Dist,,REP,Tracy Elizabeth Christopher,550,25,454,71
+Washington,Precinct 414,Chief Justice 14th Ct of App Dist,,DEM,Jane Robinson,81,15,58,8
+Washington,Precinct 414,Chief Justice 14th Ct of App Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 414,Chief Justice 14th Ct of App Dist,,,Under Votes,20,3,11,6
+Washington,Precinct 414,Justice 1st Ct of App Dist Pl 3,,REP,Russell Lloyd,554,26,455,73
+Washington,Precinct 414,Justice 1st Ct of App Dist Pl 3,,DEM,Veronica Rivas-Molloy,77,14,56,7
+Washington,Precinct 414,Justice 1st Ct of App Dist Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 414,Justice 1st Ct of App Dist Pl 3,,,Under Votes,20,3,12,5
+Washington,Precinct 414,Justice 1st Ct of App Dist Pl 5,,REP,Terry Adams,559,27,459,73
+Washington,Precinct 414,Justice 1st Ct of App Dist Pl 5,,DEM,Amparo Monique Guerra,74,14,52,8
+Washington,Precinct 414,Justice 1st Ct of App Dist Pl 5,,,Over Votes,0,0,0,0
+Washington,Precinct 414,Justice 1st Ct of App Dist Pl 5,,,Under Votes,18,2,12,4
+Washington,Precinct 414,Justice 14th Ct of App Dist Pl 7,,REP,Ken Wise,554,27,453,74
+Washington,Precinct 414,Justice 14th Ct of App Dist Pl 7,,DEM,"DEM Tamika ""Tami"" Craft",79,14,58,7
+Washington,Precinct 414,Justice 14th Ct of App Dist Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 414,Justice 14th Ct of App Dist Pl 7,,,Under Votes,18,2,12,4
+Washington,Precinct 414,Dist Judge 21st Judicial Dist,,REP,Carson Campbell,576,33,469,74
+Washington,Precinct 414,Dist Judge 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 414,Dist Judge 21st Judicial Dist,,,Under Votes,75,10,54,11
+Washington,Precinct 414,Dist Judge 335th Judicial Dist,,REP,Reva L Towslee Corbett,580,33,471,76
+Washington,Precinct 414,Dist Judge 335th Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 414,Dist Judge 335th Judicial Dist,,,Under Votes,71,10,52,9
+Washington,Precinct 414,Dist Attorney 21st Judicial Dist,,REP,Julie Renken,574,33,465,76
+Washington,Precinct 414,Dist Attorney 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 414,Dist Attorney 21st Judicial Dist,,,Under Votes,77,10,58,9
+Washington,Precinct 414,County Attorney,,REP,Renee Ann Mueller,572,33,464,75
+Washington,Precinct 414,County Attorney,,,Over Votes,0,0,0,0
+Washington,Precinct 414,County Attorney,,,Under Votes,79,10,59,10
+Washington,Precinct 414,Sheriff,,REP,Otto Hanak,573,33,464,76
+Washington,Precinct 414,Sheriff,,,Over Votes,0,0,0,0
+Washington,Precinct 414,Sheriff,,,Under Votes,78,10,59,9
+Washington,Precinct 414,County Tax Assessor-Collector,,REP,Cheryl Tesch Gaskamp,577,32,469,76
+Washington,Precinct 414,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Washington,Precinct 414,County Tax Assessor-Collector,,,Under Votes,74,11,54,9
+Washington,Precinct 414,Constable Pct 4,,REP,Greg Rolling,564,33,458,73
+Washington,Precinct 414,Constable Pct 4,,,Over Votes,0,0,0,0
+Washington,Precinct 414,Constable Pct 4,,,Under Votes,87,10,65,12
+Washington,Precinct 418,Registered Voters,,,,691,,,
+Washington,Precinct 418,Ballots Cast,,,,453,35,353,65
+Washington,Precinct 418,Ballots Cast - Blank,,,,0,0,0,0
+Washington,Precinct 418,President,,REP,Donald J. Trump / Michael R. Pence,301,12,249,40
+Washington,Precinct 418,President,,DEM,Joseph R. Biden / Kamala D. Harris,140,21,98,21
+Washington,Precinct 418,President,,LIB,"Jo Jorgensen / Jeremy ""Spike"" Cohen",6,0,3,3
+Washington,Precinct 418,President,,GRN,Howie Hawkins / Angela Walker,0,0,0,0
+Washington,Precinct 418,President,,,Write-ins,3,2,1,0
+Washington,Precinct 418,President,,,Over Votes,1,0,0,1
+Washington,Precinct 418,President,,,Under Votes,2,0,2,0
+Washington,Precinct 418,U.S. Senate,,REP,John Cornyn,302,13,247,42
+Washington,Precinct 418,U.S. Senate,,DEM,"DEM Mary ""MJ"" Hegar",130,20,93,17
+Washington,Precinct 418,U.S. Senate,,LIB,Kerry Douglas McKennon,8,0,5,3
+Washington,Precinct 418,U.S. Senate,,GRN,David B. Collins,2,2,0,0
+Washington,Precinct 418,U.S. Senate,,,Write-ins,0,0,0,0
+Washington,Precinct 418,U.S. Senate,,,Over Votes,1,0,0,1
+Washington,Precinct 418,U.S. Senate,,,Under Votes,10,0,8,2
+Washington,Precinct 418,U.S. House,10,REP,Michael McCaul,311,13,258,40
+Washington,Precinct 418,U.S. House,10,DEM,Mike Siegel,119,19,79,21
+Washington,Precinct 418,U.S. House,10,LIB,Roy Eriksen,9,2,5,2
+Washington,Precinct 418,U.S. House,10,,Over Votes,0,0,0,0
+Washington,Precinct 418,U.S. House,10,,Under Votes,14,1,11,2
+Washington,Precinct 418,Railroad Commissioner,,REP,"James ""Jim"" Wright",294,9,245,40
+Washington,Precinct 418,Railroad Commissioner,,DEM,Chrysta Castaneda,125,21,86,18
+Washington,Precinct 418,Railroad Commissioner,,LIB,Matt Sterett,9,0,6,3
+Washington,Precinct 418,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",5,3,1,1
+Washington,Precinct 418,Railroad Commissioner,,,Over Votes,0,0,0,0
+Washington,Precinct 418,Railroad Commissioner,,,Under Votes,20,2,15,3
+Washington,Precinct 418,Chief Justice Supreme Court,,REP,Nathan Hecht,290,10,241,39
+Washington,Precinct 418,Chief Justice Supreme Court,,DEM,Amy Clark Meachum,131,21,90,20
+Washington,Precinct 418,Chief Justice Supreme Court,,LIB,Mark Ash,9,1,5,3
+Washington,Precinct 418,Chief Justice Supreme Court,,,Over Votes,0,0,0,0
+Washington,Precinct 418,Chief Justice Supreme Court,,,Under Votes,23,3,17,3
+Washington,Precinct 418,Justice Supreme Court Pl 6,,REP,Jane Bland,302,10,252,40
+Washington,Precinct 418,Justice Supreme Court Pl 6,,DEM,Kathy Cheng,124,22,81,21
+Washington,Precinct 418,Justice Supreme Court Pl 6,,,Over Votes,0,0,0,0
+Washington,Precinct 418,Justice Supreme Court Pl 6,,,Under Votes,27,3,20,4
+Washington,Precinct 418,Justice Supreme Court Pl 7,,REP,Jeff Boyd,297,9,249,39
+Washington,Precinct 418,Justice Supreme Court Pl 7,,DEM,Staci Williams,124,22,83,19
+Washington,Precinct 418,Justice Supreme Court Pl 7,,LIB,William Bryan Strange III,10,2,5,3
+Washington,Precinct 418,Justice Supreme Court Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 418,Justice Supreme Court Pl 7,,,Under Votes,22,2,16,4
+Washington,Precinct 418,Justice Supreme Court Pl 8,,REP,Brett Busby,300,10,249,41
+Washington,Precinct 418,Justice Supreme Court Pl 8,,DEM,Gisela D. Triana,120,22,78,20
+Washington,Precinct 418,Justice Supreme Court Pl 8,,LIB,Tom Oxford,12,1,9,2
+Washington,Precinct 418,Justice Supreme Court Pl 8,,,Over Votes,0,0,0,0
+Washington,Precinct 418,Justice Supreme Court Pl 8,,,Under Votes,21,2,17,2
+Washington,Precinct 418,Judge Ct of Crim App Pl 3,,REP,Bert Richardson,300,10,249,41
+Washington,Precinct 418,Judge Ct of Crim App Pl 3,,DEM,Elizabeth Davis Frizell,125,23,83,19
+Washington,Precinct 418,Judge Ct of Crim App Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 418,Judge Ct of Crim App Pl 3,,,Under Votes,28,2,21,5
+Washington,Precinct 418,Judge Ct of Crim App Pl 4,,REP,Kevin Patrick Yeary,295,10,245,40
+Washington,Precinct 418,Judge Ct of Crim App Pl 4,,DEM,Tina Clinton,127,23,84,20
+Washington,Precinct 418,Judge Ct of Crim App Pl 4,,,Over Votes,0,0,0,0
+Washington,Precinct 418,Judge Ct of Crim App Pl 4,,,Under Votes,31,2,24,5
+Washington,Precinct 418,Judge Ct of Crim App Pl 9,,REP,David Newell,299,10,250,39
+Washington,Precinct 418,Judge Ct of Crim App Pl 9,,DEM,Brandon Birmingham,123,22,82,19
+Washington,Precinct 418,Judge Ct of Crim App Pl 9,,,Over Votes,0,0,0,0
+Washington,Precinct 418,Judge Ct of Crim App Pl 9,,,Under Votes,31,3,21,7
+Washington,Precinct 418,Member State BoE Dist 10,,REP,Tom Maynard,287,10,239,38
+Washington,Precinct 418,Member State BoE Dist 10,,DEM,Marsha Burnett-Webster,129,22,87,20
+Washington,Precinct 418,Member State BoE Dist 10,,LIB,Trip Seibold,12,1,7,4
+Washington,Precinct 418,Member State BoE Dist 10,,,Over Votes,0,0,0,0
+Washington,Precinct 418,Member State BoE Dist 10,,,Under Votes,25,2,20,3
+Washington,Precinct 418,State Senate,18,REP,Lois W. Kolkhorst,322,12,264,46
+Washington,Precinct 418,State Senate,18,DEM,Michael Antalan,111,22,73,16
+Washington,Precinct 418,State Senate,18,,Over Votes,0,0,0,0
+Washington,Precinct 418,State Senate,18,,Under Votes,20,1,16,3
+Washington,Precinct 418,State Representative,13,REP,Ben Leman,327,13,263,51
+Washington,Precinct 418,State Representative,13,,Over Votes,0,0,0,0
+Washington,Precinct 418,State Representative,13,,Under Votes,126,22,90,14
+Washington,Precinct 418,Chief Justice 14th Ct of App Dist,,REP,Tracy Elizabeth Christopher,298,10,248,40
+Washington,Precinct 418,Chief Justice 14th Ct of App Dist,,DEM,Jane Robinson,123,23,81,19
+Washington,Precinct 418,Chief Justice 14th Ct of App Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 418,Chief Justice 14th Ct of App Dist,,,Under Votes,32,2,24,6
+Washington,Precinct 418,Justice 1st Ct of App Dist Pl 3,,REP,Russell Lloyd,297,10,248,39
+Washington,Precinct 418,Justice 1st Ct of App Dist Pl 3,,DEM,Veronica Rivas-Molloy,125,23,82,20
+Washington,Precinct 418,Justice 1st Ct of App Dist Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 418,Justice 1st Ct of App Dist Pl 3,,,Under Votes,31,2,23,6
+Washington,Precinct 418,Justice 1st Ct of App Dist Pl 5,,REP,Terry Adams,299,10,249,40
+Washington,Precinct 418,Justice 1st Ct of App Dist Pl 5,,DEM,Amparo Monique Guerra,124,23,81,20
+Washington,Precinct 418,Justice 1st Ct of App Dist Pl 5,,,Over Votes,0,0,0,0
+Washington,Precinct 418,Justice 1st Ct of App Dist Pl 5,,,Under Votes,30,2,23,5
+Washington,Precinct 418,Justice 14th Ct of App Dist Pl 7,,REP,Ken Wise,300,9,250,41
+Washington,Precinct 418,Justice 14th Ct of App Dist Pl 7,,DEM,"DEM Tamika ""Tami"" Craft",122,22,81,19
+Washington,Precinct 418,Justice 14th Ct of App Dist Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 418,Justice 14th Ct of App Dist Pl 7,,,Under Votes,31,4,22,5
+Washington,Precinct 418,Dist Judge 21st Judicial Dist,,REP,Carson Campbell,332,13,266,53
+Washington,Precinct 418,Dist Judge 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 418,Dist Judge 21st Judicial Dist,,,Under Votes,121,22,87,12
+Washington,Precinct 418,Dist Judge 335th Judicial Dist,,REP,Reva L Towslee Corbett,332,14,265,53
+Washington,Precinct 418,Dist Judge 335th Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 418,Dist Judge 335th Judicial Dist,,,Under Votes,121,21,88,12
+Washington,Precinct 418,Dist Attorney 21st Judicial Dist,,REP,Julie Renken,336,14,269,53
+Washington,Precinct 418,Dist Attorney 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 418,Dist Attorney 21st Judicial Dist,,,Under Votes,117,21,84,12
+Washington,Precinct 418,County Attorney,,REP,Renee Ann Mueller,333,14,266,53
+Washington,Precinct 418,County Attorney,,,Over Votes,0,0,0,0
+Washington,Precinct 418,County Attorney,,,Under Votes,120,21,87,12
+Washington,Precinct 418,Sheriff,,REP,Otto Hanak,327,14,261,52
+Washington,Precinct 418,Sheriff,,,Over Votes,0,0,0,0
+Washington,Precinct 418,Sheriff,,,Under Votes,126,21,92,13
+Washington,Precinct 418,County Tax Assessor-Collector,,REP,Cheryl Tesch Gaskamp,334,14,269,51
+Washington,Precinct 418,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Washington,Precinct 418,County Tax Assessor-Collector,,,Under Votes,119,21,84,14
+Washington,Precinct 418,Constable Pct 4,,REP,Greg Rolling,323,14,257,52
+Washington,Precinct 418,Constable Pct 4,,,Over Votes,0,0,0,0
+Washington,Precinct 418,Constable Pct 4,,,Under Votes,130,21,96,13
+Washington,Precinct 419,Registered Voters,,,,562,,,
+Washington,Precinct 419,Ballots Cast,,,,403,47,318,38
+Washington,Precinct 419,Ballots Cast - Blank,,,,0,0,0,0
+Washington,Precinct 419,President,,REP,Donald J. Trump / Michael R. Pence,284,22,237,25
+Washington,Precinct 419,President,,DEM,Joseph R. Biden / Kamala D. Harris,110,24,74,12
+Washington,Precinct 419,President,,LIB,"Jo Jorgensen / Jeremy ""Spike"" Cohen",5,0,5,0
+Washington,Precinct 419,President,,GRN,Howie Hawkins / Angela Walker,2,1,1,0
+Washington,Precinct 419,President,,,Write-ins,0,0,0,0
+Washington,Precinct 419,President,,,Over Votes,1,0,0,1
+Washington,Precinct 419,President,,,Under Votes,1,0,1,0
+Washington,Precinct 419,U.S. Senate,,REP,John Cornyn,281,22,234,25
+Washington,Precinct 419,U.S. Senate,,DEM,"DEM Mary ""MJ"" Hegar",107,24,72,11
+Washington,Precinct 419,U.S. Senate,,LIB,Kerry Douglas McKennon,6,0,6,0
+Washington,Precinct 419,U.S. Senate,,GRN,David B. Collins,1,0,1,0
+Washington,Precinct 419,U.S. Senate,,,Write-ins,0,0,0,0
+Washington,Precinct 419,U.S. Senate,,,Over Votes,0,0,0,0
+Washington,Precinct 419,U.S. Senate,,,Under Votes,8,1,5,2
+Washington,Precinct 419,U.S. House,10,REP,Michael McCaul,284,24,232,28
+Washington,Precinct 419,U.S. House,10,DEM,Mike Siegel,101,22,71,8
+Washington,Precinct 419,U.S. House,10,LIB,Roy Eriksen,11,0,11,0
+Washington,Precinct 419,U.S. House,10,,Over Votes,0,0,0,0
+Washington,Precinct 419,U.S. House,10,,Under Votes,7,1,4,2
+Washington,Precinct 419,Railroad Commissioner,,REP,"James ""Jim"" Wright",272,23,224,25
+Washington,Precinct 419,Railroad Commissioner,,DEM,Chrysta Castaneda,103,23,70,10
+Washington,Precinct 419,Railroad Commissioner,,LIB,Matt Sterett,11,0,11,0
+Washington,Precinct 419,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",3,0,2,1
+Washington,Precinct 419,Railroad Commissioner,,,Over Votes,0,0,0,0
+Washington,Precinct 419,Railroad Commissioner,,,Under Votes,14,1,11,2
+Washington,Precinct 419,Chief Justice Supreme Court,,REP,Nathan Hecht,270,21,227,22
+Washington,Precinct 419,Chief Justice Supreme Court,,DEM,Amy Clark Meachum,111,25,73,13
+Washington,Precinct 419,Chief Justice Supreme Court,,LIB,Mark Ash,7,0,6,1
+Washington,Precinct 419,Chief Justice Supreme Court,,,Over Votes,0,0,0,0
+Washington,Precinct 419,Chief Justice Supreme Court,,,Under Votes,15,1,12,2
+Washington,Precinct 419,Justice Supreme Court Pl 6,,REP,Jane Bland,280,22,232,26
+Washington,Precinct 419,Justice Supreme Court Pl 6,,DEM,Kathy Cheng,106,24,74,8
+Washington,Precinct 419,Justice Supreme Court Pl 6,,,Over Votes,0,0,0,0
+Washington,Precinct 419,Justice Supreme Court Pl 6,,,Under Votes,17,1,12,4
+Washington,Precinct 419,Justice Supreme Court Pl 7,,REP,Jeff Boyd,272,22,225,25
+Washington,Precinct 419,Justice Supreme Court Pl 7,,DEM,Staci Williams,108,24,75,9
+Washington,Precinct 419,Justice Supreme Court Pl 7,,LIB,William Bryan Strange III,9,0,7,2
+Washington,Precinct 419,Justice Supreme Court Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 419,Justice Supreme Court Pl 7,,,Under Votes,14,1,11,2
+Washington,Precinct 419,Justice Supreme Court Pl 8,,REP,Brett Busby,277,22,230,25
+Washington,Precinct 419,Justice Supreme Court Pl 8,,DEM,Gisela D. Triana,104,23,71,10
+Washington,Precinct 419,Justice Supreme Court Pl 8,,LIB,Tom Oxford,8,0,7,1
+Washington,Precinct 419,Justice Supreme Court Pl 8,,,Over Votes,0,0,0,0
+Washington,Precinct 419,Justice Supreme Court Pl 8,,,Under Votes,14,2,10,2
+Washington,Precinct 419,Judge Ct of Crim App Pl 3,,REP,Bert Richardson,278,22,232,24
+Washington,Precinct 419,Judge Ct of Crim App Pl 3,,DEM,Elizabeth Davis Frizell,110,23,76,11
+Washington,Precinct 419,Judge Ct of Crim App Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 419,Judge Ct of Crim App Pl 3,,,Under Votes,15,2,10,3
+Washington,Precinct 419,Judge Ct of Crim App Pl 4,,REP,Kevin Patrick Yeary,275,21,228,26
+Washington,Precinct 419,Judge Ct of Crim App Pl 4,,DEM,Tina Clinton,107,24,74,9
+Washington,Precinct 419,Judge Ct of Crim App Pl 4,,,Over Votes,0,0,0,0
+Washington,Precinct 419,Judge Ct of Crim App Pl 4,,,Under Votes,21,2,16,3
+Washington,Precinct 419,Judge Ct of Crim App Pl 9,,REP,David Newell,280,22,232,26
+Washington,Precinct 419,Judge Ct of Crim App Pl 9,,DEM,Brandon Birmingham,103,22,72,9
+Washington,Precinct 419,Judge Ct of Crim App Pl 9,,,Over Votes,0,0,0,0
+Washington,Precinct 419,Judge Ct of Crim App Pl 9,,,Under Votes,20,3,14,3
+Washington,Precinct 419,Member State BoE Dist 10,,REP,Tom Maynard,270,22,222,26
+Washington,Precinct 419,Member State BoE Dist 10,,DEM,Marsha Burnett-Webster,107,24,73,10
+Washington,Precinct 419,Member State BoE Dist 10,,LIB,Trip Seibold,11,0,11,0
+Washington,Precinct 419,Member State BoE Dist 10,,,Over Votes,0,0,0,0
+Washington,Precinct 419,Member State BoE Dist 10,,,Under Votes,15,1,12,2
+Washington,Precinct 419,State Senate,18,REP,Lois W. Kolkhorst,308,23,257,28
+Washington,Precinct 419,State Senate,18,DEM,Michael Antalan,91,23,59,9
+Washington,Precinct 419,State Senate,18,,Over Votes,0,0,0,0
+Washington,Precinct 419,State Senate,18,,Under Votes,4,1,2,1
+Washington,Precinct 419,State Representative,13,REP,Ben Leman,313,28,256,29
+Washington,Precinct 419,State Representative,13,,Over Votes,0,0,0,0
+Washington,Precinct 419,State Representative,13,,Under Votes,90,19,62,9
+Washington,Precinct 419,Chief Justice 14th Ct of App Dist,,REP,Tracy Elizabeth Christopher,274,21,227,26
+Washington,Precinct 419,Chief Justice 14th Ct of App Dist,,DEM,Jane Robinson,109,25,74,10
+Washington,Precinct 419,Chief Justice 14th Ct of App Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 419,Chief Justice 14th Ct of App Dist,,,Under Votes,20,1,17,2
+Washington,Precinct 419,Justice 1st Ct of App Dist Pl 3,,REP,Russell Lloyd,276,22,229,25
+Washington,Precinct 419,Justice 1st Ct of App Dist Pl 3,,DEM,Veronica Rivas-Molloy,109,22,76,11
+Washington,Precinct 419,Justice 1st Ct of App Dist Pl 3,,,Over Votes,0,0,0,0
+Washington,Precinct 419,Justice 1st Ct of App Dist Pl 3,,,Under Votes,18,3,13,2
+Washington,Precinct 419,Justice 1st Ct of App Dist Pl 5,,REP,Terry Adams,284,23,234,27
+Washington,Precinct 419,Justice 1st Ct of App Dist Pl 5,,DEM,Amparo Monique Guerra,104,22,73,9
+Washington,Precinct 419,Justice 1st Ct of App Dist Pl 5,,,Over Votes,0,0,0,0
+Washington,Precinct 419,Justice 1st Ct of App Dist Pl 5,,,Under Votes,15,2,11,2
+Washington,Precinct 419,Justice 14th Ct of App Dist Pl 7,,REP,Ken Wise,277,23,229,25
+Washington,Precinct 419,Justice 14th Ct of App Dist Pl 7,,DEM,"DEM Tamika ""Tami"" Craft",110,22,77,11
+Washington,Precinct 419,Justice 14th Ct of App Dist Pl 7,,,Over Votes,0,0,0,0
+Washington,Precinct 419,Justice 14th Ct of App Dist Pl 7,,,Under Votes,16,2,12,2
+Washington,Precinct 419,Dist Judge 21st Judicial Dist,,REP,Carson Campbell,329,32,265,32
+Washington,Precinct 419,Dist Judge 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 419,Dist Judge 21st Judicial Dist,,,Under Votes,74,15,53,6
+Washington,Precinct 419,Dist Judge 335th Judicial Dist,,REP,Reva L Towslee Corbett,324,31,261,32
+Washington,Precinct 419,Dist Judge 335th Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 419,Dist Judge 335th Judicial Dist,,,Under Votes,79,16,57,6
+Washington,Precinct 419,Dist Attorney 21st Judicial Dist,,REP,Julie Renken,330,33,265,32
+Washington,Precinct 419,Dist Attorney 21st Judicial Dist,,,Over Votes,0,0,0,0
+Washington,Precinct 419,Dist Attorney 21st Judicial Dist,,,Under Votes,73,14,53,6
+Washington,Precinct 419,County Attorney,,REP,Renee Ann Mueller,322,31,261,30
+Washington,Precinct 419,County Attorney,,,Over Votes,0,0,0,0
+Washington,Precinct 419,County Attorney,,,Under Votes,81,16,57,8
+Washington,Precinct 419,Sheriff,,REP,Otto Hanak,313,29,255,29
+Washington,Precinct 419,Sheriff,,,Over Votes,0,0,0,0
+Washington,Precinct 419,Sheriff,,,Under Votes,90,18,63,9
+Washington,Precinct 419,County Tax Assessor-Collector,,REP,Cheryl Tesch Gaskamp,326,31,266,29
+Washington,Precinct 419,County Tax Assessor-Collector,,,Over Votes,0,0,0,0
+Washington,Precinct 419,County Tax Assessor-Collector,,,Under Votes,77,16,52,9
+Washington,Precinct 419,Constable Pct 4,,REP,Greg Rolling,317,30,259,28
+Washington,Precinct 419,Constable Pct 4,,,Over Votes,0,0,0,0
+Washington,Precinct 419,Constable Pct 4,,,Under Votes,86,17,59,10
+Washington,Burton ISD,Registered Voters,,,,0,,,
