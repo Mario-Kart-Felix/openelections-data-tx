@@ -1,0 +1,49 @@
+Note the use of ‘c’ in our statement for generating y. c is a local macro generated from args c and
+thus refers to the first argument supplied to hetero1. If we want c = 3 for our experiment, we type
+. simulate _b _se, reps(10000): hetero1 3
+(output omitted )
+Our program hetero1 could, however, be more efficient because it rereads the file truth once
+every replication. It would be better if we could read the data just once. In fact, if we read in the data
+right before running simulate, we really should not have to reread for each subsequent replication.
+A faster version reads
+program hetero2
+version 17.0
+args c
+capture drop y
+generate y = true_y + (rnormal() + ‘c’*x)
+regress y x
+end
+Requiring that the current dataset has the variables true y and x may become inconvenient.
+Another improvement would be to require that the user supply variable names, such as in
+program hetero3
+version 17.0
+args truey x c
+capture drop y
+generate y = ‘truey’ + (rnormal() + ‘c’*‘x’)
+regress y x
+end
+Thus, we can type
+. simulate _b _se, reps(10000): hetero3 true_y x 3
+(output omitted )
+Example 3: Simulating a ratio of statistics
+Now, let’s consider the problem of simulating the ratio of two medians. Suppose that each sample
+of size ni comes from a normal population with a mean µi and standard deviation σi
+, where i = 1, 2.
+We write the program below and save it as a text file called myratio.ado (see [U] 17 Ado-files).
+Our program is an rclass command that requires six arguments as input, identified by the local
+macros n1, mu1, sigma1, n2, mu2, and sigma2, which correspond to n1, µ1, σ1, n2, µ2, and
+σ2, respectively. With these arguments, myratio will generate the data for the two samples, use
+summarize to compute the two medians and store the ratio of the medians in r(ratio).
+program myratio, rclass
+version 17.0
+args n1 mu1 sigma1 n2 mu2 sigma2
+// generate the data
+drop _all
+local N = ‘n1’+‘n2’
+set obs ‘N’
+tempvar y
+generate ‘y’ = rnormal()
+replace ‘y’ = cond(_n<=‘n1’,‘mu1’+‘y’*‘sigma1’,‘mu2’+‘y’*‘sigma2’)
+// calculate the medians
+tempname m1
+summarize ‘y’ if _n<=‘n1’, detail
