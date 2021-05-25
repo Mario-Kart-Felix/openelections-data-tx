@@ -1,0 +1,39 @@
+We can obtain final results, running our simulation 1,000 times, by typing
+. set seed 48901
+. simulate med=r(mean) bs_se=r(sd), reps(1000): bsse
+Command: bsse
+med: r(mean)
+bs_se: r(sd)
+Simulations (1,000)
+1 2 3 4 5
+.................................................. 50
+.................................................. 100
+.................................................. 150
+.................................................. 200
+.................................................. 250
+.................................................. 300
+.................................................. 350
+.................................................. 400
+.................................................. 450
+.................................................. 500
+.................................................. 550
+.................................................. 600
+.................................................. 650
+.................................................. 700
+.................................................. 750
+.................................................. 800
+.................................................. 850
+.................................................. 900
+.................................................. 950
+.................................................. 1,000
+. summarize
+Variable Obs Mean Std. dev. Min Max
+med 1,000 -.0013359 .1221602 -.3795549 .3656219
+bs_se 1,000 .1278773 .0303109 .0614031 .2484805
+This is a case where the simulation dots (drawn by default, unless the nodots option is specified)
+will give us an idea of how long this simulation will take to finish as it runs.
+References
+Cameron, A. C., and P. K. Trivedi. 2010. Microeconometrics Using Stata. Rev. ed. College Station, TX: Stata Press.
+Hilbe, J. M. 2010. Creating synthetic discrete-response regression models. Stata Journal 10: 104–124.
+Taylor, M. A. 2018. Simulating the central limit theorem. Stata Journal 18: 345–356.
+White, I. R. 2010. simsum: Analyses of simulation studies including Monte Carlo error. Stata Journal 10: 369–385.
