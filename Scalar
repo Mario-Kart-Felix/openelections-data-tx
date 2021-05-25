@@ -1,0 +1,39 @@
+scalar ‘m2’ = r(p50)
+summarize ‘y’ if _n>‘n1’, detail
+// store the results
+return scalar ratio = ‘m1’ / r(p50)
+end
+The result of running our simulation is
+. set seed 19192
+. simulate ratio=r(ratio), reps(1000) nodots: myratio 5 3 1 10 3 2
+Command: myratio 5 3 1 10 3 2
+ratio: r(ratio)
+. summarize
+Variable Obs Mean Std. dev. Min Max
+ratio 1,000 1.10875 .5219166 .3606606 9.857285
+Technical note
+Stata lets us do simulations of simulations and simulations of bootstraps. Stata’s bootstrap
+command (see [R] bootstrap) works much like simulate, except that it feeds the user-written
+program a bootstrap sample. Say that we want to evaluate the bootstrap estimator of the standard
+error of the median when applied to lognormally distributed data. We want to perform a simulation,
+resulting in a dataset of medians and bootstrap estimated standard errors.
+As background, summarize (see [R] summarize) calculates summary statistics, leaving the mean
+in r(mean) and the standard deviation in r(sd). summarize with the detail option also calculates
+summary statistics, but more of them, and leaves the median in r(p50).
+Thus, our plan is to perform simulations by randomly drawing a dataset: we calculate the median
+of our random sample, we use bootstrap to obtain a dataset of medians calculated from bootstrap
+samples of our random sample, the standard deviation of those medians is our estimate of the standard
+error, and the summary statistics are stored in the results of summarize.
+Our simulator is
+program define bsse, rclass
+version 17.0
+drop _all
+set obs 100
+generate x = rnormal()
+tempfile bsfile
+bootstrap midp=r(p50), rep(100) saving(‘bsfile’): summarize x, detail
+use ‘bsfile’, clear
+summarize midp
+return scalar mean = r(mean)
+return scalar sd = r(sd)
+end
