@@ -1,0 +1,32 @@
+Title stata.com
+simulate — Monte Carlo simulations
+Description Quick start Syntax Options
+Remarks and examples References Also see
+Description
+simulate eases the programming task of performing Monte Carlo–type simulations. Typing
+. simulate exp list, reps(#): command
+runs command for # replications and collects the results in exp list.
+command defines the command that performs one simulation. Most Stata commands and user-
+written programs can be used with simulate, as long as they follow standard Stata syntax; see
+[U] 11 Language syntax. The by prefix may not be part of command.
+exp list specifies the expression to be calculated from the execution of command. If no expressions
+are given, exp list assumes a default, depending upon whether command changes results in e() or
+r(). If command changes results in e(), the default is b. If command changes results in r() (but
+not e()), the default is all the scalars posted to r(). It is an error not to specify an expression in
+exp list otherwise.
+Quick start
+Simple program for use with simulate
+Define program myreg to generate data and fit a linear regression
+program myreg, eclass
+drop _all
+set obs 25
+generate x = rnormal()
+generate y = 3*x + 1 + rnormal()
+regress y x
+end
+Perform simulation
+Record coefficients and SEs from 1,000 simulated replications of program myreg
+simulate _b _se, reps(1000): myreg
+As above, and set random-number seed to 5,762 for reproducible results
+simulate _b _se, reps(1000) seed(5762): myreg
+1
