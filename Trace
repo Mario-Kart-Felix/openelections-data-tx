@@ -1,0 +1,45 @@
+trace causes a trace of the execution of command to be displayed. This option implies the noisily
+option.
+saving( filename-
+
+, suboptions 
+) creates a Stata data file (.dta file) consisting of (for each statistic
+in exp list) a variable containing the replicates.
+double specifies that the results for each replication be saved as doubles, meaning 8-byte reals.
+By default, they are saved as floats, meaning 4-byte reals.
+every(#) specifies that results be written to disk every #th replication. every() should be specified
+only in conjunction with saving() when command takes a long time for each replication.
+This will allow recovery of partial results should some other software crash your computer.
+See [P] postfile.
+replace specifies that filename be overwritten if it exists.
+nolegend suppresses display of the table legend. The table legend identifies the rows of the table
+with the expressions they represent.
+verbose requests that the full table legend be displayed. By default, coefficients and standard errors
+are not displayed.
+seed(#) sets the random-number seed. Specifying this option is equivalent to typing the following
+command before calling simulate:
+. set seed #
+Remarks and examples stata.com
+For an introduction to Monte Carlo methods, see Cameron and Trivedi (2010, chap. 4). White (2010)
+provides a command for analyzing results of simulation studies.
+Example 1: Simulating basic summary statistics
+We have a dataset containing means and variances of 100-observation samples from a lognormal
+distribution (as a first step in evaluating, say, the coverage of a 95%, t-based confidence interval).
+Then we perform the experiment 1,000 times.
+The following command definition will generate 100 independent observations from a lognormal
+distribution and compute the summary statistics for this sample.
+program lnsim, rclass
+version 17.0
+drop _all
+set obs 100
+generate z = exp(rnormal())
+summarize z
+return scalar mean = r(mean)
+return scalar Var = r(Var)
+end
+We can save 1,000 simulated means and variances from lnsim by typing
+. set seed 1234
+. simulate mean=r(mean) var=r(Var), reps(1000) nodots: lnsim
+Command: lnsim
+mean: r(mean)
+var: r(Var)
