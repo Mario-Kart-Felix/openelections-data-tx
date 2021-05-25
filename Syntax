@@ -1,0 +1,45 @@
+Syntax
+simulate -
+
+exp list 
+, reps(#)
+-
+
+options 
+: command
+options Description
+nodots suppress replication dots
+dots(#) display dots every # replications
+noisily display any output from command
+trace trace command
+saving( filename, . . .) save results to filename
+nolegend suppress table legend
+verbose display the full table legend
+seed(#) set random-number seed to #
+All weight types supported by command are allowed; see [U] 11.1.6 weight.
+exp list contains (name: elist)
+elist
+eexp
+elist contains newvar = (exp)
+(exp)
+eexp is specname
+[eqno]specname
+specname is b
+b[]
+se
+se[]
+eqno is # #
+name
+exp is a standard Stata expression; see [U] 13 Functions and expressions.
+Distinguish between [ ], which are to be typed, and -
+ , which indicate optional arguments.
+Options
+reps(#) is required—it specifies the number of replications to be performed.
+nodots and dots(#) specify whether to display replication dots. By default, one dot character is
+displayed for each successful replication. A red ‘x’ is displayed if command returns an error or if
+any value in exp list is missing. You can also control whether dots are displayed using set dots;
+see [R] set.
+nodots suppresses display of the replication dots.
+dots(#) displays dots every # replications. dots(0) is a synonym for nodots.
+noisily requests that any output from command be displayed. This option implies the nodots
+option.
