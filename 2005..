@@ -1,0 +1,135 @@
+2005 Special Election Block Data
+
+Below you will find 2010 census block data for the 2005 special election.
+
+
+
+Year
+2005
+Election
+Primary Election
+General Election
+Special Election
+Dataset
+Block Level Election Data
+Block Level Registration Data
+2010 Census Block to Precinct Conversion Files
+ 	PR_73	PR_74	PR_75	PR_76	PR_77	PR_78	PR_79	PR_80	Race
+California
+Statewide	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	N/A
+COUNTY 001
+Alameda	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 003
+Alpine	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 005
+Amador	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 007
+Butte	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 009
+Calaveras	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 011
+Colusa	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 013
+Contra costa	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 015
+Del norte	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 017
+El dorado	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 019
+Fresno	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 021
+Glenn	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 023
+Humboldt	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 025
+Imperial	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 027
+Inyo	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 029
+Kern	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 031
+Kings	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 033
+Lake	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 035
+Lassen	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 037
+Los angeles	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 039
+Madera	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 041
+Marin	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 043
+Mariposa	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 045
+Mendocino	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 047
+Merced	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 049
+Modoc	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 051
+Mono	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 053
+Monterey	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 055
+Napa	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 057
+Nevada	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 059
+Orange	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 061
+Placer	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 063
+Plumas	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 065
+Riverside	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 067
+Sacramento	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 069
+San benito	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 071
+San bernardino	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 073
+San diego	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 075
+San francisco	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 077
+San joaquin	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 079
+San luis obispo	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 081
+San mateo	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 083
+Santa barbara	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 085
+Santa clara	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 087
+Santa cruz	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 089
+Shasta	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 091
+Sierra	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 093
+Siskiyou	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 095
+Solano	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 097
+Sonoma	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 099
+Stanislaus	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 101
+Sutter	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 103
+Tehama	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 105
+Trinity	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 107
+Tulare	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 109
+Tuolumne	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 111
+Ventura	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 113
+Yolo	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
+COUNTY 115
+Yuba	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf	.dbf
