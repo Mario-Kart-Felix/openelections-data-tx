@@ -1,0 +1,6 @@
+eval-after-load "swank-clojure"
+  '(progn
+     (add-to-list 'swank-clojure-classpath
+          "/Users/smcho/.clojure/")
+     (add-to-list 'swank-clojure-classpath
+          "/Users/smcho/.clojure/blah.jar"))
